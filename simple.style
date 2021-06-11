@@ -1,0 +1,12 @@
+fontsAlias:
+    stdFont: Arial
+    stdBold: League Gothic
+
+styles:
+    normal:
+        fontName: stdFont
+        fontSize: 9
+        alignment: TA_LEFT
+
+    title:
+        fontSize: 14

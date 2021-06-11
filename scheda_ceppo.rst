@@ -39,6 +39,8 @@ Questa funzione permette di aggiungere, modificare o rimuovere le sequenze nucle
     :alt: elenco di sequenze
     :width: 100%
 
+La sequenza nucleotidica può essere visualizzata cliccando sul suo codice d'accesso (se fornito) oppure su i primi 10 nucleotidi della sequenza.
+
 
 Aggiungere/modificare una sequenza
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +48,7 @@ Aggiungere/modificare una sequenza
 Premere sul pulsante **Add a new sequence** o sul pulsante **Edit** corrispondente alla sequenza da modificare.
 
 .. image:: sequences2.png
-    :alt: modificareu una sequenza
+    :alt: modificare una sequenza
     :width: 100%
 
 
@@ -64,10 +66,16 @@ Salvare la sequenza premendo il pulsante **Submit sequence**
 Manage attached documents
 ---------------------------------
 
+Questa funzione permette di allegare documenti al ceppo.
+Alcuni tipi di documento sono definiti (**PIC**, **MTA**, **MAA**, **MIRRI ABS related file**, **MIRRI MTA file**) 
+Per caricare un documento di tipo non predefinito scegliere **Other** il sistema richiederà il tipo di documento allegato **Other document type**.
+
+Utilizzare il pulsante **Browse** per scegliere il documento e quindi premere **Upload file** per salvarlo.
 
 
 Manage strain literature
 ---------------------------------
+
 
 
 
