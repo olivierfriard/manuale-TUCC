@@ -27,7 +27,7 @@ I ceppi sono visibili secondo il livello di privileggio.
 
 I risultati sono presentati in una tabella con 4 colonne: **Accession number**, **Genus**, **Specific epithet**, **Varietas / Forma Specialis**
 
-Il codice d'accesso è un link che permette di aprire la `scheda ceppo`_  
+Il codice d'accesso è un link che permette di aprire la `scheda ceppo`_
 
 
 
@@ -67,14 +67,13 @@ Menù Admin
 Web service version
 -------------------------------------
 
-Questa funzione visualizza la versione del web service 
+Questa funzione visualizza la versione del web service
 
 
 Web site analytics
 ---------------------------------------
 
 Questa voce permette di acceddere a statistiche di accesso del web service TUCC
-
 
 
 
