@@ -88,6 +88,9 @@ Scheda ceppo
 Pagina Super admin
 =========================
 
+.. include:: super_admin.rst
+
+
 
 Elenco dei campi
 =========================
