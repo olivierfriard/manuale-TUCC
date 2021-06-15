@@ -112,8 +112,8 @@ La specie può essere modificata premendo sul pulsante **Edit**.
 Le modifiche apportate alla specie saranno applicate a tutti i ceppi di quella specie.
 
 
-.. image:: scheda_specie.png
-    :alt: scheda specie
+.. image:: edit_specie.png
+    :alt: modifica una specie
     :width: 100%
 
 
@@ -125,7 +125,8 @@ Select a new species for this strain
 Questa funzione permette di modificare la specie del ceppo.
 
 Digitare i primi carattere del genere e quindi selezionare la specie nell'elenco proposto.
+Premere il pulsante **Submit** per assegnare la nuova specie al ceppo.
 
 .. image:: select_specie.png
     :alt: seleziona una specie
-    :width: 100%
+    :width: 80%
