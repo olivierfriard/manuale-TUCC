@@ -411,7 +411,8 @@ Campo obbligatorio: N
 
 Usare il punto (.) come separatore decimale
 
-Esempio di valori:
+Esempio di valori validi:
+
 * 45.45
 * -20.9
 
@@ -432,7 +433,8 @@ Campo obbligatorio: N
 
 Usare il punto (.) come separatore decimale
 
-Esempio di valori:
+Esempio di valori validi:
+
 * 7.45
 * -20.9
 
@@ -451,7 +453,8 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Esempi di valori:
+Esempi di valori validi:
+
 * 2890
 * 1550
 * -15
@@ -636,7 +639,8 @@ Descrizione del campo:- The recommended growing temperature for the strain. Exam
 Indicare la temperatura raccomandata per la crescita del ceppo in gradi Celsius.
 Usare il punto (.) come separatore decimale. Non immetere l'unità.
 
-Esempi di valori:
+Esempi di valori validi:
+
 * 25
 * 37.5
 
@@ -678,7 +682,8 @@ Campo obbligatorio: N
 Usare il punto (.) come separatore decimale. Non immetere l'unità.
 
 
-Esempi di valori:
+Esempi di valori validi:
+
 * 25
 * 37.5
 
@@ -1270,7 +1275,7 @@ indice del campo: 14
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Alive|Dead
+valori autorizzati: **Not known** **Alive** **Dead**
 
 campo automatico: N
 
@@ -1278,7 +1283,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1289,7 +1294,7 @@ indice del campo: 16
 
 Tipo di campo: multiselect
 
-valori autorizzati:Lyophilisation|Cryopreservation|Agar|Water|Oil|Other
+valori autorizzati: **Lyophilisation** **Cryopreservation** **Agar** **Water** **Oil** **Other**
 
 campo automatico: N
 
@@ -1297,7 +1302,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1325,9 +1330,7 @@ Tube number of lyophilized
 
 indice del campo: 164
 
-Tipo di campo: int
-
-valori autorizzati:
+Tipo di campo: numero intero
 
 campo automatico: N
 
@@ -1335,7 +1338,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Number of tubes of the lyophilized strain
+Descrizione del campo: Number of tubes of the lyophilized strain
 
 
 
@@ -1346,7 +1349,6 @@ indice del campo: 17
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1354,7 +1356,6 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
@@ -1384,7 +1385,6 @@ indice del campo: 18
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1392,7 +1392,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1401,9 +1401,8 @@ Tube number -80
 
 indice del campo: 167
 
-Tipo di campo: int
+Tipo di campo: numero intero
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1411,7 +1410,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1441,7 +1440,6 @@ indice del campo: 166
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1449,7 +1447,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1458,9 +1456,9 @@ Tube number -152
 
 indice del campo: 168
 
-Tipo di campo: int
+Tipo di campo: numero intero
 
-valori autorizzati:
+
 
 campo automatico: N
 
@@ -1468,7 +1466,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1700,22 +1698,6 @@ Campo obbligatorio: N
 
 
 
-Genus_
-----------------------------------------------------------------------------------
-
-indice del campo: 72
-
-Tipo di campo: text
-
-valori autorizzati:
-
-campo automatico: Y
-
-Minimum Data Set: N
-
-Campo obbligatorio: N
-
-\N
 
 
 
@@ -1734,7 +1716,6 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
@@ -1810,7 +1791,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1829,7 +1810,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1848,7 +1829,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1867,7 +1848,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1886,7 +1867,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1905,7 +1886,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1924,7 +1905,6 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
@@ -1943,7 +1923,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1962,7 +1942,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1981,7 +1961,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -2000,7 +1980,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -2019,7 +1999,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -2038,7 +2018,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -2076,7 +2056,12 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Accession numbers of the same strain in other CCs, when known.
+Descrizione del campo: Accession numbers of the same strain in other CCs, when known.
+
+
+Questo campo è compilato automaticamente con il contenuto del campo **Collection and number** (indice 83)
+
+
 
 
 
@@ -2087,7 +2072,7 @@ indice del campo: 201
 
 Tipo di campo: select
 
-valori autorizzati:|1:no restrictions apply|2:for research only|3:for commercial development a special agreement is requested
+valori autorizzati: **1:no restrictions apply** **2:for research only** **3:for commercial development a special agreement is requested**
 
 campo automatico: N
 
@@ -2095,7 +2080,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Report if the strain can be used for commercial development or not.
+Descrizione del campo: Report if the strain can be used for commercial development or not.
 
 
 
@@ -2106,7 +2091,7 @@ indice del campo: 202
 
 Tipo di campo: select
 
-valori autorizzati:1:Not known restrictions under the Nagoya protocol|2:Documents providing proof of legal access and terms of use available at the collection|3:Strain probably in scope, please contact the culture collection
+valori autorizzati:1: **Not known** **restrictions under the Nagoya protocol** **2:Documents providing proof of legal access and terms of use available at the collection** **3:Strain probably in scope, please contact the culture collection**
 
 campo automatico: N
 
@@ -2133,7 +2118,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -2152,7 +2137,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -2163,7 +2148,7 @@ indice del campo: 205
 
 Tipo di campo: select
 
-valori autorizzati:|1:No|2:Yes
+valori autorizzati: **1:No** **2:Yes**
 
 campo automatico: N
 
@@ -2182,7 +2167,7 @@ indice del campo: 251
 
 Tipo di campo: select
 
-valori autorizzati:|1:1|2:2|3:3|4:4
+valori autorizzati: **1:1** **2:2** **3:3** **4:4**
 
 campo automatico: Y
 
@@ -2190,7 +2175,9 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Risk group according to EU Directive 2000/54/EC and its amendments and corrections.
+Descrizione del campo: Risk group according to EU Directive 2000/54/EC and its amendments and corrections.
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
@@ -2201,7 +2188,7 @@ indice del campo: 206
 
 Tipo di campo: select
 
-valori autorizzati:1:BSL-1|2:BSL-2|3:BSL-3|4:BSL-4
+valori autorizzati: **1:BSL-1** **2:BSL-2** **3:BSL-3** **4:BSL-4**
 
 campo automatico: Y
 
@@ -2209,7 +2196,8 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
@@ -2220,7 +2208,7 @@ indice del campo: 207
 
 Tipo di campo: select
 
-valori autorizzati:|1:No|2:Yes
+valori autorizzati: **1:No** **2:Yes**
 
 campo automatico: Y
 
@@ -2228,7 +2216,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
+Descrizione del campo: Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
+
 
 
 
@@ -2239,7 +2231,7 @@ indice del campo: 208
 
 Tipo di campo: select
 
-valori autorizzati:|1:No|2:Yes
+valori autorizzati: **1:No** **2:Yes**
 
 campo automatico: Y
 
@@ -2247,8 +2239,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
+Descrizione del campo: Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
 
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 MIRRI Organism type
@@ -2258,7 +2252,17 @@ indice del campo: 209
 
 Tipo di campo: select
 
-valori autorizzati:|1:Algae|2:Archaea|3:Bacteria|4:Cyanobacteria|5:Filamentous Fungi|6:Phage|7:Plasmid|8:Virus|9:Yeast
+valori autorizzati:
+
+* 1:Algae
+* 2:Archaea
+* 3:Bacteria
+* 4:Cyanobacteria
+* 5:Filamentous Fungi
+* 6:Phage
+* 7:Plasmid
+* 8:Virus
+* 9:Yeast
 
 campo automatico: Y
 
@@ -2267,6 +2271,9 @@ Minimum Data Set: N
 Campo obbligatorio: Y
 
 Descrizione del campo:The type of the resource.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
@@ -2285,7 +2292,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Taxon name including genus, species and variant names, as taken from an authoritative nomenclature reference, including Mycobank for fungi and yeasts, the Prokaryotic Nomenclature Up-to-date for bacteria and archaea, AlgaeBase for algae and cyanobacteria, and ICVT for viruses.
+Descrizione del campo: Taxon name including genus, species and variant names, as taken from an authoritative nomenclature reference, including Mycobank for fungi and yeasts, the Prokaryotic Nomenclature Up-to-date for bacteria and archaea, AlgaeBase for algae and cyanobacteria, and ICVT for viruses.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
@@ -2307,6 +2317,10 @@ Campo obbligatorio: N
 Descrizione del campo:Infrasubspecific names including biovar, chemovar, cultivar, morphovar, pathovar, phagovar, serovar, forma specialis, phase.
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
+
+
+
 
 MIRRI Comment on taxonomy
 ----------------------------------------------------------------------------------
@@ -2315,7 +2329,6 @@ indice del campo: 212
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -2323,7 +2336,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Any comment and/or note on the taxonomy of the strain. It may be used, e.g., for information on new species or revised nomenclatures. It must be used when the Taxon name data field includes a name that is not present in the nomenclature reference.
+Descrizione del campo: Any comment and/or note on the taxonomy of the strain. It may be used, e.g., for information on new species or revised nomenclatures. It must be used when the Taxon name data field includes a name that is not present in the nomenclature reference.
 
 
 
@@ -2334,15 +2347,13 @@ indice del campo: 213
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:For type strains, specify their type (type, neotype, holotype, epitype, etc). A list of allowed values is not defined and this information can be provided as free text. Future improvements of the dataset will likely foresee a list of values.
+Descrizione del campo: For type strains, specify their type (type, neotype, holotype, epitype, etc). A list of allowed values is not defined and this information can be provided as free text. Future improvements of the dataset will likely foresee a list of values.
 
 
 
@@ -2353,15 +2364,13 @@ indice del campo: 214
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Transfers of the strain between isolation and deposit in the CC.
+Descrizione del campo: Transfers of the strain between isolation and deposit in the CC.
 
 
 
@@ -2381,6 +2390,9 @@ Minimum Data Set: N
 Campo obbligatorio: N
 
 Descrizione del campo:Name, institute and town / country of the depositor.
+
+Questo campo è compilato automaticamente con il valore del campo XXX
+
 
 
 
@@ -2410,7 +2422,6 @@ indice del campo: 217
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: Y
 
@@ -2418,7 +2429,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Name, institute and town / country of the collector.
+Descrizione del campo: Name, institute and town / country of the collector.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
@@ -2440,6 +2454,9 @@ Campo obbligatorio: N
 Descrizione del campo:Date when the sample was collected. (YYYY-MM-DD)
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
+
+
 
 MIRRI Isolated by
 ----------------------------------------------------------------------------------
@@ -2448,8 +2465,6 @@ indice del campo: 219
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: Y
 
 Minimum Data Set: N
@@ -2457,6 +2472,9 @@ Minimum Data Set: N
 Campo obbligatorio: N
 
 Descrizione del campo:Name, institute and town / country of the isolator.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
@@ -2478,6 +2496,9 @@ Campo obbligatorio: N
 Descrizione del campo:Date when the strain was isolated from the sample. (YYYY-MM-DD)
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
+
+
 
 MIRRI Date of inclusion in the catalogue
 ----------------------------------------------------------------------------------
@@ -2494,7 +2515,8 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Date when the strain was included in the catalog and/or an accession number was assigned to it.
+Descrizione del campo: Date when the strain was included in the catalog and/or an accession number was assigned to it.
+
 
 
 
@@ -2503,7 +2525,7 @@ MIRRI Tested temperature growth range
 
 indice del campo: 222
 
-Tipo di campo: text
+Tipo di campo: 2 valori decimali separati da un segno meno (-)
 
 valori autorizzati:
 
@@ -2513,8 +2535,16 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:The lowest and the highest temperature at which the strain was tested for growing. Example: 15;35
+Descrizione del campo: The lowest and the highest temperature at which the strain was tested for growing. Example: 15;35
 
+
+Usare il punto (.) come separatore decimale
+
+
+Esempio di valori validi:
+
+* 25-37.5
+* 36-38
 
 
 MIRRI Recommended growth temperature
@@ -2532,7 +2562,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The recomUsare il punto (.) come separatore decimalemended growing temperature for the strain. Example: 24
+Descrizione del campo: The recommended growing temperature for the strain. Example: 24
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
@@ -2551,7 +2584,12 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The medium that is recommend for growing the strain.
+Descrizione del campo: The medium that is recommend for growing the strain.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
+
+
 
 
 
@@ -2562,7 +2600,15 @@ indice del campo: 225
 
 Tipo di campo: multiselect
 
-valori autorizzati:Agar|Cryo|Dry ice|Liquid Culture Medium|Lyo|Oil|Water
+valori autorizzati:
+
+* Agar
+* Cryo
+* Dry ice
+* Liquid Culture Medium
+* Lyo
+* Oil
+* Water
 
 campo automatico: N
 
@@ -2570,7 +2616,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The forms of supply of the strain to users.
+Descrizione del campo: The forms of supply of the strain to users.
 
 
 
@@ -2589,7 +2635,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Unofficial names that are often used for the strain, e.g. in publications, or a name given to the strain by the isolator before its deposit at the collection.
+Descrizione del campo: Unofficial names that are often used for the strain, e.g. in publications, or a name given to the strain by the isolator before its deposit at the collection.
+
+
+Questo campo è compilato automaticamente con il valore del **acronym**
 
 
 
@@ -2598,7 +2647,7 @@ MIRRI Coordinates of geographic origin
 
 indice del campo: 227
 
-Tipo di campo: text
+Tipo di campo: 2 valori decimali separati da un punto virgola (;)
 
 valori autorizzati:
 
@@ -2608,7 +2657,9 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:The geographic coordinates of the location where the sample was collected. (decimal coordinates)
+Descrizione del campo: The geographic coordinates of the location where the sample was collected. (decimal coordinates)
+
+Questo campo è compilato automaticamente con i valori dei campi **latitude** e **longitude**
 
 
 
@@ -2617,9 +2668,7 @@ MIRRI Altitude
 
 indice del campo: 228
 
-Tipo di campo: int
-
-valori autorizzati:
+Tipo di campo: numero intero positivo o negativo
 
 campo automatico: Y
 
@@ -2627,7 +2676,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:The altitude of the location where the sample was collected.
+Descrizione del campo: The altitude of the location where the sample was collected.
+
+
+Questo campo è compilato automaticamente con il valore del campo **altitude**.
+
 
 
 
@@ -2646,7 +2699,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The locality where the sample was collected, defined with the highest possible precision. Example: Altafjorden, Alta, Troms og Finnmark, Norway
+Descrizione del campo: The locality where the sample was collected, defined with the highest possible precision. Example: Altafjorden, Alta, Troms og Finnmark, Norway
+
+
+Questo campo è compilato automaticamente con i valori dei campi **continent**, **country**, **state**, **town**, **place**.
+
 
 
 
@@ -2657,7 +2714,11 @@ indice del campo: 230
 
 Tipo di campo: select
 
-valori autorizzati:0:Not known|1:No|2:Yes
+valori autorizzati:
+
+* 0:Not known
+* 1:No
+* 2:Yes
 
 campo automatico: Y
 
@@ -2665,7 +2726,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Specify whether the strain is a Genetically Modified Organism (GMO).
+Descrizione del campo: Specify whether the strain is a Genetically Modified Organism (GMO).
+
+
+Questo campo è compilato automaticamente con il valore del campo **altitude**.
 
 
 
@@ -2676,8 +2740,6 @@ indice del campo: 231
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
@@ -2685,6 +2747,7 @@ Minimum Data Set: N
 Campo obbligatorio: N
 
 Descrizione del campo:Information on the construction of the GMO.
+
 
 
 
@@ -3009,7 +3072,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Known genomic sequences and related INSDC accession numbers of the strain. According to the resource type, these include, but are not limited to, the nuclear\
+Descrizione del campo: Known genomic sequences and related INSDC accession numbers of the strain. According to the resource type, these include, but are not limited to, the nuclear\
 ribosomal Internal Transcribed Spacer (ITS), the nuclear ribosomal Large\
 SubUnit (LSU) and the 16S rRNA gene. Any further gene or marker that is considered of relevance by the CC, such as Calmodulin (CaM) and β-Tubulin, can be included.
 
@@ -3030,7 +3093,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information on literature linked to the sequences or genome of the strain. Do not include here literature linked to the identification and properties of the\
+Descrizione del campo: Information on literature linked to the sequences or genome of the strain. Do not include here literature linked to the identification and properties of the\
 strain. Include identifiers linking to a separate literature sheet in the same file.\
 For publications indexed by Pubmed or having an official DOI number, collections should provide the relative identifiers, respectively PMIDs and DOIs.
 

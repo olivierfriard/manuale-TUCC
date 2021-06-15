@@ -4,8 +4,14 @@ Guida all'uso del database TUCC
 
 .. sections levels: = - ~ . _
 
+
+Data rilascio: _DATE_
+
+
+
 Menù Collections
 =========================
+
 
 Questo menù permette di accedere alle collezione per eseguire operazioni relative alla collezione selezionata.
 
