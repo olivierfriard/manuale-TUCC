@@ -40,3 +40,6 @@ questo link permette di visualizzare tutti i valori **distinti** del campo selez
 .. image:: distinct_values.png
     :alt: tutti i valori distinti di un campo
     :width: 60%
+
+
+

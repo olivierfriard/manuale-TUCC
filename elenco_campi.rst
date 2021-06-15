@@ -3053,7 +3053,9 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information about the habitat where the species was found provided by using the most specific term(s) of the Ontobiotope ontology of microorganism habitats. Note that this ontology is mainly for bacteria. See the Ontobiotope browser (http://agroportal.lirmm.fr/ontologies/ONTOBIOTOPE?p=classes)
+Descrizione del campo:Information about the habitat where the species was found provided by
+using the most specific term(s) of the Ontobiotope ontology of microorganism habitats.
+Note that this ontology is mainly for bacteria. See the Ontobiotope browser (http://agroportal.lirmm.fr/ontologies/ONTOBIOTOPE?p=classes)
 
 
 
@@ -3072,9 +3074,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo: Known genomic sequences and related INSDC accession numbers of the strain. According to the resource type, these include, but are not limited to, the nuclear\
-ribosomal Internal Transcribed Spacer (ITS), the nuclear ribosomal Large\
-SubUnit (LSU) and the 16S rRNA gene. Any further gene or marker that is considered of relevance by the CC, such as Calmodulin (CaM) and β-Tubulin, can be included.
+Descrizione del campo: Known genomic sequences and related INSDC accession numbers of the strain.
+According to the resource type, these include, but are not limited to, the nuclear ribosomal Internal Transcribed Spacer (ITS),
+the nuclear ribosomal Large SubUnit (LSU) and the 16S rRNA gene.
+Any further gene or marker that is considered of relevance by the CC, such as Calmodulin (CaM) and β-Tubulin, can be included.
 
 
 
