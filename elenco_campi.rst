@@ -987,7 +987,6 @@ indice del campo: 79
 
 Tipo di campo: textarea
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -995,7 +994,8 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Se il ceppo produce tossine indicare quali separate da virgola.
 
 
 
@@ -1014,7 +1014,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1033,7 +1033,8 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Se il ceppo produce tossine allucinogene indicare quali separate da virgola.
 
 
 
@@ -1052,7 +1053,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
+Descrizione del campo: Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
 
 
 
@@ -1063,15 +1064,13 @@ indice del campo: 86
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1090,7 +1089,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
+Descrizione del campo: Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
 
 
 
@@ -1109,7 +1108,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1120,15 +1119,13 @@ indice del campo: 46
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1139,15 +1136,13 @@ indice del campo: 45
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information about applications of the strain.
+Descrizione del campo: Information about applications of the strain.
 
 
 
@@ -1166,7 +1161,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1177,15 +1172,16 @@ indice del campo: 82
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information about plasmids in the strain. It may include plasmid name and type (original plasmid, cloning vehicle, recombinant plasmid), restriction sites, relevant genes (e.g., origin of replication, transposons, promoters, terminators, structural genes).
+Descrizione del campo: Information about plasmids in the strain. It may include plasmid name and type (original plasmid, cloning vehicle, recombinant plasmid), restriction sites, relevant genes (e.g., origin of replication, transposons, promoters, terminators, structural genes).
+
+
+Se il ceppo contiene plasmidi indicare quali
 
 
 
@@ -1204,7 +1200,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
 
 
 
@@ -1223,7 +1219,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+Se il ceppo è stato geneticamente modificato indicare quali modifiche.
 
 
 
@@ -1234,7 +1230,7 @@ indice del campo: 7
 
 Tipo di campo: select
 
-valori autorizzati:|Safe deposit|Free for unrestricted distribution|Not free for unrestricted distribution
+valori autorizzati: **Safe deposit** **Free for unrestricted distribution** **Not free for unrestricted distribution**
 
 campo automatico: N
 
@@ -1242,7 +1238,7 @@ Minimum Data Set: Y
 
 Campo obbligatorio: Y
 
-Descrizione del campo:MDS
+Descrizione del campo:
 
 
 
@@ -1253,7 +1249,6 @@ indice del campo: 68
 
 Tipo di campo: textarea
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1261,26 +1256,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Strain literature
-----------------------------------------------------------------------------------
 
-indice del campo: 59
-
-Tipo di campo: text
-
-valori autorizzati:
-
-campo automatico: Y
-
-Minimum Data Set: N
-
-Campo obbligatorio: N
-
-\N
 
 
 
