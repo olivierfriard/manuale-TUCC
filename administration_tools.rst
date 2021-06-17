@@ -88,11 +88,16 @@ Il privileggio **Administrator** è richiesto.
 Strains quarantine
 ---------------------------------------------------
 
+Questa funzione permette di accedere all'elenco dei depositi richiesti (quarantena)
+
 
 
 
 Species quarantine
 ---------------------------------------------------
+
+
+
 
 
 Export collection
@@ -104,10 +109,16 @@ I ceppi presenti nella collezioni possono essere esportati in un formato Excel (
 Export to MIRRI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+I dati dei ceppi segnati (campo **Export to MIRRI** impostato a **Yes**) sono salvati in un file in formato XLSX (Microsoft-Excel) che può essere direttamente trasmesso a MIRRI.
+
+
 
 
 Export to Microsoft-Excel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I dati dei ceppi sono salvati in un file in formato XLSX (Microsoft-Excel).
+Il file **non** contiene la letteratura, i documenti allegati, le sequenze nucleotidiche e la letteratura legata alle sequenze.
 
 
 
@@ -127,7 +138,8 @@ Iil privileggio **Administrator** è richiesto.
     :alt: cancellare una specie
     :width: 80%
 
-
+Premere il pulsante **Undelete** in corrispondenza del ceppo da ripristinare e dare conferma.
+Il ceppo sarà di nuovo visibile nell'elenco dei ceppi.
 
 
 Super admin

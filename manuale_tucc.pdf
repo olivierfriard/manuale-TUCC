@@ -7,7 +7,7 @@
 endobj
 2 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 15 0 R /XYZ 62.69291 418.4697 0 ] /Rect [ 306.2862 451.1236 368.6709 461.9236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 15 0 R /XYZ 62.69291 388.7697 0 ] /Rect [ 306.2862 451.1236 368.6709 461.9236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 3 0 obj
@@ -106,7 +106,7 @@ Gb"-Voj8C4!se>17:LBI7]2oDUk""?.YrnTJqX40Ft7b5;:1F6()DcO"tCH4JfpW4TVA[KH["4PN,8V<
 endobj
 14 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 188.6006 0 ] /Rect [ 156.0547 427.3197 212.4585 438.1197 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 188.6006 0 ] /Rect [ 156.0547 397.6197 212.4585 408.4197 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
@@ -1279,7 +1279,7 @@ endobj
 endobj
 76 0 obj
 <<
-/Author () /CreationDate (D:20210617173250-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210617173250-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20210617173827-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210617173827-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Guida all'uso del database TUCC) /Trapped /False
 >>
 endobj
@@ -1400,43 +1400,43 @@ endobj
 endobj
 99 0 obj
 <<
-/Dest [ 12 0 R /XYZ 62.69291 237.7855 0 ] /Next 100 0 R /Parent 92 0 R /Prev 98 0 R /Title (Species quarantine)
+/Dest [ 12 0 R /XYZ 62.69291 220.9855 0 ] /Next 100 0 R /Parent 92 0 R /Prev 98 0 R /Title (Species quarantine)
 >>
 endobj
 100 0 obj
 <<
-/Count 2 /Dest [ 12 0 R /XYZ 62.69291 209.5855 0 ] /First 101 0 R /Last 102 0 R /Next 103 0 R /Parent 92 0 R 
+/Count 2 /Dest [ 12 0 R /XYZ 62.69291 192.7855 0 ] /First 101 0 R /Last 102 0 R /Next 103 0 R /Parent 92 0 R 
   /Prev 99 0 R /Title (Export collection)
 >>
 endobj
 101 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Next 102 0 R /Parent 100 0 R /Title (Export to MIRRI)
+/Dest [ 12 0 R /XYZ 62.69291 147.7855 0 ] /Next 102 0 R /Parent 100 0 R /Title (Export to MIRRI)
 >>
 endobj
 102 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 739.5236 0 ] /Parent 100 0 R /Prev 101 0 R /Title (Export to Microsoft-Excel)
+/Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /Parent 100 0 R /Prev 101 0 R /Title (Export to Microsoft-Excel)
 >>
 endobj
 103 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 714.0236 0 ] /Next 104 0 R /Parent 92 0 R /Prev 100 0 R /Title (Create labels for tubes/lyo)
+/Dest [ 15 0 R /XYZ 62.69291 711.9236 0 ] /Next 104 0 R /Parent 92 0 R /Prev 100 0 R /Title (Create labels for tubes/lyo)
 >>
 endobj
 104 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 685.8236 0 ] /Next 105 0 R /Parent 92 0 R /Prev 103 0 R /Title (Deleted entries)
+/Dest [ 15 0 R /XYZ 62.69291 683.7236 0 ] /Next 105 0 R /Parent 92 0 R /Prev 103 0 R /Title (Deleted entries)
 >>
 endobj
 105 0 obj
 <<
-/Dest [ 15 0 R /XYZ 62.69291 498.7197 0 ] /Parent 92 0 R /Prev 104 0 R /Title (Super admin)
+/Dest [ 15 0 R /XYZ 62.69291 469.0197 0 ] /Parent 92 0 R /Prev 104 0 R /Title (Super admin)
 >>
 endobj
 106 0 obj
 <<
-/Count 9 /Dest [ 15 0 R /XYZ 62.69291 415.3197 0 ] /First 107 0 R /Last 115 0 R /Next 116 0 R /Parent 77 0 R 
+/Count 9 /Dest [ 15 0 R /XYZ 62.69291 385.6197 0 ] /First 107 0 R /Last 115 0 R /Next 116 0 R /Parent 77 0 R 
   /Prev 92 0 R /Title (Scheda ceppo)
 >>
 endobj
@@ -2896,7 +2896,7 @@ endstream
 endobj
 286 0 obj
 <<
-/Length 2549
+/Length 3158
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -2970,22 +2970,41 @@ BT 1 0 0 1 0 2.7 Tm 16.2 TL 0 0 0 rg /F1+0 13.5 Tf 16.2 TL (Strains quarantine) 
 Q
 Q
 q
-1 0 0 1 62.69291 221.5855 cm
+1 0 0 1 62.69291 232.9855 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1+0 9 Tf 10.8 TL (Questa funzione permette di accedere all'elenco dei depositi richiesti \(quarantena\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 204.7855 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL 0 0 0 rg /F1+0 13.5 Tf 16.2 TL (Species quarantine) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 193.3855 cm
+1 0 0 1 62.69291 176.5855 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL 0 0 0 rg /F1+0 13.5 Tf 16.2 TL (Export collection) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 176.5855 cm
+1 0 0 1 62.69291 159.7855 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F1+0 9 Tf 10.8 TL (I ceppi presenti nella collezioni possono essere esportati in un formato Excel \(.xlsx\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 134.2855 cm
+q
+BT 1 0 0 1 0 2.25 Tm 13.5 TL /F2 11.25 Tf 0 0 0 rg (Export to MIRRI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 106.6855 cm
+q
+BT 1 0 0 1 0 12.6 Tm .261828 Tw 10.8 TL 0 0 0 rg /F1+0 9 Tf 10.8 TL (I dati dei ceppi segnati \(campo Export to MIRRI impostato a Yes) Tj (\) sono salvati in un file in formato XLSX) Tj T* 0 Tw (\(Microsoft-Excel\) che pu\203 essere direttamente trasmesso a MIRRI.) Tj T* ET
 Q
 Q
  
@@ -2993,87 +3012,93 @@ endstream
 endobj
 287 0 obj
 <<
-/Length 2113
+/Length 2607
 >>
 stream
 1 0 0 1 0 0 cm 
 q
 1 0 0 1 62.69291 751.5236 cm
 q
-BT 1 0 0 1 0 2.25 Tm 13.5 TL /F2 11.25 Tf 0 0 0 rg (Export to MIRRI) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 726.0236 cm
-q
 BT 1 0 0 1 0 2.25 Tm 13.5 TL /F2 11.25 Tf 0 0 0 rg (Export to Microsoft-Excel) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 697.8236 cm
+1 0 0 1 62.69291 723.9236 cm
+q
+BT 1 0 0 1 0 12.6 Tm 2.983894 Tw 10.8 TL 0 0 0 rg /F1+0 9 Tf 10.8 TL (I dati dei ceppi sono salvati in un file in formato XLSX \(Microsoft-Excel\). Il file non contiene la) Tj T* 0 Tw (letteratura, i documenti allegati, le sequenze nucleotidiche e la letteratura legata alle sequenze.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.7236 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL 0 0 0 rg /F1+0 13.5 Tf 16.2 TL (Create labels for tubes/lyo) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 669.6236 cm
+1 0 0 1 62.69291 667.5236 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL 0 0 0 rg /F1+0 13.5 Tf 16.2 TL (Deleted entries) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 642.0236 cm
+1 0 0 1 62.69291 639.9236 cm
 q
 BT 1 0 0 1 0 12.6 Tm 2.021493 Tw 10.8 TL 0 0 0 rg /F1+0 9 Tf 10.8 TL (Questa funzione permette di accedere all'elenco dei ceppi cancellati e di ripristinarli. Iil privileggio) Tj T* 0 Tw (Administrator \202 richiesto.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 109.6819 510.7197 cm
+1 0 0 1 109.6819 508.6197 cm
 q
 375.9118 0 0 125.3039 0 0 cm
 /FormXob.565526e22de8d6a520af0da6cfd82ed1 Do
 Q
 Q
 q
-1 0 0 1 62.69291 482.5197 cm
+1 0 0 1 62.69291 481.0197 cm
+q
+BT 1 0 0 1 0 12.6 Tm .098738 Tw 10.8 TL 0 0 0 rg /F1+0 9 Tf 10.8 TL (Premere il pulsante Undelete in corrispondenza del ceppo da ripristinare e dare conferma. Il ceppo sar\204) Tj T* 0 Tw (di nuovo visibile nell'elenco dei ceppi.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 452.8197 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL 0 0 0 rg /F1+0 13.5 Tf 16.2 TL (Super admin) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 444.1197 cm
+1 0 0 1 62.69291 414.4197 cm
 q
 BT 1 0 0 1 0 23.4 Tm -0.030496 Tw 10.8 TL 0 0 0 rg /F1+0 9 Tf 10.8 TL (Questa funzione permette di accedere a viste speciali sul database come l'elenco dei valori per un o pi\200) Tj T* 0 Tw 2.334278 Tw (campi per tutti i ceppi oppure a tutti i valori distinti per un campo. Il privileggio Administrator \202) Tj T* 0 Tw (richiesto.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 427.3197 cm
+1 0 0 1 62.69291 397.6197 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F1+0 9 Tf 10.8 TL (Riferirsi alla sezione ) Tj 0 0 .501961 rg (super admin) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 396.4197 cm
+1 0 0 1 62.69291 366.7197 cm
 q
 BT 1 0 0 1 0 3.15 Tm 18.9 TL 0 0 0 rg /F1+0 15.75 Tf 18.9 TL (Scheda ceppo) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 379.6197 cm
+1 0 0 1 62.69291 349.9197 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F1+0 9 Tf 10.8 TL (La scheda ceppo visualizza tutti i campi relativi al ceppo selezionato.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 362.8197 cm
+1 0 0 1 62.69291 333.1197 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F1+0 9 Tf 10.8 TL (I campi sono visibili secondo il livello di privileggio) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 346.0197 cm
+1 0 0 1 62.69291 316.3197 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F1+0 9 Tf 10.8 TL (Exempio di scada ceppo:) Tj T* ET
@@ -14331,101 +14356,101 @@ xref
 0000934447 00000 n 
 0000937539 00000 n 
 0000939989 00000 n 
-0000942591 00000 n 
-0000944757 00000 n 
-0000945832 00000 n 
-0000948114 00000 n 
-0000950778 00000 n 
-0000952056 00000 n 
-0000953169 00000 n 
-0000954149 00000 n 
-0000957133 00000 n 
-0000961538 00000 n 
-0000966212 00000 n 
-0000970943 00000 n 
-0000975913 00000 n 
-0000982047 00000 n 
-0000986829 00000 n 
-0000992102 00000 n 
-0000997815 00000 n 
-0001004358 00000 n 
-0001010174 00000 n 
-0001016655 00000 n 
-0001021922 00000 n 
-0001026542 00000 n 
-0001031397 00000 n 
-0001036148 00000 n 
-0001040885 00000 n 
-0001045624 00000 n 
-0001050094 00000 n 
-0001054339 00000 n 
-0001058763 00000 n 
-0001063269 00000 n 
-0001067882 00000 n 
-0001072999 00000 n 
-0001077742 00000 n 
-0001084495 00000 n 
-0001089456 00000 n 
-0001094508 00000 n 
-0001099718 00000 n 
-0001106395 00000 n 
-0001111758 00000 n 
-0001117193 00000 n 
-0001122323 00000 n 
-0001127174 00000 n 
-0001132421 00000 n 
-0001136019 00000 n 
-0001136586 00000 n 
-0001136621 00000 n 
-0001136656 00000 n 
-0001136691 00000 n 
-0001136726 00000 n 
-0001136761 00000 n 
-0001136796 00000 n 
-0001136831 00000 n 
-0001136866 00000 n 
-0001136901 00000 n 
-0001136937 00000 n 
-0001136973 00000 n 
-0001137009 00000 n 
-0001137045 00000 n 
-0001137081 00000 n 
-0001137117 00000 n 
-0001137153 00000 n 
-0001137189 00000 n 
-0001137225 00000 n 
-0001137261 00000 n 
-0001137297 00000 n 
-0001137333 00000 n 
-0001137369 00000 n 
-0001137405 00000 n 
-0001137441 00000 n 
-0001137477 00000 n 
-0001137513 00000 n 
-0001137549 00000 n 
-0001137585 00000 n 
-0001137621 00000 n 
-0001137657 00000 n 
-0001137693 00000 n 
-0001137729 00000 n 
-0001137765 00000 n 
-0001137801 00000 n 
-0001137837 00000 n 
-0001137873 00000 n 
-0001137909 00000 n 
-0001137945 00000 n 
-0001137981 00000 n 
-0001138017 00000 n 
-0001138053 00000 n 
-0001138089 00000 n 
-0001138125 00000 n 
-0001138161 00000 n 
-0001138197 00000 n 
-0001138233 00000 n 
+0000943200 00000 n 
+0000945860 00000 n 
+0000946935 00000 n 
+0000949217 00000 n 
+0000951881 00000 n 
+0000953159 00000 n 
+0000954272 00000 n 
+0000955252 00000 n 
+0000958236 00000 n 
+0000962641 00000 n 
+0000967315 00000 n 
+0000972046 00000 n 
+0000977016 00000 n 
+0000983150 00000 n 
+0000987932 00000 n 
+0000993205 00000 n 
+0000998918 00000 n 
+0001005461 00000 n 
+0001011277 00000 n 
+0001017758 00000 n 
+0001023025 00000 n 
+0001027645 00000 n 
+0001032500 00000 n 
+0001037251 00000 n 
+0001041988 00000 n 
+0001046727 00000 n 
+0001051197 00000 n 
+0001055442 00000 n 
+0001059866 00000 n 
+0001064372 00000 n 
+0001068985 00000 n 
+0001074102 00000 n 
+0001078845 00000 n 
+0001085598 00000 n 
+0001090559 00000 n 
+0001095611 00000 n 
+0001100821 00000 n 
+0001107498 00000 n 
+0001112861 00000 n 
+0001118296 00000 n 
+0001123426 00000 n 
+0001128277 00000 n 
+0001133524 00000 n 
+0001137122 00000 n 
+0001137689 00000 n 
+0001137724 00000 n 
+0001137759 00000 n 
+0001137794 00000 n 
+0001137829 00000 n 
+0001137864 00000 n 
+0001137899 00000 n 
+0001137934 00000 n 
+0001137969 00000 n 
+0001138004 00000 n 
+0001138040 00000 n 
+0001138076 00000 n 
+0001138112 00000 n 
+0001138148 00000 n 
+0001138184 00000 n 
+0001138220 00000 n 
+0001138256 00000 n 
+0001138292 00000 n 
+0001138328 00000 n 
+0001138364 00000 n 
+0001138400 00000 n 
+0001138436 00000 n 
+0001138472 00000 n 
+0001138508 00000 n 
+0001138544 00000 n 
+0001138580 00000 n 
+0001138616 00000 n 
+0001138652 00000 n 
+0001138688 00000 n 
+0001138724 00000 n 
+0001138760 00000 n 
+0001138796 00000 n 
+0001138832 00000 n 
+0001138868 00000 n 
+0001138904 00000 n 
+0001138940 00000 n 
+0001138976 00000 n 
+0001139012 00000 n 
+0001139048 00000 n 
+0001139084 00000 n 
+0001139120 00000 n 
+0001139156 00000 n 
+0001139192 00000 n 
+0001139228 00000 n 
+0001139264 00000 n 
+0001139300 00000 n 
+0001139336 00000 n 
 trailer
 <<
 /ID 
-[<5a172475a3277bf37d0f0252affda2db><5a172475a3277bf37d0f0252affda2db>]
+[<9b7a2f15b1f1192e324b0d495f8f72bc><9b7a2f15b1f1192e324b0d495f8f72bc>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 76 0 R
@@ -14433,5 +14458,5 @@ trailer
 /Size 378
 >>
 startxref
-1138269
+1139372
 %%EOF
