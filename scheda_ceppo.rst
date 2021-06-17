@@ -42,6 +42,7 @@ Questa funzione permette di aggiungere, modificare o rimuovere le sequenze nucle
 La sequenza nucleotidica può essere visualizzata cliccando sul suo codice d'accesso (se fornito) oppure su i primi 10 nucleotidi della sequenza.
 
 
+
 Aggiungere/modificare una sequenza
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -63,6 +64,7 @@ Nel campo **Nucleotide sequence** solo nucleotidi sono accettati. Vedere il `cod
 Salvare la sequenza premendo il pulsante **Submit sequence**
 
 
+
 Manage attached documents
 ---------------------------------
 
@@ -71,6 +73,8 @@ Alcuni tipi di documento sono definiti (**PIC**, **MTA**, **MAA**, **MIRRI ABS r
 Per caricare un documento di tipo non predefinito scegliere **Other** il sistema richiederà il tipo di documento allegato **Other document type**.
 
 Utilizzare il pulsante **Browse** per scegliere il documento e quindi premere **Upload file** per salvarlo.
+
+
 
 
 Manage strain literature

@@ -1,10 +1,12 @@
 .. super admin
 
 
-La pagina **Super admin** permette di accedere a funzioni utili per la manutenzpone del database
+La pagina **Super admin** permette di accedere a funzioni utili per la manutenzpone del database.
+Il privileggio **Administrator** è richiesto.
 
 
-Indexes of field
+
+Database fields
 -------------------------------------------
 
 Questa funzione presenta una tabella contenente tutti i campi della record ceppo.
@@ -43,3 +45,22 @@ questo link permette di visualizzare tutti i valori **distinti** del campo selez
 
 
 
+
+
+View all fields of a strain by accession
+----------------------------------------------------------------------------------
+
+
+Questa funzione permette di visualizzare la scheda ceppo in un modo compatto.
+
+
+.. image:: scheda_ceppo_compatta.png
+    :alt: tutti i campi di un ceppo
+    :width: 60%
+
+
+Per accedere a un ceppo particolare cambiare la URL e immettere il codice d'accesso del ceppo richiesto:
+
+.. image:: url_ceppo.png
+    :alt: URL della scheda ceppo compatta
+    :width: 60%
