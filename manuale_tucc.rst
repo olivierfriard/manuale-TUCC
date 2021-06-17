@@ -97,6 +97,8 @@ Scheda ceppo
 .. include:: scheda_ceppo.rst
 
 
+.. _super admin:
+
 Pagina Super admin
 =========================
 
