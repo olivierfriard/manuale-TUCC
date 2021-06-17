@@ -123,6 +123,12 @@ Questa funzione permette di accedere all'elenco dei ceppi cancellati e di ripris
 Iil privileggio **Administrator** è richiesto.
 
 
+.. image:: deleted_strains.png
+    :alt: cancellare una specie
+    :width: 80%
+
+
+
 
 Super admin
 ---------------------------------------------------
