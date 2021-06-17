@@ -62,7 +62,7 @@ Questa funzione permette di visualizzare la scheda ceppo in un modo compatto.
 
 .. image:: scheda_ceppo_compatta.png
     :alt: tutti i campi di un ceppo
-    :width: 60%
+    :width: 80%
 
 
 Per accedere a un ceppo particolare cambiare la URL e immettere il codice d'accesso del ceppo richiesto:
