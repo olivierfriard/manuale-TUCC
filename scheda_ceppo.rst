@@ -1,10 +1,10 @@
 
 
-La scheda ceppo visualizza tutti i campi relativi al ceppo selezionato.
+La scheda ceppo permette di visualizzare tutti i campi relativi al ceppo selezionato.
 
 I campi sono visibili secondo il livello di privileggio
 
-Exempio di scada ceppo:
+Exempio di scheda ceppo:
 
 .. image:: scheda_ceppo1.png
     :alt: scheda ceppo
