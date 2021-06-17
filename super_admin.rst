@@ -5,6 +5,12 @@ La pagina **Super admin** permette di accedere a funzioni utili per la manutenzp
 Il privileggio **Administrator** è richiesto.
 
 
+.. image:: super_admin.png
+    :alt: pagina super admin
+    :width: 80%
+
+
+
 
 Database fields
 -------------------------------------------
