@@ -1259,7 +1259,7 @@ endobj
 endobj
 74 0 obj
 <<
-/Author () /CreationDate (D:20210617172900-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210617172900-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20210617172945-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210617172945-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Guida all'uso del database TUCC) /Trapped /False
 >>
 endobj
@@ -1474,7 +1474,7 @@ endobj
 endobj
 115 0 obj
 <<
-/Count 2 /Dest [ 26 0 R /XYZ 62.69291 173.9406 0 ] /First 116 0 R /Last 117 0 R /Next 118 0 R /Parent 114 0 R 
+/Count 2 /Dest [ 26 0 R /XYZ 62.69291 266.9188 0 ] /First 116 0 R /Last 117 0 R /Next 118 0 R /Parent 114 0 R 
   /Title (Database fields)
 >>
 endobj
@@ -3333,20 +3333,20 @@ BT 1 0 0 1 0 12.6 Tm 1.857137 Tw 10.8 TL 0 0 0 rg /F1+0 9 Tf 10.8 TL (La pagina 
 Q
 Q
 q
-1 0 0 1 109.6819 185.9406 cm
+1 0 0 1 180.1654 278.9188 cm
 q
-375.9118 0 0 247.9418 0 0 cm
+234.9449 0 0 154.9636 0 0 cm
 /FormXob.6bf52aa61777d86b163a6d822feaf3bb Do
 Q
 Q
 q
-1 0 0 1 62.69291 157.7406 cm
+1 0 0 1 62.69291 250.7188 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL 0 0 0 rg /F1+0 13.5 Tf 16.2 TL (Database fields) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 140.9406 cm
+1 0 0 1 62.69291 233.9188 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F1+0 9 Tf 10.8 TL (Questa funzione presenta una tabella contenente tutti i campi della record ceppo.) Tj T* ET
@@ -14387,7 +14387,7 @@ xref
 trailer
 <<
 /ID 
-[<874fcec3dd1ec2210dd9f3a51c7a5f05><874fcec3dd1ec2210dd9f3a51c7a5f05>]
+[<d8ace924a2e334d3fbb4f8ff98a6d40a><d8ace924a2e334d3fbb4f8ff98a6d40a>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 74 0 R

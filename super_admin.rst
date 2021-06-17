@@ -7,7 +7,7 @@ Il privileggio **Administrator** è richiesto.
 
 .. image:: super_admin.png
     :alt: pagina super admin
-    :width: 80%
+    :width: 50%
 
 
 
