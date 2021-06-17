@@ -83,6 +83,12 @@ Questa voce permette di acceddere a statistiche di accesso del web service TUCC
 
 
 
+Administration tools
+=========================
+
+.. include:: administration_tools.rst
+
+
 .. _scheda ceppo:
 
 Scheda ceppo
@@ -96,6 +102,8 @@ Pagina Super admin
 
 .. include:: super_admin.rst
 
+
+.. _elenco campi:
 
 
 Elenco dei campi
