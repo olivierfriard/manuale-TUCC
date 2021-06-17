@@ -750,7 +750,11 @@ indice del campo: 55
 
 Tipo di campo: select
 
-valori autorizzati: **Not known** **Yes** **No**
+valori autorizzati:
+
+* Not known
+* Yes
+* No
 
 campo automatico: N
 
@@ -787,7 +791,16 @@ indice del campo: 3
 
 Tipo di campo: select
 
-valori autorizzati: **Not known** **Holotype** **Isotype** **Lectotype** **Sintype** **Neotype** **Epitype**
+valori autorizzati:
+
+* Not known
+* Holotype
+* Isotype
+* Lectotype
+* Sintype
+* Neotype
+* Epitype
+
 
 campo automatico: N
 
@@ -806,7 +819,11 @@ indice del campo: 23
 
 Tipo di campo: select
 
-valori autorizzati: **Not known** **Yes** **No**
+valori autorizzati:
+
+* Not known
+* Yes
+* No
 
 campo automatico: N
 
@@ -862,7 +879,14 @@ indice del campo: 4
 
 Tipo di campo: select
 
-valori autorizzati: **Not known** **H0** **H1** **H2** **H3**
+valori autorizzati:
+
+* Not known
+* H0
+* H1
+* H2
+* H3
+
 
 campo automatico: N
 
@@ -899,7 +923,12 @@ indice del campo: 21
 
 Tipo di campo: select
 
-valori autorizzati: **Not known** **BSL-1** **BSL-2** **BSL-3**
+valori autorizzati:
+
+* Not known
+* BSL-1
+* BSL-2
+* BSL-3
 
 campo automatico: N
 
@@ -934,7 +963,13 @@ indice del campo: 5
 
 Tipo di campo: select
 
-valori autorizzati: **Not known** **P0** **P1** **P2** **P3**
+valori autorizzati:
+
+* Not known
+* P0
+* P1
+* P2
+* P3
 
 campo automatico: N
 
@@ -973,7 +1008,13 @@ indice del campo: 6
 
 Tipo di campo: select
 
-valori autorizzati: **Not known** **T0** **T1** **T2** **T3**
+valori autorizzati:
+
+* Not known
+* T0
+* T1
+* T2
+* T3
 
 campo automatico: N
 
