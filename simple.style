@@ -1,6 +1,5 @@
 fontsAlias:
     stdFont: Arial
-    stdBold: League Gothic
 
 styles:
     normal:

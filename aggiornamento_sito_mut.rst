@@ -1,11 +1,12 @@
 .. aggiornamento sito MUT
 
 
-Aggiornamento del sito web MUT
-==================================================
 
 
-Il contenuto del sito MUT (`www.tucc-database.unito.it/new_mut <https://www.tucc-database.unito.it/new_mut>`_) è gestito tramite un repository GitHub.
+
+Il contenuto del sito MUT è gestito tramite il seguente repository GitHub:
+
+`www.tucc-database.unito.it/new_mut <https://www.tucc-database.unito.it/new_mut>`_
 
 La procedura per apportare modifiche o aggiunte al sito è costituita da 2 fasi:
 
@@ -34,9 +35,10 @@ La pagina ha l'aspetto seguente, la parte centrale presenta un elenco di file.
     :width: 70%
 
 
+
 * Aprire la cartella **pages** cliccando sopra
 
-La schermata presenta un elenco di file con l'estensione **.rst**.
+La cartella **pages** presenta un elenco di file con l'estensione **.rst**.
 Questi file sono file di testo e possono essere editati direttamente on-line.
 
 .. image:: repository_github3.png

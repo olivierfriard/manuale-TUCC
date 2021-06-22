@@ -1,3 +1,17 @@
+
+
+Di seguito sono elencati i vari campi della tabella ceppi del database:
+
+- **Indice del campo** è un valore ad uso interno, non interessa l'utente che carica i dati dei ceppi
+
+- **tipo di campo** indica il tipo di valore atteso
+
+- **campo automatico** (Y/N) se questo valore è impostato a Y il campo non sarà visibile all'utente.
+
+- **Minimum data Set** (Y/N) se questo valore è impostato a Y il campo è inserito nel Minimum Data Set.
+
+
+
 Accession Number
 ----------------------------------------------------------------------------------
 

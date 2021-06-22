@@ -8,6 +8,9 @@ Guida all'uso del database TUCC
 Data rilascio: _DATE_
 
 
+Questo documento è la guida all'uso per il servizio TUCC database.
+
+
 .. contents:: Table of Contents
    :depth: 1
 
@@ -118,6 +121,7 @@ Elenco dei campi
 .. include:: elenco_campi.rst
 
 
-
+Aggiornamento del sito web MUT
+==================================================
 
 .. include:: aggiornamento_sito_mut.rst
