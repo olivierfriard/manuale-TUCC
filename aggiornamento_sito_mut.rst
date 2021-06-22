@@ -8,7 +8,7 @@ Il contenuto del sito MUT è gestito tramite il seguente repository GitHub:
 
 `www.tucc-database.unito.it/new_mut <https://www.tucc-database.unito.it/new_mut>`_
 
-La procedura per apportare modifiche o aggiunte al sito è costituita da 2 fasi:
+La procedura per apportare modifiche o aggiunte al sito si articola in 2 fasi:
 
 1) Modifica e/o aggiunta del contenuto sul repository GitHub
 
