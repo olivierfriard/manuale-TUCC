@@ -8,6 +8,9 @@ Guida all'uso del database TUCC
 Data rilascio: _DATE_
 
 
+.. contents:: Table of Contents
+   :depth: 1
+
 
 Menù Collections
 =========================
@@ -115,3 +118,6 @@ Elenco dei campi
 .. include:: elenco_campi.rst
 
 
+
+
+.. include:: aggiornamento_sito_mut.rst
