@@ -1,4 +1,18 @@
-Nome del campo: Accession Number
+
+
+Di seguito sono elencati i vari campi della tabella ceppi del database:
+
+- **Indice del campo** è un valore ad uso interno, non interessa l'utente che carica i dati dei ceppi
+
+- **tipo di campo** indica il tipo di valore atteso
+
+- **campo automatico** (Y/N) se questo valore è impostato a Y il campo non sarà visibile all'utente.
+
+- **Minimum data Set** (Y/N) se questo valore è impostato a Y il campo è inserito nel Minimum Data Set.
+
+
+
+Accession Number
 ----------------------------------------------------------------------------------
 
 indice del campo: 1
@@ -16,12 +30,12 @@ Un codice d'accesso già attribuito non sarà più reattribuito anche in caso di
 Per la collezione **MUT** il codice d'accesso comincia con la stringa **MUT**
 
 
-Nome del campo: Accession Date
+Accession Date
 ----------------------------------------------------------------------------------
 
 indice del campo: 2
 
-Tipo di campo: date 
+Tipo di campo: date
 
 valori autorizzati: Gli unici formati di date accettati sono **AAAA-MM-GG**, **AAAA-MM** o **AAAA**
 
@@ -35,7 +49,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Genus
+Genus
 ----------------------------------------------------------------------------------
 
 indice del campo: 8
@@ -54,14 +68,12 @@ Descrizione del campo:MDS
 
 
 
-Nome del campo: Specific epithet
+Specific epithet
 ----------------------------------------------------------------------------------
 
 indice del campo: 9
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -69,19 +81,17 @@ Minimum Data Set: Y
 
 Campo obbligatorio: N
 
-Descrizione del campo: 
+Descrizione del campo:
 
 
 
-Nome del campo: Varietas / Formae Specialis
+Varietas / Formae Specialis
 ----------------------------------------------------------------------------------
 
 indice del campo: 10
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
@@ -92,15 +102,13 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Phylum
+Phylum
 ----------------------------------------------------------------------------------
 
 indice del campo: 60
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
@@ -111,7 +119,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Class
+Class
 ----------------------------------------------------------------------------------
 
 indice del campo: 69
@@ -130,7 +138,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Order
+Order
 ----------------------------------------------------------------------------------
 
 indice del campo: 70
@@ -149,14 +157,12 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Family
+Family
 ----------------------------------------------------------------------------------
 
 indice del campo: 71
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -167,7 +173,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Organism type
+Organism type
 ----------------------------------------------------------------------------------
 
 indice del campo: 73
@@ -186,7 +192,7 @@ Descrizione del campo:
 
 
 
-Nome del campo: Author
+Author
 ----------------------------------------------------------------------------------
 
 indice del campo: 11
@@ -201,20 +207,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo: 
+Descrizione del campo:
 
 
 
 
 
-Nome del campo: Original acronym
+Original acronym
 ----------------------------------------------------------------------------------
 
 indice del campo: 44
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -226,14 +230,12 @@ Descrizione del campo: Unofficial names that are often used for the strain, e.g.
 
 
 
-Nome del campo: Depositor
+Depositor
 ----------------------------------------------------------------------------------
 
 indice del campo: 39
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -245,14 +247,12 @@ Descrizione del campo: Name, institute and town / country of the depositor.
 
 
 
-Nome del campo: Collector
+Collector
 ----------------------------------------------------------------------------------
 
 indice del campo: 37
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -264,7 +264,7 @@ Descrizione del campo: Name, institute and town / country of the collector.
 
 
 
-Nome del campo: Date of collection
+Date of collection
 ----------------------------------------------------------------------------------
 
 indice del campo: 38
@@ -283,14 +283,12 @@ Descrizione del campo: Date when the sample was collected.  Allowed formats: YYY
 
 
 
-Nome del campo: Isolator
+Isolator
 ----------------------------------------------------------------------------------
 
 indice del campo: 31
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -302,7 +300,7 @@ Descrizione del campo: Name, institute and town / country of the isolator.
 
 
 
-Nome del campo: Date of isolation
+Date of isolation
 ----------------------------------------------------------------------------------
 
 indice del campo: 32
@@ -321,14 +319,12 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Original substrate
+Original substrate
 ----------------------------------------------------------------------------------
 
 indice del campo: 33
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -340,14 +336,12 @@ Descrizione del campo: Information about the substrate and the host of isolation
 
 
 
-Nome del campo: Isolation method
+Isolation method
 ----------------------------------------------------------------------------------
 
 indice del campo: 41
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -355,18 +349,16 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo: 
+Descrizione del campo:
 
 
 
-Nome del campo: Habitat (ecological data)
+Habitat (ecological data)
 ----------------------------------------------------------------------------------
 
 indice del campo: 34
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -379,14 +371,12 @@ availability of food and the presence or absence of predators. It may also inclu
 
 
 
-Nome del campo: Geographical origin (country, province, place)
+Geographical origin (country, province, place)
 ----------------------------------------------------------------------------------
 
 indice del campo: 35
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -398,14 +388,12 @@ Descrizione del campo:
 
 
 
-Nome del campo: GPS coordinates
+GPS coordinates
 ----------------------------------------------------------------------------------
 
 indice del campo: 36
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -413,7 +401,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo: 
+Descrizione del campo:
 
 
 Questo campo è presente per motivi di retrocompatibilità con il database MUT.
@@ -421,15 +409,13 @@ NON deve essere compilato.
 
 
 
-Nome del campo: Latitude (decimal)
+Latitude (decimal)
 ----------------------------------------------------------------------------------
 
 indice del campo: 101
 
 Tipo di campo: numero a virgola
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
@@ -439,17 +425,19 @@ Campo obbligatorio: N
 
 Usare il punto (.) come separatore decimale
 
+Esempio di valori validi:
+
+* 45.45
+* -20.9
 
 
-Nome del campo: Longitude (decimal)
+Longitude (decimal)
 ----------------------------------------------------------------------------------
 
 indice del campo: 100
 
 Tipo di campo: numero a virgola
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
@@ -459,9 +447,14 @@ Campo obbligatorio: N
 
 Usare il punto (.) come separatore decimale
 
+Esempio di valori validi:
+
+* 7.45
+* -20.9
 
 
-Nome del campo: Altitude (m)
+
+Altitude (m)
 ----------------------------------------------------------------------------------
 
 indice del campo: 103
@@ -474,11 +467,15 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
+Esempi di valori validi:
+
+* 2890
+* 1550
+* -15
 
 
 
-
-Nome del campo: Continent
+Continent
 ----------------------------------------------------------------------------------
 
 indice del campo: 105
@@ -493,144 +490,130 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-\N
+Questo campo è compilato automaticamente quando l'utente clicca sulla mappa. Può esssere sovrascitto in caso di errore
 
 
-
-Nome del campo: Country
+Country
 ----------------------------------------------------------------------------------
 
 indice del campo: 106
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-\N
+
+Questo campo è compilato automaticamente quando l'utente clicca sulla mappa. Può esssere sovrascitto in caso di errore
 
 
-
-Nome del campo: State
+State
 ----------------------------------------------------------------------------------
 
 indice del campo: 107
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:State or region
+Descrizione del campo: State or region
+
+Questo campo è compilato automaticamente quando l'utente clicca sulla mappa. Può esssere sovrascitto in caso di errore
 
 
-
-Nome del campo: Town
+Town
 ----------------------------------------------------------------------------------
 
 indice del campo: 108
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-\N
+
+Questo campo è compilato automaticamente quando l'utente clicca sulla mappa. Può esssere sovrascitto in caso di errore
 
 
 
-Nome del campo: Place
+Place
 ----------------------------------------------------------------------------------
 
 indice del campo: 109
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+Questo campo è compilato automaticamente quando l'utente clicca sulla mappa. Può esssere sovrascitto in caso di errore
 
 
 
-Nome del campo: Received from (if not name of collector or isolator)
+Received from (if not name of collector or isolator)
 ----------------------------------------------------------------------------------
 
 indice del campo: 43
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Indicare il nome, il cognome, l'istituto (se presente), il comune e paese.
 
 
-
-Nome del campo: Identified by
+Identified by
 ----------------------------------------------------------------------------------
 
 indice del campo: 40
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+Indicare il nome, il cognome, l'istituto (se presente), il comune e paese.
 
 
 
-Nome del campo: Location of herbarum specimen
+Location of herbarum specimen
 ----------------------------------------------------------------------------------
 
 indice del campo: 42
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Growth condition medium
+Growth condition medium
 ----------------------------------------------------------------------------------
 
 indice del campo: 47
@@ -645,18 +628,18 @@ Minimum Data Set: Y
 
 Campo obbligatorio: Y
 
-Descrizione del campo:MDS - The medium that is recommend for growing the strain.
+Descrizione del campo: The medium that is recommend for growing the strain.
 
 
+Indicare il mezzo colturale raccomandato per la crescita del ceppo
 
-Nome del campo: Growth condition temperature
+
+Growth condition temperature
 ----------------------------------------------------------------------------------
 
 indice del campo: 48
 
 Tipo di campo: numero a virgola
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -664,18 +647,25 @@ Minimum Data Set: Y
 
 Campo obbligatorio: Y
 
-Descrizione del campo:MDS - TheUsare il punto (.) come separatore decimale recommended growing temperature for the strain. Example: 24
+Descrizione del campo:- The recommended growing temperature for the strain. Example: 24
+
+
+Indicare la temperatura raccomandata per la crescita del ceppo in gradi Celsius.
+Usare il punto (.) come separatore decimale. Non immetere l'unità.
+
+Esempi di valori validi:
+
+* 25
+* 37.5
 
 
 
-Nome del campo: Sexual sporulation condition medium
+Sexual sporulation condition medium
 ----------------------------------------------------------------------------------
 
 indice del campo: 49
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -683,11 +673,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Sexual sporulation condition temperature
+
+Sexual sporulation condition temperature
 ----------------------------------------------------------------------------------
 
 indice del campo: 50
@@ -702,37 +692,42 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Usare il punto (.) come separatore decimale. Non immetere l'unità.
+
+
+Esempi di valori validi:
+
+* 25
+* 37.5
 
 
 
-Nome del campo: Mating type
+Mating type
 ----------------------------------------------------------------------------------
 
 indice del campo: 51
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Self sporulation
+
+Self sporulation
 ----------------------------------------------------------------------------------
 
 indice del campo: 52
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: N
 
@@ -740,18 +735,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Known method of preservation
+
+Known method of preservation
 ----------------------------------------------------------------------------------
 
 indice del campo: 15
 
 Tipo di campo: multiselect
 
-valori autorizzati:Lyophilisation|Cryopreservation|Agar|Water|Oil|Other
+valori autorizzati: **Lyophilisation** **Cryopreservation** **Agar** **Water** **Oil** **Other**
 
 campo automatico: N
 
@@ -759,37 +754,21 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Please specify
-----------------------------------------------------------------------------------
-
-indice del campo: 91
-
-Tipo di campo: text
-
-valori autorizzati:
-
-campo automatico: Y
-
-Minimum Data Set: N
-
-Campo obbligatorio: N
-
-\N
-
-
-
-Nome del campo: Patented strain
+Patented strain
 ----------------------------------------------------------------------------------
 
 indice del campo: 55
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati:
+
+* Not known
+* Yes
+* No
 
 campo automatico: N
 
@@ -797,37 +776,45 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-\N
+
+Indicare se il ceppo è protetto da brevetto.
 
 
 
-Nome del campo: Patent number
+Patent number
 ----------------------------------------------------------------------------------
 
 indice del campo: 85
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+Se il ceppo è protetto da brevetto indicare il numero del brevetto
 
 
 
-Nome del campo: Type strain
+Type strain
 ----------------------------------------------------------------------------------
 
 indice del campo: 3
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Holotype|Isotype|Lectotype|Sintype|Neotype|Epitype
+valori autorizzati:
+
+* Not known
+* Holotype
+* Isotype
+* Lectotype
+* Sintype
+* Neotype
+* Epitype
+
 
 campo automatico: N
 
@@ -835,18 +822,22 @@ Minimum Data Set: Y
 
 Campo obbligatorio: Y
 
-Descrizione del campo:MDS
+Descrizione del campo:
 
 
 
-Nome del campo: Deposited in other collection
+Deposited in other collection
 ----------------------------------------------------------------------------------
 
 indice del campo: 23
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati:
+
+* Not known
+* Yes
+* No
 
 campo automatico: N
 
@@ -854,56 +845,62 @@ Minimum Data Set: Y
 
 Campo obbligatorio: Y
 
-Descrizione del campo:MDS
+Descrizione del campo:
+
+
+Indicare se il ceppo è stato depositato in una altra collezione
 
 
 
-Nome del campo: Collection and number
+Collection and number
 ----------------------------------------------------------------------------------
 
 indice del campo: 83
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+Se il ceppo è stato depositato in una altra collezione indicare la collezione e il codice d'accesso del ceppo.
 
 
 
-Nome del campo: Additional Data
+Additional Data
 ----------------------------------------------------------------------------------
 
 indice del campo: 96
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Pathogenicity risk for animals and humans
+
+Pathogenicity risk for animals and humans
 ----------------------------------------------------------------------------------
 
 indice del campo: 4
 
 Tipo di campo: select
 
-valori autorizzati:Not known|H0|H1|H2|H3
+valori autorizzati:
+
+* Not known
+* H0
+* H1
+* H2
+* H3
+
 
 campo automatico: N
 
@@ -911,37 +908,41 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Pathogenic for species
+
+Pathogenic for species
 ----------------------------------------------------------------------------------
 
 indice del campo: 80
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+Se il ceppo è patogeno per animali e/o umani indicare le specie seprate da virgola.
 
 
 
-Nome del campo: Safety level
+
+Safety level
 ----------------------------------------------------------------------------------
 
 indice del campo: 21
 
 Tipo di campo: select
 
-valori autorizzati:Not known|BSL-1|BSL-2|BSL-3
+valori autorizzati:
+
+* Not known
+* BSL-1
+* BSL-2
+* BSL-3
 
 campo automatico: N
 
@@ -949,37 +950,40 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Precaution required
+Precaution required
 ----------------------------------------------------------------------------------
 
 indice del campo: 22
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Pathogenicity for vegetals
+
+Pathogenicity for vegetals
 ----------------------------------------------------------------------------------
 
 indice del campo: 5
 
 Tipo di campo: select
 
-valori autorizzati:Not known|P0|P1|P2|P3
+valori autorizzati:
+
+* Not known
+* P0
+* P1
+* P2
+* P3
 
 campo automatico: N
 
@@ -987,11 +991,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Phytopathogenic for species
+
+Phytopathogenic for species
 ----------------------------------------------------------------------------------
 
 indice del campo: 81
@@ -1006,18 +1010,25 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Se il ceppo è patogeno per vegetali indicare le specie seprate da virgola.
 
 
 
-Nome del campo: Toxins production
+Toxins production
 ----------------------------------------------------------------------------------
 
 indice del campo: 6
 
 Tipo di campo: select
 
-valori autorizzati:Not known|T0|T1|T2|T3
+valori autorizzati:
+
+* Not known
+* T0
+* T1
+* T2
+* T3
 
 campo automatico: N
 
@@ -1025,18 +1036,17 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Specify toxins
+
+Specify toxins
 ----------------------------------------------------------------------------------
 
 indice del campo: 79
 
 Tipo di campo: textarea
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1044,18 +1054,19 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Se il ceppo produce tossine indicare quali separate da virgola.
 
 
 
-Nome del campo: Hallucinogenic toxins
+Hallucinogenic toxins
 ----------------------------------------------------------------------------------
 
 indice del campo: 62
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: N
 
@@ -1063,11 +1074,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Specify hallucinogenic
+
+Specify hallucinogenic
 ----------------------------------------------------------------------------------
 
 indice del campo: 63
@@ -1082,18 +1093,19 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Se il ceppo produce tossine allucinogene indicare quali separate da virgola.
 
 
 
-Nome del campo: Quarantine condition
+Quarantine condition
 ----------------------------------------------------------------------------------
 
 indice del campo: 13
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: N
 
@@ -1101,18 +1113,16 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
+Descrizione del campo: Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
 
 
 
-Nome del campo: Specify legislation for quarantine
+Specify legislation for quarantine
 ----------------------------------------------------------------------------------
 
 indice del campo: 86
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -1120,18 +1130,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Dual use organism
+
+Dual use organism
 ----------------------------------------------------------------------------------
 
 indice del campo: 12
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: N
 
@@ -1139,11 +1149,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
+Descrizione del campo: Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
 
 
 
-Nome del campo: Specify legislation for dual use
+Specify legislation for dual use
 ----------------------------------------------------------------------------------
 
 indice del campo: 87
@@ -1158,56 +1168,52 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Biological interactions
+
+Biological interactions
 ----------------------------------------------------------------------------------
 
 indice del campo: 46
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Properties-Application
+
+Properties-Application
 ----------------------------------------------------------------------------------
 
 indice del campo: 45
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information about applications of the strain.
+Descrizione del campo: Information about applications of the strain.
 
 
 
-Nome del campo: Contains plasmides
+Contains plasmides
 ----------------------------------------------------------------------------------
 
 indice del campo: 56
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: N
 
@@ -1215,37 +1221,38 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Specify plasmides
+
+Specify plasmides
 ----------------------------------------------------------------------------------
 
 indice del campo: 82
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information about plasmids in the strain. It may include plasmid name and type (original plasmid, cloning vehicle, recombinant plasmid), restriction sites, relevant genes (e.g., origin of replication, transposons, promoters, terminators, structural genes).
+Descrizione del campo: Information about plasmids in the strain. It may include plasmid name and type (original plasmid, cloning vehicle, recombinant plasmid), restriction sites, relevant genes (e.g., origin of replication, transposons, promoters, terminators, structural genes).
+
+
+Se il ceppo contiene plasmidi indicare quali
 
 
 
-Nome del campo: Genetically modified
+Genetically modified
 ----------------------------------------------------------------------------------
 
 indice del campo: 57
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: N
 
@@ -1253,11 +1260,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Specify modifications
+
+Specify modifications
 ----------------------------------------------------------------------------------
 
 indice del campo: 90
@@ -1272,18 +1279,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+Se il ceppo è stato geneticamente modificato indicare quali modifiche.
 
 
 
-Nome del campo: Kind of deposit
+Kind of deposit
 ----------------------------------------------------------------------------------
 
 indice del campo: 7
 
 Tipo di campo: select
 
-valori autorizzati:|Safe deposit|Free for unrestricted distribution|Not free for unrestricted distribution
+valori autorizzati: **Safe deposit** **Free for unrestricted distribution** **Not free for unrestricted distribution**
 
 campo automatico: N
 
@@ -1291,18 +1298,17 @@ Minimum Data Set: Y
 
 Campo obbligatorio: Y
 
-Descrizione del campo:MDS
+Descrizione del campo:
 
 
 
-Nome del campo: Specify restriction for deposit
+Specify restriction for deposit
 ----------------------------------------------------------------------------------
 
 indice del campo: 68
 
 Tipo di campo: textarea
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1310,37 +1316,21 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Strain literature
-----------------------------------------------------------------------------------
-
-indice del campo: 59
-
-Tipo di campo: text
-
-valori autorizzati:
-
-campo automatico: Y
-
-Minimum Data Set: N
-
-Campo obbligatorio: N
-
-\N
 
 
 
-Nome del campo: Condition
+
+Condition
 ----------------------------------------------------------------------------------
 
 indice del campo: 14
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Alive|Dead
+valori autorizzati: **Not known** **Alive** **Dead**
 
 campo automatico: N
 
@@ -1348,18 +1338,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Mode of preservation
+
+Mode of preservation
 ----------------------------------------------------------------------------------
 
 indice del campo: 16
 
 Tipo di campo: multiselect
 
-valori autorizzati:Lyophilisation|Cryopreservation|Agar|Water|Oil|Other
+valori autorizzati: **Lyophilisation** **Cryopreservation** **Agar** **Water** **Oil** **Other**
 
 campo automatico: N
 
@@ -1367,11 +1357,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Date of lyophilization
+
+Date of lyophilization
 ----------------------------------------------------------------------------------
 
 indice del campo: 29
@@ -1390,14 +1380,12 @@ Descrizione del campo:Allowed formats: YYYY, YYYY-MM, YYYY-MM-DD
 
 
 
-Nome del campo: Tube number of lyophilized
+Tube number of lyophilized
 ----------------------------------------------------------------------------------
 
 indice del campo: 164
 
-Tipo di campo: int
-
-valori autorizzati:
+Tipo di campo: numero intero
 
 campo automatico: N
 
@@ -1405,18 +1393,17 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Number of tubes of the lyophilized strain
+Descrizione del campo: Number of tubes of the lyophilized strain
 
 
 
-Nome del campo: Localisation of lyophilized
+Localisation of lyophilized
 ----------------------------------------------------------------------------------
 
 indice del campo: 17
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1424,11 +1411,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Date of cryopreservation -80
+Date of cryopreservation -80
 ----------------------------------------------------------------------------------
 
 indice del campo: 30
@@ -1447,14 +1433,13 @@ Descrizione del campo:Allowed formats: YYYY, YYYY-MM, YYYY-MM-DD
 
 
 
-Nome del campo: Localisation cryopreserved -80
+Localisation cryopreserved -80
 ----------------------------------------------------------------------------------
 
 indice del campo: 18
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1462,18 +1447,17 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Tube number -80
+
+Tube number -80
 ----------------------------------------------------------------------------------
 
 indice del campo: 167
 
-Tipo di campo: int
+Tipo di campo: numero intero
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1481,11 +1465,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Date of cryopreservation -152
+
+Date of cryopreservation -152
 ----------------------------------------------------------------------------------
 
 indice del campo: 165
@@ -1504,14 +1488,13 @@ Descrizione del campo:Allowed formats: YYYY, YYYY-MM, YYYY-MM-DD
 
 
 
-Nome del campo: Localisation cryopreserved -152
+Localisation cryopreserved -152
 ----------------------------------------------------------------------------------
 
 indice del campo: 166
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -1519,18 +1502,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Tube number -152
+
+Tube number -152
 ----------------------------------------------------------------------------------
 
 indice del campo: 168
 
-Tipo di campo: int
+Tipo di campo: numero intero
 
-valori autorizzati:
+
 
 campo automatico: N
 
@@ -1538,11 +1521,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Last transfert
+
+Last transfert
 ----------------------------------------------------------------------------------
 
 indice del campo: 27
@@ -1561,7 +1544,7 @@ Descrizione del campo:Allowed formats: YYYY, YYYY-MM, YYYY-MM-DD
 
 
 
-Nome del campo: AG specify
+AG specify
 ----------------------------------------------------------------------------------
 
 indice del campo: 88
@@ -1580,7 +1563,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Last check
+Last check
 ----------------------------------------------------------------------------------
 
 indice del campo: 28
@@ -1599,7 +1582,7 @@ Descrizione del campo:Allowed formats: YYYY, YYYY-MM, YYYY-MM-DD
 
 
 
-Nome del campo: Next transfert date
+Next transfert date
 ----------------------------------------------------------------------------------
 
 indice del campo: 95
@@ -1618,7 +1601,7 @@ Descrizione del campo:Allowed formats: YYYY, YYYY-MM, YYYY-MM-DD
 
 
 
-Nome del campo: Form of supply
+Form of supply
 ----------------------------------------------------------------------------------
 
 indice del campo: 19
@@ -1637,14 +1620,14 @@ Descrizione del campo:MDS
 
 
 
-Nome del campo: Restricted item
+Restricted item
 ----------------------------------------------------------------------------------
 
 indice del campo: 20
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: N
 
@@ -1656,7 +1639,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Specify restriction
+Specify restriction
 ----------------------------------------------------------------------------------
 
 indice del campo: 89
@@ -1675,7 +1658,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Additional data and General remarks
+Additional data and General remarks
 ----------------------------------------------------------------------------------
 
 indice del campo: 24
@@ -1694,7 +1677,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: MUT sequences
+MUT sequences
 ----------------------------------------------------------------------------------
 
 indice del campo: 25
@@ -1713,7 +1696,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Deposited MUT sequences
+Deposited MUT sequences
 ----------------------------------------------------------------------------------
 
 indice del campo: 26
@@ -1732,14 +1715,14 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Attached documents type
+Attached documents type
 ----------------------------------------------------------------------------------
 
 indice del campo: 53
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -1751,7 +1734,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Distribution
+Distribution
 ----------------------------------------------------------------------------------
 
 indice del campo: 58
@@ -1770,26 +1753,10 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Genus_
-----------------------------------------------------------------------------------
-
-indice del campo: 72
-
-Tipo di campo: text
-
-valori autorizzati:
-
-campo automatico: Y
-
-Minimum Data Set: N
-
-Campo obbligatorio: N
-
-\N
 
 
 
-Nome del campo: MDS
+MDS
 ----------------------------------------------------------------------------------
 
 indice del campo: 97
@@ -1804,11 +1771,10 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: PIC
+PIC
 ----------------------------------------------------------------------------------
 
 indice del campo: 54
@@ -1827,7 +1793,7 @@ Campo obbligatorio: Y
 
 
 
-Nome del campo: MTA
+MTA
 ----------------------------------------------------------------------------------
 
 indice del campo: 74
@@ -1846,7 +1812,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: MAA
+MAA
 ----------------------------------------------------------------------------------
 
 indice del campo: 75
@@ -1865,7 +1831,7 @@ Campo obbligatorio: N
 
 
 
-Nome del campo: Tossine
+Tossine
 ----------------------------------------------------------------------------------
 
 indice del campo: 76
@@ -1880,11 +1846,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Patogeni
+
+Patogeni
 ----------------------------------------------------------------------------------
 
 indice del campo: 94
@@ -1899,11 +1865,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Other (1)
+
+Other (1)
 ----------------------------------------------------------------------------------
 
 indice del campo: 77
@@ -1918,11 +1884,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Other (2)
+
+Other (2)
 ----------------------------------------------------------------------------------
 
 indice del campo: 78
@@ -1937,18 +1903,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: preservation_lyo
+
+preservation_lyo
 ----------------------------------------------------------------------------------
 
 indice del campo: 150
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -1956,18 +1922,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: preservation_cryo
+
+preservation_cryo
 ----------------------------------------------------------------------------------
 
 indice del campo: 151
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -1975,18 +1941,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: preservation_agar
+
+preservation_agar
 ----------------------------------------------------------------------------------
 
 indice del campo: 152
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -1994,18 +1960,17 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: preservation_water
+preservation_water
 ----------------------------------------------------------------------------------
 
 indice del campo: 153
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -2013,18 +1978,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: preservation_oil
+
+preservation_oil
 ----------------------------------------------------------------------------------
 
 indice del campo: 154
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -2032,18 +1997,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: known_preservation_lyo
+
+known_preservation_lyo
 ----------------------------------------------------------------------------------
 
 indice del campo: 160
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -2051,18 +2016,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: known_preservation_cryo
+
+known_preservation_cryo
 ----------------------------------------------------------------------------------
 
 indice del campo: 161
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -2070,18 +2035,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: known_preservation_agar
+
+known_preservation_agar
 ----------------------------------------------------------------------------------
 
 indice del campo: 162
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -2089,18 +2054,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: known_preservation_water
+
+known_preservation_water
 ----------------------------------------------------------------------------------
 
 indice del campo: 163
 
 Tipo di campo: select
 
-valori autorizzati:Not known|Yes|No
+valori autorizzati: **Not known** **Yes** **No**
 
 campo automatico: Y
 
@@ -2108,11 +2073,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: Export to MIRRI
+
+Export to MIRRI
 ----------------------------------------------------------------------------------
 
 indice del campo: 252
@@ -2131,7 +2096,7 @@ Descrizione del campo:Export this record to MIRRI
 
 
 
-Nome del campo: MIRRI Other culture collection numbers
+MIRRI Other culture collection numbers
 ----------------------------------------------------------------------------------
 
 indice del campo: 200
@@ -2146,18 +2111,23 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Accession numbers of the same strain in other CCs, when known.
+Descrizione del campo: Accession numbers of the same strain in other CCs, when known.
+
+
+Questo campo è compilato automaticamente con il contenuto del campo **Collection and number** (indice 83)
 
 
 
-Nome del campo: MIRRI Restrictions on use
+
+
+MIRRI Restrictions on use
 ----------------------------------------------------------------------------------
 
 indice del campo: 201
 
 Tipo di campo: select
 
-valori autorizzati:|1:no restrictions apply|2:for research only|3:for commercial development a special agreement is requested
+valori autorizzati: **1:no restrictions apply** **2:for research only** **3:for commercial development a special agreement is requested**
 
 campo automatico: N
 
@@ -2165,18 +2135,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Report if the strain can be used for commercial development or not.
+Descrizione del campo: Report if the strain can be used for commercial development or not.
 
 
 
-Nome del campo: MIRRI Nagoya protocol compliance conditions
+MIRRI Nagoya protocol compliance conditions
 ----------------------------------------------------------------------------------
 
 indice del campo: 202
 
 Tipo di campo: select
 
-valori autorizzati:1:Not known restrictions under the Nagoya protocol|2:Documents providing proof of legal access and terms of use available at the collection|3:Strain probably in scope, please contact the culture collection
+valori autorizzati:1: **Not known** **restrictions under the Nagoya protocol** **2:Documents providing proof of legal access and terms of use available at the collection** **3:Strain probably in scope, please contact the culture collection**
 
 campo automatico: N
 
@@ -2188,7 +2158,7 @@ Descrizione del campo:Situation of the strain in relation to the Nagoya protocol
 
 
 
-Nome del campo: MIRRI ABS related files
+MIRRI ABS related files
 ----------------------------------------------------------------------------------
 
 indice del campo: 203
@@ -2203,11 +2173,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: MIRRI MTA file
+
+MIRRI MTA file
 ----------------------------------------------------------------------------------
 
 indice del campo: 204
@@ -2222,18 +2192,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
 
 
 
-Nome del campo: MIRRI Strain from a Registered Collection
+
+MIRRI Strain from a Registered Collection
 ----------------------------------------------------------------------------------
 
 indice del campo: 205
 
 Tipo di campo: select
 
-valori autorizzati:|1:No|2:Yes
+valori autorizzati: **1:No** **2:Yes**
 
 campo automatico: N
 
@@ -2245,14 +2215,14 @@ Descrizione del campo:Strain included in the registered CC according to the EU R
 
 
 
-Nome del campo: MIRRI Risk Group
+MIRRI Risk Group
 ----------------------------------------------------------------------------------
 
 indice del campo: 251
 
 Tipo di campo: select
 
-valori autorizzati:|1:1|2:2|3:3|4:4
+valori autorizzati: **1:1** **2:2** **3:3** **4:4**
 
 campo automatico: Y
 
@@ -2260,18 +2230,20 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Risk group according to EU Directive 2000/54/EC and its amendments and corrections.
+Descrizione del campo: Risk group according to EU Directive 2000/54/EC and its amendments and corrections.
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
-Nome del campo: MIRRI Biosafety level
+MIRRI Biosafety level
 ----------------------------------------------------------------------------------
 
 indice del campo: 206
 
 Tipo di campo: select
 
-valori autorizzati:1:BSL-1|2:BSL-2|3:BSL-3|4:BSL-4
+valori autorizzati: **1:BSL-1** **2:BSL-2** **3:BSL-3** **4:BSL-4**
 
 campo automatico: Y
 
@@ -2279,18 +2251,19 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-\N
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
-Nome del campo: MIRRI Dual use
+MIRRI Dual use
 ----------------------------------------------------------------------------------
 
 indice del campo: 207
 
 Tipo di campo: select
 
-valori autorizzati:|1:No|2:Yes
+valori autorizzati: **1:No** **2:Yes**
 
 campo automatico: Y
 
@@ -2298,18 +2271,22 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
+Descrizione del campo: Specify whether the strain has the potential for a harmful use according to EU Council Regulation 2000/1334/CE and its amendments and corrections.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
-Nome del campo: MIRRI Quarantine in Europe
+
+MIRRI Quarantine in Europe
 ----------------------------------------------------------------------------------
 
 indice del campo: 208
 
 Tipo di campo: select
 
-valori autorizzati:|1:No|2:Yes
+valori autorizzati: **1:No** **2:Yes**
 
 campo automatico: Y
 
@@ -2317,18 +2294,30 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
+Descrizione del campo: Specify whether the strain is subject to quarantine according to European Directive 2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission Implementing Regulation (EU) 2019/2072.
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
 
-Nome del campo: MIRRI Organism type
+
+MIRRI Organism type
 ----------------------------------------------------------------------------------
 
 indice del campo: 209
 
 Tipo di campo: select
 
-valori autorizzati:|1:Algae|2:Archaea|3:Bacteria|4:Cyanobacteria|5:Filamentous Fungi|6:Phage|7:Plasmid|8:Virus|9:Yeast
+valori autorizzati:
+
+* 1:Algae
+* 2:Archaea
+* 3:Bacteria
+* 4:Cyanobacteria
+* 5:Filamentous Fungi
+* 6:Phage
+* 7:Plasmid
+* 8:Virus
+* 9:Yeast
 
 campo automatico: Y
 
@@ -2339,8 +2328,11 @@ Campo obbligatorio: Y
 Descrizione del campo:The type of the resource.
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
 
-Nome del campo: MIRRI Taxon name
+
+
+MIRRI Taxon name
 ----------------------------------------------------------------------------------
 
 indice del campo: 210
@@ -2355,11 +2347,14 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:Taxon name including genus, species and variant names, as taken from an authoritative nomenclature reference, including Mycobank for fungi and yeasts, the Prokaryotic Nomenclature Up-to-date for bacteria and archaea, AlgaeBase for algae and cyanobacteria, and ICVT for viruses.
+Descrizione del campo: Taxon name including genus, species and variant names, as taken from an authoritative nomenclature reference, including Mycobank for fungi and yeasts, the Prokaryotic Nomenclature Up-to-date for bacteria and archaea, AlgaeBase for algae and cyanobacteria, and ICVT for viruses.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
-Nome del campo: MIRRI Infrasubspecific names
+MIRRI Infrasubspecific names
 ----------------------------------------------------------------------------------
 
 indice del campo: 211
@@ -2377,15 +2372,18 @@ Campo obbligatorio: N
 Descrizione del campo:Infrasubspecific names including biovar, chemovar, cultivar, morphovar, pathovar, phagovar, serovar, forma specialis, phase.
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
 
-Nome del campo: MIRRI Comment on taxonomy
+
+
+
+MIRRI Comment on taxonomy
 ----------------------------------------------------------------------------------
 
 indice del campo: 212
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: N
 
@@ -2393,49 +2391,45 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Any comment and/or note on the taxonomy of the strain. It may be used, e.g., for information on new species or revised nomenclatures. It must be used when the Taxon name data field includes a name that is not present in the nomenclature reference.
+Descrizione del campo: Any comment and/or note on the taxonomy of the strain. It may be used, e.g., for information on new species or revised nomenclatures. It must be used when the Taxon name data field includes a name that is not present in the nomenclature reference.
 
 
 
-Nome del campo: MIRRI Status
+MIRRI Status
 ----------------------------------------------------------------------------------
 
 indice del campo: 213
 
 Tipo di campo: textarea
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:For type strains, specify their type (type, neotype, holotype, epitype, etc). A list of allowed values is not defined and this information can be provided as free text. Future improvements of the dataset will likely foresee a list of values.
+Descrizione del campo: For type strains, specify their type (type, neotype, holotype, epitype, etc). A list of allowed values is not defined and this information can be provided as free text. Future improvements of the dataset will likely foresee a list of values.
 
 
 
-Nome del campo: MIRRI History of deposit
+MIRRI History of deposit
 ----------------------------------------------------------------------------------
 
 indice del campo: 214
 
 Tipo di campo: text
 
-valori autorizzati:
-
 campo automatico: N
 
 Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Transfers of the strain between isolation and deposit in the CC.
+Descrizione del campo: Transfers of the strain between isolation and deposit in the CC.
 
 
 
-Nome del campo: MIRRI Depositor
+MIRRI Depositor
 ----------------------------------------------------------------------------------
 
 indice del campo: 215
@@ -2452,9 +2446,12 @@ Campo obbligatorio: N
 
 Descrizione del campo:Name, institute and town / country of the depositor.
 
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
-Nome del campo: MIRRI Date of deposit
+
+
+MIRRI Date of deposit
 ----------------------------------------------------------------------------------
 
 indice del campo: 216
@@ -2473,14 +2470,13 @@ Descrizione del campo:Date when the strain was deposited at the CC (YYYY-MM-DD)
 
 
 
-Nome del campo: MIRRI Collected by
+MIRRI Collected by
 ----------------------------------------------------------------------------------
 
 indice del campo: 217
 
 Tipo di campo: text
 
-valori autorizzati:
 
 campo automatico: Y
 
@@ -2488,11 +2484,14 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Name, institute and town / country of the collector.
+Descrizione del campo: Name, institute and town / country of the collector.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
-Nome del campo: MIRRI Date of collection
+MIRRI Date of collection
 ----------------------------------------------------------------------------------
 
 indice del campo: 218
@@ -2510,15 +2509,16 @@ Campo obbligatorio: N
 Descrizione del campo:Date when the sample was collected. (YYYY-MM-DD)
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
 
-Nome del campo: MIRRI Isolated by
+
+
+MIRRI Isolated by
 ----------------------------------------------------------------------------------
 
 indice del campo: 219
 
 Tipo di campo: text
-
-valori autorizzati:
 
 campo automatico: Y
 
@@ -2529,8 +2529,11 @@ Campo obbligatorio: N
 Descrizione del campo:Name, institute and town / country of the isolator.
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
 
-Nome del campo: MIRRI Date of isolation
+
+
+MIRRI Date of isolation
 ----------------------------------------------------------------------------------
 
 indice del campo: 220
@@ -2548,8 +2551,11 @@ Campo obbligatorio: N
 Descrizione del campo:Date when the strain was isolated from the sample. (YYYY-MM-DD)
 
 
+Questo campo è compilato automaticamente con il valore del campo XXX
 
-Nome del campo: MIRRI Date of inclusion in the catalogue
+
+
+MIRRI Date of inclusion in the catalogue
 ----------------------------------------------------------------------------------
 
 indice del campo: 221
@@ -2564,16 +2570,17 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Date when the strain was included in the catalog and/or an accession number was assigned to it.
+Descrizione del campo: Date when the strain was included in the catalog and/or an accession number was assigned to it.
 
 
 
-Nome del campo: MIRRI Tested temperature growth range
+
+MIRRI Tested temperature growth range
 ----------------------------------------------------------------------------------
 
 indice del campo: 222
 
-Tipo di campo: text
+Tipo di campo: 2 valori decimali separati da un segno meno (-)
 
 valori autorizzati:
 
@@ -2583,11 +2590,19 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:The lowest and the highest temperature at which the strain was tested for growing. Example: 15;35
+Descrizione del campo: The lowest and the highest temperature at which the strain was tested for growing. Example: 15;35
 
 
+Usare il punto (.) come separatore decimale
 
-Nome del campo: MIRRI Recommended growth temperature
+
+Esempio di valori validi:
+
+* 25-37.5
+* 36-38
+
+
+MIRRI Recommended growth temperature
 ----------------------------------------------------------------------------------
 
 indice del campo: 223
@@ -2602,11 +2617,14 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The recomUsare il punto (.) come separatore decimalemended growing temperature for the strain. Example: 24
+Descrizione del campo: The recommended growing temperature for the strain. Example: 24
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
-Nome del campo: MIRRI Recommended medium for growth
+MIRRI Recommended medium for growth
 ----------------------------------------------------------------------------------
 
 indice del campo: 224
@@ -2621,18 +2639,31 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The medium that is recommend for growing the strain.
+Descrizione del campo: The medium that is recommend for growing the strain.
+
+
+Questo campo è compilato automaticamente con il valore del campo XXX
 
 
 
-Nome del campo: MIRRI Form of supply
+
+
+MIRRI Form of supply
 ----------------------------------------------------------------------------------
 
 indice del campo: 225
 
 Tipo di campo: multiselect
 
-valori autorizzati:Agar|Cryo|Dry ice|Liquid Culture Medium|Lyo|Oil|Water
+valori autorizzati:
+
+* Agar
+* Cryo
+* Dry ice
+* Liquid Culture Medium
+* Lyo
+* Oil
+* Water
 
 campo automatico: N
 
@@ -2640,11 +2671,11 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The forms of supply of the strain to users.
+Descrizione del campo: The forms of supply of the strain to users.
 
 
 
-Nome del campo: MIRRI Other denomination
+MIRRI Other denomination
 ----------------------------------------------------------------------------------
 
 indice del campo: 226
@@ -2659,16 +2690,19 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Unofficial names that are often used for the strain, e.g. in publications, or a name given to the strain by the isolator before its deposit at the collection.
+Descrizione del campo: Unofficial names that are often used for the strain, e.g. in publications, or a name given to the strain by the isolator before its deposit at the collection.
+
+
+Questo campo è compilato automaticamente con il valore del **acronym**
 
 
 
-Nome del campo: MIRRI Coordinates of geographic origin
+MIRRI Coordinates of geographic origin
 ----------------------------------------------------------------------------------
 
 indice del campo: 227
 
-Tipo di campo: text
+Tipo di campo: 2 valori decimali separati da un punto virgola (;)
 
 valori autorizzati:
 
@@ -2678,18 +2712,18 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:The geographic coordinates of the location where the sample was collected. (decimal coordinates)
+Descrizione del campo: The geographic coordinates of the location where the sample was collected. (decimal coordinates)
+
+Questo campo è compilato automaticamente con i valori dei campi **latitude** e **longitude**
 
 
 
-Nome del campo: MIRRI Altitude
+MIRRI Altitude
 ----------------------------------------------------------------------------------
 
 indice del campo: 228
 
-Tipo di campo: int
-
-valori autorizzati:
+Tipo di campo: numero intero positivo o negativo
 
 campo automatico: Y
 
@@ -2697,11 +2731,15 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:The altitude of the location where the sample was collected.
+Descrizione del campo: The altitude of the location where the sample was collected.
+
+
+Questo campo è compilato automaticamente con il valore del campo **altitude**.
 
 
 
-Nome del campo: MIRRI Geographic origin
+
+MIRRI Geographic origin
 ----------------------------------------------------------------------------------
 
 indice del campo: 229
@@ -2716,18 +2754,26 @@ Minimum Data Set: N
 
 Campo obbligatorio: Y
 
-Descrizione del campo:The locality where the sample was collected, defined with the highest possible precision. Example: Altafjorden, Alta, Troms og Finnmark, Norway
+Descrizione del campo: The locality where the sample was collected, defined with the highest possible precision. Example: Altafjorden, Alta, Troms og Finnmark, Norway
+
+
+Questo campo è compilato automaticamente con i valori dei campi **continent**, **country**, **state**, **town**, **place**.
 
 
 
-Nome del campo: MIRRI GMO
+
+MIRRI GMO
 ----------------------------------------------------------------------------------
 
 indice del campo: 230
 
 Tipo di campo: select
 
-valori autorizzati:0:Not known|1:No|2:Yes
+valori autorizzati:
+
+* 0:Not known
+* 1:No
+* 2:Yes
 
 campo automatico: Y
 
@@ -2735,18 +2781,19 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Specify whether the strain is a Genetically Modified Organism (GMO).
+Descrizione del campo: Specify whether the strain is a Genetically Modified Organism (GMO).
+
+
+Questo campo è compilato automaticamente con il valore del campo **altitude**.
 
 
 
-Nome del campo: MIRRI GMO construction information
+MIRRI GMO construction information
 ----------------------------------------------------------------------------------
 
 indice del campo: 231
 
 Tipo di campo: textarea
-
-valori autorizzati:
 
 campo automatico: N
 
@@ -2758,7 +2805,8 @@ Descrizione del campo:Information on the construction of the GMO.
 
 
 
-Nome del campo: MIRRI Mutant information
+
+MIRRI Mutant information
 ----------------------------------------------------------------------------------
 
 indice del campo: 232
@@ -2777,7 +2825,7 @@ Descrizione del campo:Information on mutant strains.
 
 
 
-Nome del campo: MIRRI Genotype
+MIRRI Genotype
 ----------------------------------------------------------------------------------
 
 indice del campo: 233
@@ -2796,7 +2844,7 @@ Descrizione del campo:Information on the genotype of the strain.
 
 
 
-Nome del campo: MIRRI Literature
+MIRRI Literature
 ----------------------------------------------------------------------------------
 
 indice del campo: 234
@@ -2815,7 +2863,7 @@ Descrizione del campo:Information on literature linked to the identification and
 
 
 
-Nome del campo: MIRRI Sexual state
+MIRRI Sexual state
 ----------------------------------------------------------------------------------
 
 indice del campo: 235
@@ -2834,7 +2882,7 @@ Descrizione del campo:Information on strain sexual state / mating type, for rele
 
 
 
-Nome del campo: MIRRI Ploidy
+MIRRI Ploidy
 ----------------------------------------------------------------------------------
 
 indice del campo: 236
@@ -2853,7 +2901,7 @@ Descrizione del campo:Information on the ploidy level of the strain.
 
 
 
-Nome del campo: MIRRI Interspecific hybrid
+MIRRI Interspecific hybrid
 ----------------------------------------------------------------------------------
 
 indice del campo: 237
@@ -2872,7 +2920,7 @@ Descrizione del campo:This field reports whether the strain is an interspecific 
 
 
 
-Nome del campo: MIRRI Pathogenicity
+MIRRI Pathogenicity
 ----------------------------------------------------------------------------------
 
 indice del campo: 239
@@ -2892,7 +2940,7 @@ Can include specification for the Belgian plant pathogenicity code.
 
 
 
-Nome del campo: MIRRI Enzyme production
+MIRRI Enzyme production
 ----------------------------------------------------------------------------------
 
 indice del campo: 240
@@ -2911,7 +2959,7 @@ Descrizione del campo:Information about enzyme production by the strain.
 
 
 
-Nome del campo: MIRRI Production of metabolites
+MIRRI Production of metabolites
 ----------------------------------------------------------------------------------
 
 indice del campo: 241
@@ -2930,7 +2978,7 @@ Descrizione del campo:Information about metabolite production by the strain.
 
 
 
-Nome del campo: MIRRI Applications
+MIRRI Applications
 ----------------------------------------------------------------------------------
 
 indice del campo: 242
@@ -2949,7 +2997,7 @@ Descrizione del campo:Information about applications of the strain.
 
 
 
-Nome del campo: MIRRI Remarks
+MIRRI Remarks
 ----------------------------------------------------------------------------------
 
 indice del campo: 243
@@ -2968,7 +3016,7 @@ Descrizione del campo:Any further note that is not present in the other fields.
 
 
 
-Nome del campo: MIRRI Plasmids
+MIRRI Plasmids
 ----------------------------------------------------------------------------------
 
 indice del campo: 244
@@ -2987,7 +3035,7 @@ Descrizione del campo:Information about plasmids in the strain. It may include p
 
 
 
-Nome del campo: MIRRI Plasmids collections fields
+MIRRI Plasmids collections fields
 ----------------------------------------------------------------------------------
 
 indice del campo: 245
@@ -3006,7 +3054,7 @@ Descrizione del campo:Information about availability of strain plasmids in CCs o
 
 
 
-Nome del campo: MIRRI Substrate/host of isolation
+MIRRI Substrate/host of isolation
 ----------------------------------------------------------------------------------
 
 indice del campo: 246
@@ -3025,7 +3073,7 @@ Descrizione del campo:Information about the substrate and the host of isolation 
 
 
 
-Nome del campo: MIRRI Isolation habitat
+MIRRI Isolation habitat
 ----------------------------------------------------------------------------------
 
 indice del campo: 247
@@ -3045,7 +3093,7 @@ availability of food and the presence or absence of predators. It may also inclu
 
 
 
-Nome del campo: MIRRI Ontobiotope term for the isolation habitat
+MIRRI Ontobiotope term for the isolation habitat
 ----------------------------------------------------------------------------------
 
 indice del campo: 248
@@ -3060,11 +3108,13 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information about the habitat where the species was found provided by using the most specific term(s) of the Ontobiotope ontology of microorganism habitats. Note that this ontology is mainly for bacteria. See the Ontobiotope browser (http://agroportal.lirmm.fr/ontologies/ONTOBIOTOPE?p=classes)
+Descrizione del campo:Information about the habitat where the species was found provided by
+using the most specific term(s) of the Ontobiotope ontology of microorganism habitats.
+Note that this ontology is mainly for bacteria. See the Ontobiotope browser (http://agroportal.lirmm.fr/ontologies/ONTOBIOTOPE?p=classes)
 
 
 
-Nome del campo: MIRRI Gene sequences and accession numbers
+MIRRI Gene sequences and accession numbers
 ----------------------------------------------------------------------------------
 
 indice del campo: 249
@@ -3079,13 +3129,14 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Known genomic sequences and related INSDC accession numbers of the strain. According to the resource type, these include, but are not limited to, the nuclear\
-ribosomal Internal Transcribed Spacer (ITS), the nuclear ribosomal Large\
-SubUnit (LSU) and the 16S rRNA gene. Any further gene or marker that is considered of relevance by the CC, such as Calmodulin (CaM) and β-Tubulin, can be included.
+Descrizione del campo: Known genomic sequences and related INSDC accession numbers of the strain.
+According to the resource type, these include, but are not limited to, the nuclear ribosomal Internal Transcribed Spacer (ITS),
+the nuclear ribosomal Large SubUnit (LSU) and the 16S rRNA gene.
+Any further gene or marker that is considered of relevance by the CC, such as Calmodulin (CaM) and β-Tubulin, can be included.
 
 
 
-Nome del campo: MIRRI Literature linked to the sequence/genome
+MIRRI Literature linked to the sequence/genome
 ----------------------------------------------------------------------------------
 
 indice del campo: 250
@@ -3100,7 +3151,7 @@ Minimum Data Set: N
 
 Campo obbligatorio: N
 
-Descrizione del campo:Information on literature linked to the sequences or genome of the strain. Do not include here literature linked to the identification and properties of the\
+Descrizione del campo: Information on literature linked to the sequences or genome of the strain. Do not include here literature linked to the identification and properties of the\
 strain. Include identifiers linking to a separate literature sheet in the same file.\
 For publications indexed by Pubmed or having an official DOI number, collections should provide the relative identifiers, respectively PMIDs and DOIs.
 

@@ -4,8 +4,22 @@ Guida all'uso del database TUCC
 
 .. sections levels: = - ~ . _
 
+
+Data rilascio: _DATE_
+
+
+Questo documento è la guida all'uso per il servizio TUCC database:
+
+`www.tucc-database.unito.it <https://www.tucc-database.unito.it/>`_
+
+
+.. contents:: Table of Contents
+   :depth: 1
+
+
 Menù Collections
 =========================
+
 
 Questo menù permette di accedere alle collezione per eseguire operazioni relative alla collezione selezionata.
 
@@ -27,7 +41,7 @@ I ceppi sono visibili secondo il livello di privileggio.
 
 I risultati sono presentati in una tabella con 4 colonne: **Accession number**, **Genus**, **Specific epithet**, **Varietas / Forma Specialis**
 
-Il codice d'accesso è un link che permette di aprire la `scheda ceppo`_  
+Il codice d'accesso è un link che permette di aprire la `scheda ceppo`_
 
 
 
@@ -67,7 +81,7 @@ Menù Admin
 Web service version
 -------------------------------------
 
-Questa funzione visualizza la versione del web service 
+Questa funzione visualizza la versione del web service
 
 
 Web site analytics
@@ -76,6 +90,11 @@ Web site analytics
 Questa voce permette di acceddere a statistiche di accesso del web service TUCC
 
 
+
+Administration tools
+=========================
+
+.. include:: administration_tools.rst
 
 
 .. _scheda ceppo:
@@ -86,9 +105,25 @@ Scheda ceppo
 .. include:: scheda_ceppo.rst
 
 
+.. _super admin:
+
+Pagina Super admin
+=========================
+
+.. include:: super_admin.rst
+
+
+.. _elenco campi:
+
 
 Elenco dei campi
 =========================
 
 
 .. include:: elenco_campi.rst
+
+
+Aggiornamento del sito web MUT
+==================================================
+
+.. include:: aggiornamento_sito_mut.rst
