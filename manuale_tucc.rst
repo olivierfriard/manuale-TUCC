@@ -45,7 +45,7 @@ Quando una collezione è selezionata la pagina **Home** della collezione è visu
 Un secondo menù (con sfondo chiaro) è visualizzato sotto il menù principale.
 Questo menù permette di accedere alle funzioni relative alla collezione selezionata:
 
-* Browse strains
+* `Browse strains`_
 * Browse species
 * Search
 * Administration tools
@@ -107,6 +107,25 @@ Internal use
 =========================
 
 .. include:: internal_use.rst
+
+
+.. _Browse strains:
+
+Browse strains
+=========================
+
+.. image:: browse_strains.png
+    :alt: Browse strains
+    :width: 16cm
+
+The strains of the selected collection are displayed in a table with 4 columns:
+
+* Accession number
+* Genus
+* Specific epithet
+* Varietas / Formae Specialis
+
+A strain can be displayed by clicking on its **Accession number**
 
 
 
