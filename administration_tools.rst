@@ -190,5 +190,5 @@ Super tools
 Questa funzione permette di accedere a viste speciali sul database come l'elenco dei valori per un o più campi per tutti i ceppi oppure a tutti i valori distinti per un campo.
 Il privileggio **Administrator** o **Advanced user** è richiesto.
 
-Riferirsi alla sezione `super admin`_
+Riferirsi alla sezione `super tools`_
 

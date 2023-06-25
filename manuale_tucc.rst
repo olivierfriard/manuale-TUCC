@@ -52,7 +52,7 @@ Menù Search
 =========================
 
 
-Questa funzione permette di ricercare dei ceppi in tutte le 6 collezioni della TUCC.
+Questa funzione permette di ricercare dei ceppi in tutte le 7 collezioni della TUCC.
 
 La ricerca può essere eseguita specificando il nome del campo oppure su tutti i campi (*All fields*).
 
@@ -112,12 +112,12 @@ Scheda ceppo
 .. include:: scheda_ceppo.rst
 
 
-.. _super admin:
+.. _super tools:
 
-Pagina Super admin
+Pagina Super tools
 =========================
 
-.. include:: super_admin.rst
+.. include:: super_tools.rst
 
 
 .. _elenco campi:
