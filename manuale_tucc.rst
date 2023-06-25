@@ -34,16 +34,22 @@ Al momento la TUCC contiene 7 collezioni:
 * Collection MiVET - settore Parassitologia
 
 
-Browse strains
------------------------------------
+Quando una collezione è selezionata la pagina **Home** della collezione è visualizzata.
 
-Questa funzione permette di accedere all'elenco completo dei ceppi.
-I ceppi sono visibili secondo il livello di privileggio.
 
-I risultati sono presentati in una tabella con 4 colonne: **Accession number**, **Genus**, **Specific epithet**, **Varietas / Forma Specialis**
+.. image:: collection_home.png
+    :alt: Pagina Home della collezione MUT
+    :width: 16cm
 
-Il codice d'accesso è un link che permette di aprire la `scheda ceppo`_
 
+Un secondo menù (con sfondo chiaro) è visualizzato sotto il menù principale.
+Questo menù permette di accedere alle funzioni relative alla collezione selezionata:
+
+* Browse strains
+* Browse species
+* Search
+* Administration tools
+* Internal use
 
 
 
