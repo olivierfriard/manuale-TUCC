@@ -28,8 +28,14 @@ Livello di privileggio più elevato. L'utente può eseguire tutte le operazioni 
 Advanced user
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Livello di privileggio simile a Administrator senza la possibilità di gestire gli utenti.
+
+
 Internal user
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Gestione delle collezione 
+
 
 User
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
