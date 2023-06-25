@@ -66,18 +66,9 @@ I risultati sono presentati in una tabella dove il codice d'accesso è costituit
 
 
 
-Menù Admin
+`menù admin`_
 =========================
 
-
-.. Authorize an user
-
-.. include:: authorize_an_user.rst
-
-
-.. list of authorized users
-
-.. include:: list_of_authorized_users.rst
 
 
 
@@ -153,6 +144,23 @@ Elenco dei campi
 
 
 .. include:: elenco_campi.rst
+
+
+.. _menù admin:
+
+Menù admin
+==================================================
+
+.. Authorize an user
+
+.. include:: authorize_an_user.rst
+
+
+.. list of authorized users
+
+.. include:: list_of_authorized_users.rst
+
+
 
 
 Aggiornamento del sito web MUT
