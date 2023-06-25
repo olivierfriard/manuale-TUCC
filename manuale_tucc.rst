@@ -23,7 +23,7 @@ Menù Collections
 
 Questo menù permette di accedere alle collezione per eseguire operazioni relative alla collezione selezionata.
 
-Al momento la TUCC contiene 6 collezioni:
+Al momento la TUCC contiene 7 collezioni:
 
 * Mycotheca Universitatis Taurinensis (MUT)
 * Collection MiAGR - settore Microbiologia Alimentare, Agraria e Ambientale
