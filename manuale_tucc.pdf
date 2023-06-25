@@ -39,12 +39,12 @@ endobj
 endobj
 8 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 31 0 R /XYZ 62.69291 344.5783 0 ] /Rect [ 62.69291 609.5236 115.7029 620.3236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 31 0 R /XYZ 62.69291 344.5783 0 ] /Rect [ 62.69291 609.5236 115.1989 620.3236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 106 0 R /XYZ 62.69291 589.9736 0 ] /Rect [ 62.69291 609.5236 115.7029 620.3236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 105 0 R /XYZ 62.69291 589.9736 0 ] /Rect [ 62.69291 609.5236 115.1989 620.3236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
@@ -54,12 +54,12 @@ endobj
 endobj
 11 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 31 0 R /XYZ 62.69291 223.6783 0 ] /Rect [ 62.69291 592.7236 150.1999 603.5236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 31 0 R /XYZ 62.69291 313.6783 0 ] /Rect [ 62.69291 592.7236 150.1999 603.5236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 31 0 R /XYZ 62.69291 223.6783 0 ] /Rect [ 527.5787 593.3986 532.5827 604.1986 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 31 0 R /XYZ 62.69291 313.6783 0 ] /Rect [ 527.5787 593.3986 532.5827 604.1986 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
@@ -114,22 +114,22 @@ endobj
 endobj
 23 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 106 0 R /XYZ 62.69291 586.8236 0 ] /Rect [ 62.69291 491.9236 115.1989 502.7236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 105 0 R /XYZ 62.69291 586.8236 0 ] /Rect [ 62.69291 491.9236 115.1989 502.7236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 24 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 106 0 R /XYZ 62.69291 586.8236 0 ] /Rect [ 522.5747 492.5986 532.5827 503.3986 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 105 0 R /XYZ 62.69291 586.8236 0 ] /Rect [ 522.5747 492.5986 532.5827 503.3986 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 106 0 R /XYZ 62.69291 148.8236 0 ] /Rect [ 62.69291 475.1236 205.2079 485.9236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 110 0 R /XYZ 62.69291 720.0236 0 ] /Rect [ 62.69291 475.1236 205.2079 485.9236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 106 0 R /XYZ 62.69291 148.8236 0 ] /Rect [ 522.5747 475.7986 532.5827 486.5986 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 110 0 R /XYZ 62.69291 720.0236 0 ] /Rect [ 522.5747 475.7986 532.5827 486.5986 ] /Subtype /Link /Type /Annot
 >>
 endobj
 27 0 obj
@@ -159,7 +159,7 @@ endobj
 endobj
 30 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 106 0 R /XYZ 62.69291 589.9736 0 ] /Rect [ 62.69291 325.6783 155.4604 344.5783 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 105 0 R /XYZ 62.69291 589.9736 0 ] /Rect [ 62.69291 325.6783 154.5784 344.5783 ] /Subtype /Link /Type /Annot
 >>
 endobj
 31 0 obj
@@ -870,26 +870,26 @@ endobj
 endobj
 105 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.tucc-database.unito.it/new_mut)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 96.32362 209.2637 107.1236 ] /Subtype /Link /Type /Annot
+/Contents 421 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 371 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 106 0 obj
 <<
-/Annots [ 105 0 R ] /Contents 421 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 371 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.tucc-database.unito.it/new_mut)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 667.5236 209.2637 678.3236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 107 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/olivierfriard/mut_site)
->> /Border [ 0 0 0 ] /Rect [ 212.7432 683.4236 366.8067 694.2236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 212.7432 563.1236 366.8067 573.9236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 108 0 obj
@@ -910,7 +910,7 @@ Gb"-VG>qOUUF,h%c?Hu_@IBPoGF^VWcJ62&SPDM8"U/,t[^ENN];>J5NJJdAF3[>%8WkL#.#LD)6%\0j
 endobj
 110 0 obj
 <<
-/Annots [ 107 0 R ] /Contents 422 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 371 0 R /Resources <<
+/Annots [ 106 0 R 107 0 R ] /Contents 422 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 371 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.8f9343d787c291ed6adee67c575a5610 109 0 R /FormXob.d6788a1c2416aac7f01f4e5de65ae287 108 0 R
 >>
@@ -2234,13 +2234,13 @@ endobj
 endobj
 149 0 obj
 <<
-/Author () /CreationDate (D:20230626005612-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230626005612-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20230626005739-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230626005739-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Guida all'uso del database TUCC) /Trapped /False
 >>
 endobj
 150 0 obj
 <<
-/Count 235 /First 151 0 R /Last 363 0 R /Type /Outlines
+/Count 234 /First 151 0 R /Last 363 0 R /Type /Outlines
 >>
 endobj
 151 0 obj
@@ -2255,1075 +2255,1074 @@ endobj
 endobj
 153 0 obj
 <<
-/Count 2 /Dest [ 31 0 R /XYZ 62.69291 344.5783 0 ] /First 154 0 R /Last 155 0 R /Next 156 0 R /Parent 150 0 R 
-  /Prev 152 0 R /Title (men\371 admin)
+/Dest [ 31 0 R /XYZ 62.69291 344.5783 0 ] /Next 154 0 R /Parent 150 0 R /Prev 152 0 R /Title (Men\371 admin)
 >>
 endobj
 154 0 obj
 <<
-/Dest [ 31 0 R /XYZ 62.69291 313.6783 0 ] /Next 155 0 R /Parent 153 0 R /Title (Web service version)
+/Count 16 /Dest [ 31 0 R /XYZ 62.69291 313.6783 0 ] /First 155 0 R /Last 170 0 R /Next 171 0 R /Parent 150 0 R 
+  /Prev 153 0 R /Title (Administration tools)
 >>
 endobj
 155 0 obj
 <<
-/Dest [ 31 0 R /XYZ 62.69291 268.6783 0 ] /Parent 153 0 R /Prev 154 0 R /Title (Web site analytics)
+/Dest [ 31 0 R /XYZ 62.69291 282.7783 0 ] /Next 156 0 R /Parent 154 0 R /Title (Insert a new strain)
 >>
 endobj
 156 0 obj
 <<
-/Count 16 /Dest [ 31 0 R /XYZ 62.69291 223.6783 0 ] /First 157 0 R /Last 172 0 R /Next 173 0 R /Parent 150 0 R 
-  /Prev 153 0 R /Title (Administration tools)
+/Count 3 /Dest [ 35 0 R /XYZ 62.69291 263.3792 0 ] /First 157 0 R /Last 159 0 R /Next 160 0 R /Parent 154 0 R 
+  /Prev 155 0 R /Title (Species management)
 >>
 endobj
 157 0 obj
 <<
-/Dest [ 31 0 R /XYZ 62.69291 192.7783 0 ] /Next 158 0 R /Parent 156 0 R /Title (Insert a new strain)
+/Dest [ 39 0 R /XYZ 62.69291 588.7269 0 ] /Next 158 0 R /Parent 156 0 R /Title (Inserire una nuova specie)
 >>
 endobj
 158 0 obj
 <<
-/Count 3 /Dest [ 35 0 R /XYZ 62.69291 263.3792 0 ] /First 159 0 R /Last 161 0 R /Next 162 0 R /Parent 156 0 R 
-  /Prev 157 0 R /Title (Species management)
+/Dest [ 39 0 R /XYZ 62.69291 535.6269 0 ] /Next 159 0 R /Parent 156 0 R /Prev 157 0 R /Title (Modificare una specie)
 >>
 endobj
 159 0 obj
 <<
-/Dest [ 39 0 R /XYZ 62.69291 588.7269 0 ] /Next 160 0 R /Parent 158 0 R /Title (Inserire una nuova specie)
+/Dest [ 39 0 R /XYZ 62.69291 465.7269 0 ] /Parent 156 0 R /Prev 158 0 R /Title (Cancellare una specie)
 >>
 endobj
 160 0 obj
 <<
-/Dest [ 39 0 R /XYZ 62.69291 535.6269 0 ] /Next 161 0 R /Parent 158 0 R /Prev 159 0 R /Title (Modificare una specie)
+/Dest [ 39 0 R /XYZ 62.69291 265.9855 0 ] /Next 161 0 R /Parent 154 0 R /Prev 156 0 R /Title (Strains quarantine)
 >>
 endobj
 161 0 obj
 <<
-/Dest [ 39 0 R /XYZ 62.69291 465.7269 0 ] /Parent 158 0 R /Prev 160 0 R /Title (Cancellare una specie)
+/Dest [ 39 0 R /XYZ 62.69291 220.9855 0 ] /Next 162 0 R /Parent 154 0 R /Prev 160 0 R /Title (Species quarantine)
 >>
 endobj
 162 0 obj
 <<
-/Dest [ 39 0 R /XYZ 62.69291 265.9855 0 ] /Next 163 0 R /Parent 156 0 R /Prev 158 0 R /Title (Strains quarantine)
+/Count 3 /Dest [ 39 0 R /XYZ 62.69291 192.7855 0 ] /First 163 0 R /Last 165 0 R /Next 166 0 R /Parent 154 0 R 
+  /Prev 161 0 R /Title (Export collection)
 >>
 endobj
 163 0 obj
 <<
-/Dest [ 39 0 R /XYZ 62.69291 220.9855 0 ] /Next 164 0 R /Parent 156 0 R /Prev 162 0 R /Title (Species quarantine)
+/Dest [ 39 0 R /XYZ 62.69291 147.7855 0 ] /Next 164 0 R /Parent 162 0 R /Title (Export collection to MIRRI)
 >>
 endobj
 164 0 obj
 <<
-/Count 3 /Dest [ 39 0 R /XYZ 62.69291 192.7855 0 ] /First 165 0 R /Last 167 0 R /Next 168 0 R /Parent 156 0 R 
-  /Prev 163 0 R /Title (Export collection)
+/Dest [ 41 0 R /XYZ 62.69291 765.0236 0 ] /Next 165 0 R /Parent 162 0 R /Prev 163 0 R /Title (Export strains for Microsoft-Excel)
 >>
 endobj
 165 0 obj
 <<
-/Dest [ 39 0 R /XYZ 62.69291 147.7855 0 ] /Next 166 0 R /Parent 164 0 R /Title (Export collection to MIRRI)
+/Dest [ 41 0 R /XYZ 62.69291 711.9236 0 ] /Parent 162 0 R /Prev 164 0 R /Title (Export Species for Microsoft-Excel)
 >>
 endobj
 166 0 obj
 <<
-/Dest [ 41 0 R /XYZ 62.69291 765.0236 0 ] /Next 167 0 R /Parent 164 0 R /Prev 165 0 R /Title (Export strains for Microsoft-Excel)
+/Dest [ 41 0 R /XYZ 62.69291 474.0236 0 ] /Next 167 0 R /Parent 154 0 R /Prev 162 0 R /Title (Growth media)
 >>
 endobj
 167 0 obj
 <<
-/Dest [ 41 0 R /XYZ 62.69291 711.9236 0 ] /Parent 164 0 R /Prev 166 0 R /Title (Export Species for Microsoft-Excel)
+/Dest [ 41 0 R /XYZ 62.69291 429.0236 0 ] /Next 168 0 R /Parent 154 0 R /Prev 166 0 R /Title (Create labels for tubes/lyo)
 >>
 endobj
 168 0 obj
 <<
-/Dest [ 41 0 R /XYZ 62.69291 474.0236 0 ] /Next 169 0 R /Parent 156 0 R /Prev 164 0 R /Title (Growth media)
+/Dest [ 41 0 R /XYZ 62.69291 400.8236 0 ] /Next 169 0 R /Parent 154 0 R /Prev 167 0 R /Title (Deleted strains)
 >>
 endobj
 169 0 obj
 <<
-/Dest [ 41 0 R /XYZ 62.69291 429.0236 0 ] /Next 170 0 R /Parent 156 0 R /Prev 168 0 R /Title (Create labels for tubes/lyo)
+/Dest [ 41 0 R /XYZ 62.69291 186.1197 0 ] /Next 170 0 R /Parent 154 0 R /Prev 168 0 R /Title (Deleted species)
 >>
 endobj
 170 0 obj
 <<
-/Dest [ 41 0 R /XYZ 62.69291 400.8236 0 ] /Next 171 0 R /Parent 156 0 R /Prev 169 0 R /Title (Deleted strains)
+/Dest [ 44 0 R /XYZ 62.69291 600.1197 0 ] /Parent 154 0 R /Prev 169 0 R /Title (Super tools)
 >>
 endobj
 171 0 obj
 <<
-/Dest [ 41 0 R /XYZ 62.69291 186.1197 0 ] /Next 172 0 R /Parent 156 0 R /Prev 170 0 R /Title (Deleted species)
+/Count 3 /Dest [ 44 0 R /XYZ 62.69291 527.5197 0 ] /First 172 0 R /Last 174 0 R /Next 175 0 R /Parent 150 0 R 
+  /Prev 154 0 R /Title (Internal use)
 >>
 endobj
 172 0 obj
 <<
-/Dest [ 44 0 R /XYZ 62.69291 600.1197 0 ] /Parent 156 0 R /Prev 171 0 R /Title (Super tools)
+/Dest [ 44 0 R /XYZ 62.69291 496.6197 0 ] /Next 173 0 R /Parent 171 0 R /Title (Browse strains - Detailed view)
 >>
 endobj
 173 0 obj
 <<
-/Count 3 /Dest [ 44 0 R /XYZ 62.69291 527.5197 0 ] /First 174 0 R /Last 176 0 R /Next 177 0 R /Parent 150 0 R 
-  /Prev 156 0 R /Title (Internal use)
+/Dest [ 44 0 R /XYZ 62.69291 468.4197 0 ] /Next 174 0 R /Parent 171 0 R /Prev 172 0 R /Title (Create labels for tubes/lyo)
 >>
 endobj
 174 0 obj
 <<
-/Dest [ 44 0 R /XYZ 62.69291 496.6197 0 ] /Next 175 0 R /Parent 173 0 R /Title (Browse strains - Detailed view)
+/Dest [ 44 0 R /XYZ 62.69291 440.2197 0 ] /Parent 171 0 R /Prev 173 0 R /Title (Update transfert dates)
 >>
 endobj
 175 0 obj
 <<
-/Dest [ 44 0 R /XYZ 62.69291 468.4197 0 ] /Next 176 0 R /Parent 173 0 R /Prev 174 0 R /Title (Create labels for tubes/lyo)
+/Dest [ 44 0 R /XYZ 62.69291 412.0197 0 ] /Next 176 0 R /Parent 150 0 R /Prev 171 0 R /Title (Browse strains)
 >>
 endobj
 176 0 obj
 <<
-/Dest [ 44 0 R /XYZ 62.69291 440.2197 0 ] /Parent 173 0 R /Prev 175 0 R /Title (Update transfert dates)
+/Count 9 /Dest [ 46 0 R /XYZ 62.69291 765.0236 0 ] /First 177 0 R /Last 185 0 R /Next 186 0 R /Parent 150 0 R 
+  /Prev 175 0 R /Title (Scheda ceppo)
 >>
 endobj
 177 0 obj
 <<
-/Dest [ 44 0 R /XYZ 62.69291 412.0197 0 ] /Next 178 0 R /Parent 150 0 R /Prev 173 0 R /Title (Browse strains)
+/Dest [ 49 0 R /XYZ 62.69291 434.7943 0 ] /Next 178 0 R /Parent 176 0 R /Title (Edit)
 >>
 endobj
 178 0 obj
 <<
-/Count 9 /Dest [ 46 0 R /XYZ 62.69291 765.0236 0 ] /First 179 0 R /Last 187 0 R /Next 188 0 R /Parent 150 0 R 
-  /Prev 177 0 R /Title (Scheda ceppo)
+/Count 1 /Dest [ 49 0 R /XYZ 62.69291 389.7943 0 ] /First 179 0 R /Last 179 0 R /Next 180 0 R /Parent 176 0 R 
+  /Prev 177 0 R /Title (Manage sequences)
 >>
 endobj
 179 0 obj
 <<
-/Dest [ 49 0 R /XYZ 62.69291 434.7943 0 ] /Next 180 0 R /Parent 178 0 R /Title (Edit)
+/Dest [ 49 0 R /XYZ 62.69291 172.552 0 ] /Parent 178 0 R /Title (Aggiungere/modificare una sequenza)
 >>
 endobj
 180 0 obj
 <<
-/Count 1 /Dest [ 49 0 R /XYZ 62.69291 389.7943 0 ] /First 181 0 R /Last 181 0 R /Next 182 0 R /Parent 178 0 R 
-  /Prev 179 0 R /Title (Manage sequences)
+/Dest [ 52 0 R /XYZ 62.69291 394.3179 0 ] /Next 181 0 R /Parent 176 0 R /Prev 178 0 R /Title (Manage attached documents)
 >>
 endobj
 181 0 obj
 <<
-/Dest [ 49 0 R /XYZ 62.69291 172.552 0 ] /Parent 180 0 R /Title (Aggiungere/modificare una sequenza)
+/Dest [ 52 0 R /XYZ 62.69291 310.9179 0 ] /Next 182 0 R /Parent 176 0 R /Prev 180 0 R /Title (Manage strain literature)
 >>
 endobj
 182 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 394.3179 0 ] /Next 183 0 R /Parent 178 0 R /Prev 180 0 R /Title (Manage attached documents)
+/Dest [ 52 0 R /XYZ 62.69291 282.7179 0 ] /Next 183 0 R /Parent 176 0 R /Prev 181 0 R /Title (Manage strain literature linked to sequence)
 >>
 endobj
 183 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 310.9179 0 ] /Next 184 0 R /Parent 178 0 R /Prev 182 0 R /Title (Manage strain literature)
+/Dest [ 52 0 R /XYZ 62.69291 254.5179 0 ] /Next 184 0 R /Parent 176 0 R /Prev 182 0 R /Title (Delete entry)
 >>
 endobj
 184 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 282.7179 0 ] /Next 185 0 R /Parent 178 0 R /Prev 183 0 R /Title (Manage strain literature linked to sequence)
+/Dest [ 52 0 R /XYZ 62.69291 175.9179 0 ] /Next 185 0 R /Parent 176 0 R /Prev 183 0 R /Title (View the species details)
 >>
 endobj
 185 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 254.5179 0 ] /Next 186 0 R /Parent 178 0 R /Prev 184 0 R /Title (Delete entry)
+/Dest [ 55 0 R /XYZ 62.69291 246.4553 0 ] /Parent 176 0 R /Prev 184 0 R /Title (Select a new species for this strain)
 >>
 endobj
 186 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 175.9179 0 ] /Next 187 0 R /Parent 178 0 R /Prev 185 0 R /Title (View the species details)
+/Count 5 /Dest [ 57 0 R /XYZ 62.69291 486.3824 0 ] /First 187 0 R /Last 191 0 R /Next 192 0 R /Parent 150 0 R 
+  /Prev 176 0 R /Title (Pagina Super tools)
 >>
 endobj
 187 0 obj
 <<
-/Dest [ 55 0 R /XYZ 62.69291 246.4553 0 ] /Parent 178 0 R /Prev 186 0 R /Title (Select a new species for this strain)
+/Dest [ 57 0 R /XYZ 62.69291 266.9188 0 ] /Next 188 0 R /Parent 186 0 R /Title (Statistics)
 >>
 endobj
 188 0 obj
 <<
-/Count 5 /Dest [ 57 0 R /XYZ 62.69291 486.3824 0 ] /First 189 0 R /Last 193 0 R /Next 194 0 R /Parent 150 0 R 
-  /Prev 178 0 R /Title (Pagina Super tools)
+/Count 2 /Dest [ 57 0 R /XYZ 62.69291 121.1188 0 ] /First 189 0 R /Last 190 0 R /Next 191 0 R /Parent 186 0 R 
+  /Prev 187 0 R /Title (List of database field)
 >>
 endobj
 189 0 obj
 <<
-/Dest [ 57 0 R /XYZ 62.69291 266.9188 0 ] /Next 190 0 R /Parent 188 0 R /Title (Statistics)
+/Dest [ 60 0 R /XYZ 62.69291 563.7565 0 ] /Next 190 0 R /Parent 188 0 R /Title (All values)
 >>
 endobj
 190 0 obj
 <<
-/Count 2 /Dest [ 57 0 R /XYZ 62.69291 121.1188 0 ] /First 191 0 R /Last 192 0 R /Next 193 0 R /Parent 188 0 R 
-  /Prev 189 0 R /Title (List of database field)
+/Dest [ 60 0 R /XYZ 62.69291 197.972 0 ] /Parent 188 0 R /Prev 189 0 R /Title (Distinct values)
 >>
 endobj
 191 0 obj
 <<
-/Dest [ 60 0 R /XYZ 62.69291 563.7565 0 ] /Next 192 0 R /Parent 190 0 R /Title (All values)
+/Dest [ 64 0 R /XYZ 62.69291 645.9601 0 ] /Parent 186 0 R /Prev 188 0 R /Title (View all fields of a strain by accession)
 >>
 endobj
 192 0 obj
 <<
-/Dest [ 60 0 R /XYZ 62.69291 197.972 0 ] /Parent 190 0 R /Prev 191 0 R /Title (Distinct values)
+/Count 160 /Dest [ 64 0 R /XYZ 62.69291 282.5297 0 ] /First 193 0 R /Last 352 0 R /Next 353 0 R /Parent 150 0 R 
+  /Prev 186 0 R /Title (Elenco dei campi)
 >>
 endobj
 193 0 obj
 <<
-/Dest [ 64 0 R /XYZ 62.69291 645.9601 0 ] /Parent 188 0 R /Prev 190 0 R /Title (View all fields of a strain by accession)
+/Dest [ 64 0 R /XYZ 62.69291 167.6297 0 ] /Next 194 0 R /Parent 192 0 R /Title (Accession Number)
 >>
 endobj
 194 0 obj
 <<
-/Count 160 /Dest [ 64 0 R /XYZ 62.69291 282.5297 0 ] /First 195 0 R /Last 354 0 R /Next 355 0 R /Parent 150 0 R 
-  /Prev 188 0 R /Title (Elenco dei campi)
+/Dest [ 65 0 R /XYZ 62.69291 714.6236 0 ] /Next 195 0 R /Parent 192 0 R /Prev 193 0 R /Title (Accession Date)
 >>
 endobj
 195 0 obj
 <<
-/Dest [ 64 0 R /XYZ 62.69291 167.6297 0 ] /Next 196 0 R /Parent 194 0 R /Title (Accession Number)
+/Dest [ 65 0 R /XYZ 62.69291 568.8236 0 ] /Next 196 0 R /Parent 192 0 R /Prev 194 0 R /Title (Genus)
 >>
 endobj
 196 0 obj
 <<
-/Dest [ 65 0 R /XYZ 62.69291 714.6236 0 ] /Next 197 0 R /Parent 194 0 R /Prev 195 0 R /Title (Accession Date)
+/Dest [ 65 0 R /XYZ 62.69291 423.0236 0 ] /Next 197 0 R /Parent 192 0 R /Prev 195 0 R /Title (Specific epithet)
 >>
 endobj
 197 0 obj
 <<
-/Dest [ 65 0 R /XYZ 62.69291 568.8236 0 ] /Next 198 0 R /Parent 194 0 R /Prev 196 0 R /Title (Genus)
+/Dest [ 65 0 R /XYZ 62.69291 294.0236 0 ] /Next 198 0 R /Parent 192 0 R /Prev 196 0 R /Title (Varietas / Formae Specialis)
 >>
 endobj
 198 0 obj
 <<
-/Dest [ 65 0 R /XYZ 62.69291 423.0236 0 ] /Next 199 0 R /Parent 194 0 R /Prev 197 0 R /Title (Specific epithet)
+/Dest [ 65 0 R /XYZ 62.69291 181.8236 0 ] /Next 199 0 R /Parent 192 0 R /Prev 197 0 R /Title (Phylum)
 >>
 endobj
 199 0 obj
 <<
-/Dest [ 65 0 R /XYZ 62.69291 294.0236 0 ] /Next 200 0 R /Parent 194 0 R /Prev 198 0 R /Title (Varietas / Formae Specialis)
+/Dest [ 66 0 R /XYZ 62.69291 765.0236 0 ] /Next 200 0 R /Parent 192 0 R /Prev 198 0 R /Title (Class)
 >>
 endobj
 200 0 obj
 <<
-/Dest [ 65 0 R /XYZ 62.69291 181.8236 0 ] /Next 201 0 R /Parent 194 0 R /Prev 199 0 R /Title (Phylum)
+/Dest [ 66 0 R /XYZ 62.69291 636.0236 0 ] /Next 201 0 R /Parent 192 0 R /Prev 199 0 R /Title (Order)
 >>
 endobj
 201 0 obj
 <<
-/Dest [ 66 0 R /XYZ 62.69291 765.0236 0 ] /Next 202 0 R /Parent 194 0 R /Prev 200 0 R /Title (Class)
+/Dest [ 66 0 R /XYZ 62.69291 507.0236 0 ] /Next 202 0 R /Parent 192 0 R /Prev 200 0 R /Title (Family)
 >>
 endobj
 202 0 obj
 <<
-/Dest [ 66 0 R /XYZ 62.69291 636.0236 0 ] /Next 203 0 R /Parent 194 0 R /Prev 201 0 R /Title (Order)
+/Dest [ 66 0 R /XYZ 62.69291 394.8236 0 ] /Next 203 0 R /Parent 192 0 R /Prev 201 0 R /Title (Organism type)
 >>
 endobj
 203 0 obj
 <<
-/Dest [ 66 0 R /XYZ 62.69291 507.0236 0 ] /Next 204 0 R /Parent 194 0 R /Prev 202 0 R /Title (Family)
+/Dest [ 66 0 R /XYZ 62.69291 249.0236 0 ] /Next 204 0 R /Parent 192 0 R /Prev 202 0 R /Title (Author)
 >>
 endobj
 204 0 obj
 <<
-/Dest [ 66 0 R /XYZ 62.69291 394.8236 0 ] /Next 205 0 R /Parent 194 0 R /Prev 203 0 R /Title (Organism type)
+/Dest [ 67 0 R /XYZ 62.69291 765.0236 0 ] /Next 205 0 R /Parent 192 0 R /Prev 203 0 R /Title (Original acronym)
 >>
 endobj
 205 0 obj
 <<
-/Dest [ 66 0 R /XYZ 62.69291 249.0236 0 ] /Next 206 0 R /Parent 194 0 R /Prev 204 0 R /Title (Author)
+/Dest [ 67 0 R /XYZ 62.69291 625.2236 0 ] /Next 206 0 R /Parent 192 0 R /Prev 204 0 R /Title (Depositor)
 >>
 endobj
 206 0 obj
 <<
-/Dest [ 67 0 R /XYZ 62.69291 765.0236 0 ] /Next 207 0 R /Parent 194 0 R /Prev 205 0 R /Title (Original acronym)
+/Dest [ 67 0 R /XYZ 62.69291 496.2236 0 ] /Next 207 0 R /Parent 192 0 R /Prev 205 0 R /Title (Collector)
 >>
 endobj
 207 0 obj
 <<
-/Dest [ 67 0 R /XYZ 62.69291 625.2236 0 ] /Next 208 0 R /Parent 194 0 R /Prev 206 0 R /Title (Depositor)
+/Dest [ 67 0 R /XYZ 62.69291 367.2236 0 ] /Next 208 0 R /Parent 192 0 R /Prev 206 0 R /Title (Date of collection)
 >>
 endobj
 208 0 obj
 <<
-/Dest [ 67 0 R /XYZ 62.69291 496.2236 0 ] /Next 209 0 R /Parent 194 0 R /Prev 207 0 R /Title (Collector)
+/Dest [ 67 0 R /XYZ 62.69291 221.4236 0 ] /Next 209 0 R /Parent 192 0 R /Prev 207 0 R /Title (Isolator)
 >>
 endobj
 209 0 obj
 <<
-/Dest [ 67 0 R /XYZ 62.69291 367.2236 0 ] /Next 210 0 R /Parent 194 0 R /Prev 208 0 R /Title (Date of collection)
+/Dest [ 68 0 R /XYZ 62.69291 765.0236 0 ] /Next 210 0 R /Parent 192 0 R /Prev 208 0 R /Title (Date of isolation)
 >>
 endobj
 210 0 obj
 <<
-/Dest [ 67 0 R /XYZ 62.69291 221.4236 0 ] /Next 211 0 R /Parent 194 0 R /Prev 209 0 R /Title (Isolator)
+/Dest [ 68 0 R /XYZ 62.69291 636.0236 0 ] /Next 211 0 R /Parent 192 0 R /Prev 209 0 R /Title (Original substrate)
 >>
 endobj
 211 0 obj
 <<
-/Dest [ 68 0 R /XYZ 62.69291 765.0236 0 ] /Next 212 0 R /Parent 194 0 R /Prev 210 0 R /Title (Date of isolation)
+/Dest [ 68 0 R /XYZ 62.69291 496.2236 0 ] /Next 212 0 R /Parent 192 0 R /Prev 210 0 R /Title (Isolation method)
 >>
 endobj
 212 0 obj
 <<
-/Dest [ 68 0 R /XYZ 62.69291 636.0236 0 ] /Next 213 0 R /Parent 194 0 R /Prev 211 0 R /Title (Original substrate)
+/Dest [ 68 0 R /XYZ 62.69291 367.2236 0 ] /Next 213 0 R /Parent 192 0 R /Prev 211 0 R /Title (Habitat \(ecological data\))
 >>
 endobj
 213 0 obj
 <<
-/Dest [ 68 0 R /XYZ 62.69291 496.2236 0 ] /Next 214 0 R /Parent 194 0 R /Prev 212 0 R /Title (Isolation method)
+/Dest [ 68 0 R /XYZ 62.69291 205.8236 0 ] /Next 214 0 R /Parent 192 0 R /Prev 212 0 R /Title (Geographical origin \(country, province, place\))
 >>
 endobj
 214 0 obj
 <<
-/Dest [ 68 0 R /XYZ 62.69291 367.2236 0 ] /Next 215 0 R /Parent 194 0 R /Prev 213 0 R /Title (Habitat \(ecological data\))
+/Dest [ 69 0 R /XYZ 62.69291 765.0236 0 ] /Next 215 0 R /Parent 192 0 R /Prev 213 0 R /Title (GPS coordinates)
 >>
 endobj
 215 0 obj
 <<
-/Dest [ 68 0 R /XYZ 62.69291 205.8236 0 ] /Next 216 0 R /Parent 194 0 R /Prev 214 0 R /Title (Geographical origin \(country, province, place\))
+/Dest [ 69 0 R /XYZ 62.69291 619.2236 0 ] /Next 216 0 R /Parent 192 0 R /Prev 214 0 R /Title (Latitude \(decimal\))
 >>
 endobj
 216 0 obj
 <<
-/Dest [ 69 0 R /XYZ 62.69291 765.0236 0 ] /Next 217 0 R /Parent 194 0 R /Prev 215 0 R /Title (GPS coordinates)
+/Dest [ 69 0 R /XYZ 62.69291 439.8236 0 ] /Next 217 0 R /Parent 192 0 R /Prev 215 0 R /Title (Longitude \(decimal\))
 >>
 endobj
 217 0 obj
 <<
-/Dest [ 69 0 R /XYZ 62.69291 619.2236 0 ] /Next 218 0 R /Parent 194 0 R /Prev 216 0 R /Title (Latitude \(decimal\))
+/Dest [ 69 0 R /XYZ 62.69291 260.4236 0 ] /Next 218 0 R /Parent 192 0 R /Prev 216 0 R /Title (Altitude \(m\))
 >>
 endobj
 218 0 obj
 <<
-/Dest [ 69 0 R /XYZ 62.69291 439.8236 0 ] /Next 219 0 R /Parent 194 0 R /Prev 217 0 R /Title (Longitude \(decimal\))
+/Dest [ 70 0 R /XYZ 62.69291 765.0236 0 ] /Next 219 0 R /Parent 192 0 R /Prev 217 0 R /Title (Continent)
 >>
 endobj
 219 0 obj
 <<
-/Dest [ 69 0 R /XYZ 62.69291 260.4236 0 ] /Next 220 0 R /Parent 194 0 R /Prev 218 0 R /Title (Altitude \(m\))
+/Dest [ 70 0 R /XYZ 62.69291 608.4236 0 ] /Next 220 0 R /Parent 192 0 R /Prev 218 0 R /Title (Country)
 >>
 endobj
 220 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 765.0236 0 ] /Next 221 0 R /Parent 194 0 R /Prev 219 0 R /Title (Continent)
+/Dest [ 70 0 R /XYZ 62.69291 468.6236 0 ] /Next 221 0 R /Parent 192 0 R /Prev 219 0 R /Title (State)
 >>
 endobj
 221 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 608.4236 0 ] /Next 222 0 R /Parent 194 0 R /Prev 220 0 R /Title (Country)
+/Dest [ 70 0 R /XYZ 62.69291 312.0236 0 ] /Next 222 0 R /Parent 192 0 R /Prev 220 0 R /Title (Town)
 >>
 endobj
 222 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 468.6236 0 ] /Next 223 0 R /Parent 194 0 R /Prev 221 0 R /Title (State)
+/Dest [ 70 0 R /XYZ 62.69291 172.2236 0 ] /Next 223 0 R /Parent 192 0 R /Prev 221 0 R /Title (Place)
 >>
 endobj
 223 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 312.0236 0 ] /Next 224 0 R /Parent 194 0 R /Prev 222 0 R /Title (Town)
+/Dest [ 71 0 R /XYZ 62.69291 714.6236 0 ] /Next 224 0 R /Parent 192 0 R /Prev 222 0 R /Title (Received from \(if not name of collector or isolator\))
 >>
 endobj
 224 0 obj
 <<
-/Dest [ 70 0 R /XYZ 62.69291 172.2236 0 ] /Next 225 0 R /Parent 194 0 R /Prev 223 0 R /Title (Place)
+/Dest [ 71 0 R /XYZ 62.69291 585.6236 0 ] /Next 225 0 R /Parent 192 0 R /Prev 223 0 R /Title (Identified by)
 >>
 endobj
 225 0 obj
 <<
-/Dest [ 71 0 R /XYZ 62.69291 714.6236 0 ] /Next 226 0 R /Parent 194 0 R /Prev 224 0 R /Title (Received from \(if not name of collector or isolator\))
+/Dest [ 71 0 R /XYZ 62.69291 456.6236 0 ] /Next 226 0 R /Parent 192 0 R /Prev 224 0 R /Title (Location of herbarum specimen)
 >>
 endobj
 226 0 obj
 <<
-/Dest [ 71 0 R /XYZ 62.69291 585.6236 0 ] /Next 227 0 R /Parent 194 0 R /Prev 225 0 R /Title (Identified by)
+/Dest [ 71 0 R /XYZ 62.69291 344.4236 0 ] /Next 227 0 R /Parent 192 0 R /Prev 225 0 R /Title (Growth condition medium)
 >>
 endobj
 227 0 obj
 <<
-/Dest [ 71 0 R /XYZ 62.69291 456.6236 0 ] /Next 228 0 R /Parent 194 0 R /Prev 226 0 R /Title (Location of herbarum specimen)
+/Dest [ 77 0 R /XYZ 62.69291 549.4097 0 ] /Next 228 0 R /Parent 192 0 R /Prev 226 0 R /Title (Growth condition temperature)
 >>
 endobj
 228 0 obj
 <<
-/Dest [ 71 0 R /XYZ 62.69291 344.4236 0 ] /Next 229 0 R /Parent 194 0 R /Prev 227 0 R /Title (Growth condition medium)
+/Dest [ 77 0 R /XYZ 62.69291 342.4097 0 ] /Next 229 0 R /Parent 192 0 R /Prev 227 0 R /Title (Sexual sporulation condition medium)
 >>
 endobj
 229 0 obj
 <<
-/Dest [ 77 0 R /XYZ 62.69291 549.4097 0 ] /Next 230 0 R /Parent 194 0 R /Prev 228 0 R /Title (Growth condition temperature)
+/Dest [ 77 0 R /XYZ 62.69291 230.2097 0 ] /Next 230 0 R /Parent 192 0 R /Prev 228 0 R /Title (Sexual sporulation condition temperature)
 >>
 endobj
 230 0 obj
 <<
-/Dest [ 77 0 R /XYZ 62.69291 342.4097 0 ] /Next 231 0 R /Parent 194 0 R /Prev 229 0 R /Title (Sexual sporulation condition medium)
+/Dest [ 78 0 R /XYZ 62.69291 725.4236 0 ] /Next 231 0 R /Parent 192 0 R /Prev 229 0 R /Title (Mating type)
 >>
 endobj
 231 0 obj
 <<
-/Dest [ 77 0 R /XYZ 62.69291 230.2097 0 ] /Next 232 0 R /Parent 194 0 R /Prev 230 0 R /Title (Sexual sporulation condition temperature)
+/Dest [ 78 0 R /XYZ 62.69291 613.2236 0 ] /Next 232 0 R /Parent 192 0 R /Prev 230 0 R /Title (Self sporulation)
 >>
 endobj
 232 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 725.4236 0 ] /Next 233 0 R /Parent 194 0 R /Prev 231 0 R /Title (Mating type)
+/Dest [ 78 0 R /XYZ 62.69291 484.2236 0 ] /Next 233 0 R /Parent 192 0 R /Prev 231 0 R /Title (Known method of preservation)
 >>
 endobj
 233 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 613.2236 0 ] /Next 234 0 R /Parent 194 0 R /Prev 232 0 R /Title (Self sporulation)
+/Dest [ 78 0 R /XYZ 62.69291 355.2236 0 ] /Next 234 0 R /Parent 192 0 R /Prev 232 0 R /Title (Patented strain)
 >>
 endobj
 234 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 484.2236 0 ] /Next 235 0 R /Parent 194 0 R /Prev 233 0 R /Title (Known method of preservation)
+/Dest [ 78 0 R /XYZ 62.69291 159.0236 0 ] /Next 235 0 R /Parent 192 0 R /Prev 233 0 R /Title (Patent number)
 >>
 endobj
 235 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 355.2236 0 ] /Next 236 0 R /Parent 194 0 R /Prev 234 0 R /Title (Patented strain)
+/Dest [ 79 0 R /XYZ 62.69291 708.6236 0 ] /Next 236 0 R /Parent 192 0 R /Prev 234 0 R /Title (Type strain)
 >>
 endobj
 236 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 159.0236 0 ] /Next 237 0 R /Parent 194 0 R /Prev 235 0 R /Title (Patent number)
+/Dest [ 79 0 R /XYZ 62.69291 445.2236 0 ] /Next 237 0 R /Parent 192 0 R /Prev 235 0 R /Title (Deposited in other collection)
 >>
 endobj
 237 0 obj
 <<
-/Dest [ 79 0 R /XYZ 62.69291 708.6236 0 ] /Next 238 0 R /Parent 194 0 R /Prev 236 0 R /Title (Type strain)
+/Dest [ 79 0 R /XYZ 62.69291 232.2236 0 ] /Next 238 0 R /Parent 192 0 R /Prev 236 0 R /Title (Collection and number)
 >>
 endobj
 238 0 obj
 <<
-/Dest [ 79 0 R /XYZ 62.69291 445.2236 0 ] /Next 239 0 R /Parent 194 0 R /Prev 237 0 R /Title (Deposited in other collection)
+/Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /Next 239 0 R /Parent 192 0 R /Prev 237 0 R /Title (Additional Data)
 >>
 endobj
 239 0 obj
 <<
-/Dest [ 79 0 R /XYZ 62.69291 232.2236 0 ] /Next 240 0 R /Parent 194 0 R /Prev 238 0 R /Title (Collection and number)
+/Dest [ 80 0 R /XYZ 62.69291 652.8236 0 ] /Next 240 0 R /Parent 192 0 R /Prev 238 0 R /Title (Pathogenicity risk for animals and humans)
 >>
 endobj
 240 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 765.0236 0 ] /Next 241 0 R /Parent 194 0 R /Prev 239 0 R /Title (Additional Data)
+/Dest [ 80 0 R /XYZ 62.69291 439.8236 0 ] /Next 241 0 R /Parent 192 0 R /Prev 239 0 R /Title (Pathogenic for species)
 >>
 endobj
 241 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 652.8236 0 ] /Next 242 0 R /Parent 194 0 R /Prev 240 0 R /Title (Pathogenicity risk for animals and humans)
+/Dest [ 80 0 R /XYZ 62.69291 310.8236 0 ] /Next 242 0 R /Parent 192 0 R /Prev 240 0 R /Title (Safety level)
 >>
 endobj
 242 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 439.8236 0 ] /Next 243 0 R /Parent 194 0 R /Prev 241 0 R /Title (Pathogenic for species)
+/Dest [ 80 0 R /XYZ 62.69291 114.6236 0 ] /Next 243 0 R /Parent 192 0 R /Prev 241 0 R /Title (Precaution required)
 >>
 endobj
 243 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 310.8236 0 ] /Next 244 0 R /Parent 194 0 R /Prev 242 0 R /Title (Safety level)
+/Dest [ 81 0 R /XYZ 62.69291 691.8236 0 ] /Next 244 0 R /Parent 192 0 R /Prev 242 0 R /Title (Pathogenicity for vegetals)
 >>
 endobj
 244 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 114.6236 0 ] /Next 245 0 R /Parent 194 0 R /Prev 243 0 R /Title (Precaution required)
+/Dest [ 81 0 R /XYZ 62.69291 478.8236 0 ] /Next 245 0 R /Parent 192 0 R /Prev 243 0 R /Title (Phytopathogenic for species)
 >>
 endobj
 245 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 691.8236 0 ] /Next 246 0 R /Parent 194 0 R /Prev 244 0 R /Title (Pathogenicity for vegetals)
+/Dest [ 81 0 R /XYZ 62.69291 333.0236 0 ] /Next 246 0 R /Parent 192 0 R /Prev 244 0 R /Title (Toxins production)
 >>
 endobj
 246 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 478.8236 0 ] /Next 247 0 R /Parent 194 0 R /Prev 245 0 R /Title (Phytopathogenic for species)
+/Dest [ 81 0 R /XYZ 62.69291 120.0236 0 ] /Next 247 0 R /Parent 192 0 R /Prev 245 0 R /Title (Specify toxins)
 >>
 endobj
 247 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 333.0236 0 ] /Next 248 0 R /Parent 194 0 R /Prev 246 0 R /Title (Toxins production)
+/Dest [ 82 0 R /XYZ 62.69291 675.0236 0 ] /Next 248 0 R /Parent 192 0 R /Prev 246 0 R /Title (Hallucinogenic toxins)
 >>
 endobj
 248 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 120.0236 0 ] /Next 249 0 R /Parent 194 0 R /Prev 247 0 R /Title (Specify toxins)
+/Dest [ 82 0 R /XYZ 62.69291 546.0236 0 ] /Next 249 0 R /Parent 192 0 R /Prev 247 0 R /Title (Specify hallucinogenic)
 >>
 endobj
 249 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 675.0236 0 ] /Next 250 0 R /Parent 194 0 R /Prev 248 0 R /Title (Hallucinogenic toxins)
+/Dest [ 82 0 R /XYZ 62.69291 400.2236 0 ] /Next 250 0 R /Parent 192 0 R /Prev 248 0 R /Title (Quarantine condition)
 >>
 endobj
 250 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 546.0236 0 ] /Next 251 0 R /Parent 194 0 R /Prev 249 0 R /Title (Specify hallucinogenic)
+/Dest [ 82 0 R /XYZ 62.69291 232.8236 0 ] /Next 251 0 R /Parent 192 0 R /Prev 249 0 R /Title (Specify legislation for quarantine)
 >>
 endobj
 251 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 400.2236 0 ] /Next 252 0 R /Parent 194 0 R /Prev 250 0 R /Title (Quarantine condition)
+/Dest [ 82 0 R /XYZ 62.69291 120.6236 0 ] /Next 252 0 R /Parent 192 0 R /Prev 250 0 R /Title (Dual use organism)
 >>
 endobj
 252 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 232.8236 0 ] /Next 253 0 R /Parent 194 0 R /Prev 251 0 R /Title (Specify legislation for quarantine)
+/Dest [ 83 0 R /XYZ 62.69291 647.4236 0 ] /Next 253 0 R /Parent 192 0 R /Prev 251 0 R /Title (Specify legislation for dual use)
 >>
 endobj
 253 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 120.6236 0 ] /Next 254 0 R /Parent 194 0 R /Prev 252 0 R /Title (Dual use organism)
+/Dest [ 83 0 R /XYZ 62.69291 518.4236 0 ] /Next 254 0 R /Parent 192 0 R /Prev 252 0 R /Title (Biological interactions)
 >>
 endobj
 254 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 647.4236 0 ] /Next 255 0 R /Parent 194 0 R /Prev 253 0 R /Title (Specify legislation for dual use)
+/Dest [ 83 0 R /XYZ 62.69291 406.2236 0 ] /Next 255 0 R /Parent 192 0 R /Prev 253 0 R /Title (Properties-Application)
 >>
 endobj
 255 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 518.4236 0 ] /Next 256 0 R /Parent 194 0 R /Prev 254 0 R /Title (Biological interactions)
+/Dest [ 83 0 R /XYZ 62.69291 277.2236 0 ] /Next 256 0 R /Parent 192 0 R /Prev 254 0 R /Title (Contains plasmides)
 >>
 endobj
 256 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 406.2236 0 ] /Next 257 0 R /Parent 194 0 R /Prev 255 0 R /Title (Properties-Application)
+/Dest [ 83 0 R /XYZ 62.69291 148.2236 0 ] /Next 257 0 R /Parent 192 0 R /Prev 255 0 R /Title (Specify plasmides)
 >>
 endobj
 257 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 277.2236 0 ] /Next 258 0 R /Parent 194 0 R /Prev 256 0 R /Title (Contains plasmides)
+/Dest [ 84 0 R /XYZ 62.69291 670.2236 0 ] /Next 258 0 R /Parent 192 0 R /Prev 256 0 R /Title (Genetically modified)
 >>
 endobj
 258 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 148.2236 0 ] /Next 259 0 R /Parent 194 0 R /Prev 257 0 R /Title (Specify plasmides)
+/Dest [ 84 0 R /XYZ 62.69291 541.2236 0 ] /Next 259 0 R /Parent 192 0 R /Prev 257 0 R /Title (Specify modifications)
 >>
 endobj
 259 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 670.2236 0 ] /Next 260 0 R /Parent 194 0 R /Prev 258 0 R /Title (Genetically modified)
+/Dest [ 84 0 R /XYZ 62.69291 395.4236 0 ] /Next 260 0 R /Parent 192 0 R /Prev 258 0 R /Title (Kind of deposit)
 >>
 endobj
 260 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 541.2236 0 ] /Next 261 0 R /Parent 194 0 R /Prev 259 0 R /Title (Specify modifications)
+/Dest [ 84 0 R /XYZ 62.69291 249.6236 0 ] /Next 261 0 R /Parent 192 0 R /Prev 259 0 R /Title (Specify restriction for deposit)
 >>
 endobj
 261 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 395.4236 0 ] /Next 262 0 R /Parent 194 0 R /Prev 260 0 R /Title (Kind of deposit)
+/Dest [ 84 0 R /XYZ 62.69291 137.4236 0 ] /Next 262 0 R /Parent 192 0 R /Prev 260 0 R /Title (Condition)
 >>
 endobj
 262 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 249.6236 0 ] /Next 263 0 R /Parent 194 0 R /Prev 261 0 R /Title (Specify restriction for deposit)
+/Dest [ 85 0 R /XYZ 62.69291 691.8236 0 ] /Next 263 0 R /Parent 192 0 R /Prev 261 0 R /Title (Mode of preservation)
 >>
 endobj
 263 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 137.4236 0 ] /Next 264 0 R /Parent 194 0 R /Prev 262 0 R /Title (Condition)
+/Dest [ 85 0 R /XYZ 62.69291 562.8236 0 ] /Next 264 0 R /Parent 192 0 R /Prev 262 0 R /Title (Date of lyophilization)
 >>
 endobj
 264 0 obj
 <<
-/Dest [ 85 0 R /XYZ 62.69291 691.8236 0 ] /Next 265 0 R /Parent 194 0 R /Prev 263 0 R /Title (Mode of preservation)
+/Dest [ 85 0 R /XYZ 62.69291 417.0236 0 ] /Next 265 0 R /Parent 192 0 R /Prev 263 0 R /Title (Tube number of lyophilized)
 >>
 endobj
 265 0 obj
 <<
-/Dest [ 85 0 R /XYZ 62.69291 562.8236 0 ] /Next 266 0 R /Parent 194 0 R /Prev 264 0 R /Title (Date of lyophilization)
+/Dest [ 85 0 R /XYZ 62.69291 288.0236 0 ] /Next 266 0 R /Parent 192 0 R /Prev 264 0 R /Title (Localisation of lyophilized)
 >>
 endobj
 266 0 obj
 <<
-/Dest [ 85 0 R /XYZ 62.69291 417.0236 0 ] /Next 267 0 R /Parent 194 0 R /Prev 265 0 R /Title (Tube number of lyophilized)
+/Dest [ 85 0 R /XYZ 62.69291 175.8236 0 ] /Next 267 0 R /Parent 192 0 R /Prev 265 0 R /Title (Date of cryopreservation -80)
 >>
 endobj
 267 0 obj
 <<
-/Dest [ 85 0 R /XYZ 62.69291 288.0236 0 ] /Next 268 0 R /Parent 194 0 R /Prev 266 0 R /Title (Localisation of lyophilized)
+/Dest [ 86 0 R /XYZ 62.69291 708.6236 0 ] /Next 268 0 R /Parent 192 0 R /Prev 266 0 R /Title (Localisation cryopreserved -80)
 >>
 endobj
 268 0 obj
 <<
-/Dest [ 85 0 R /XYZ 62.69291 175.8236 0 ] /Next 269 0 R /Parent 194 0 R /Prev 267 0 R /Title (Date of cryopreservation -80)
+/Dest [ 86 0 R /XYZ 62.69291 596.4236 0 ] /Next 269 0 R /Parent 192 0 R /Prev 267 0 R /Title (Tube number -80)
 >>
 endobj
 269 0 obj
 <<
-/Dest [ 86 0 R /XYZ 62.69291 708.6236 0 ] /Next 270 0 R /Parent 194 0 R /Prev 268 0 R /Title (Localisation cryopreserved -80)
+/Dest [ 86 0 R /XYZ 62.69291 484.2236 0 ] /Next 270 0 R /Parent 192 0 R /Prev 268 0 R /Title (Date of cryopreservation -152)
 >>
 endobj
 270 0 obj
 <<
-/Dest [ 86 0 R /XYZ 62.69291 596.4236 0 ] /Next 271 0 R /Parent 194 0 R /Prev 269 0 R /Title (Tube number -80)
+/Dest [ 86 0 R /XYZ 62.69291 338.4236 0 ] /Next 271 0 R /Parent 192 0 R /Prev 269 0 R /Title (Localisation cryopreserved -152)
 >>
 endobj
 271 0 obj
 <<
-/Dest [ 86 0 R /XYZ 62.69291 484.2236 0 ] /Next 272 0 R /Parent 194 0 R /Prev 270 0 R /Title (Date of cryopreservation -152)
+/Dest [ 86 0 R /XYZ 62.69291 226.2236 0 ] /Next 272 0 R /Parent 192 0 R /Prev 270 0 R /Title (Tube number -152)
 >>
 endobj
 272 0 obj
 <<
-/Dest [ 86 0 R /XYZ 62.69291 338.4236 0 ] /Next 273 0 R /Parent 194 0 R /Prev 271 0 R /Title (Localisation cryopreserved -152)
+/Dest [ 86 0 R /XYZ 62.69291 114.0236 0 ] /Next 273 0 R /Parent 192 0 R /Prev 271 0 R /Title (Last transfert)
 >>
 endobj
 273 0 obj
 <<
-/Dest [ 86 0 R /XYZ 62.69291 226.2236 0 ] /Next 274 0 R /Parent 194 0 R /Prev 272 0 R /Title (Tube number -152)
+/Dest [ 87 0 R /XYZ 62.69291 658.2236 0 ] /Next 274 0 R /Parent 192 0 R /Prev 272 0 R /Title (AG specify)
 >>
 endobj
 274 0 obj
 <<
-/Dest [ 86 0 R /XYZ 62.69291 114.0236 0 ] /Next 275 0 R /Parent 194 0 R /Prev 273 0 R /Title (Last transfert)
+/Dest [ 87 0 R /XYZ 62.69291 512.4236 0 ] /Next 275 0 R /Parent 192 0 R /Prev 273 0 R /Title (Last check)
 >>
 endobj
 275 0 obj
 <<
-/Dest [ 87 0 R /XYZ 62.69291 658.2236 0 ] /Next 276 0 R /Parent 194 0 R /Prev 274 0 R /Title (AG specify)
+/Dest [ 87 0 R /XYZ 62.69291 366.6236 0 ] /Next 276 0 R /Parent 192 0 R /Prev 274 0 R /Title (Next transfert date)
 >>
 endobj
 276 0 obj
 <<
-/Dest [ 87 0 R /XYZ 62.69291 512.4236 0 ] /Next 277 0 R /Parent 194 0 R /Prev 275 0 R /Title (Last check)
+/Dest [ 87 0 R /XYZ 62.69291 220.8236 0 ] /Next 277 0 R /Parent 192 0 R /Prev 275 0 R /Title (Form of supply)
 >>
 endobj
 277 0 obj
 <<
-/Dest [ 87 0 R /XYZ 62.69291 366.6236 0 ] /Next 278 0 R /Parent 194 0 R /Prev 276 0 R /Title (Next transfert date)
+/Dest [ 88 0 R /XYZ 62.69291 765.0236 0 ] /Next 278 0 R /Parent 192 0 R /Prev 276 0 R /Title (Restricted item)
 >>
 endobj
 278 0 obj
 <<
-/Dest [ 87 0 R /XYZ 62.69291 220.8236 0 ] /Next 279 0 R /Parent 194 0 R /Prev 277 0 R /Title (Form of supply)
+/Dest [ 88 0 R /XYZ 62.69291 619.2236 0 ] /Next 279 0 R /Parent 192 0 R /Prev 277 0 R /Title (Specify restriction)
 >>
 endobj
 279 0 obj
 <<
-/Dest [ 88 0 R /XYZ 62.69291 765.0236 0 ] /Next 280 0 R /Parent 194 0 R /Prev 278 0 R /Title (Restricted item)
+/Dest [ 88 0 R /XYZ 62.69291 473.4236 0 ] /Next 280 0 R /Parent 192 0 R /Prev 278 0 R /Title (Additional data and General remarks)
 >>
 endobj
 280 0 obj
 <<
-/Dest [ 88 0 R /XYZ 62.69291 619.2236 0 ] /Next 281 0 R /Parent 194 0 R /Prev 279 0 R /Title (Specify restriction)
+/Dest [ 88 0 R /XYZ 62.69291 327.6236 0 ] /Next 281 0 R /Parent 192 0 R /Prev 279 0 R /Title (MUT sequences)
 >>
 endobj
 281 0 obj
 <<
-/Dest [ 88 0 R /XYZ 62.69291 473.4236 0 ] /Next 282 0 R /Parent 194 0 R /Prev 280 0 R /Title (Additional data and General remarks)
+/Dest [ 88 0 R /XYZ 62.69291 181.8236 0 ] /Next 282 0 R /Parent 192 0 R /Prev 280 0 R /Title (Deposited MUT sequences)
 >>
 endobj
 282 0 obj
 <<
-/Dest [ 88 0 R /XYZ 62.69291 327.6236 0 ] /Next 283 0 R /Parent 194 0 R /Prev 281 0 R /Title (MUT sequences)
+/Dest [ 89 0 R /XYZ 62.69291 725.4236 0 ] /Next 283 0 R /Parent 192 0 R /Prev 281 0 R /Title (Attached documents type)
 >>
 endobj
 283 0 obj
 <<
-/Dest [ 88 0 R /XYZ 62.69291 181.8236 0 ] /Next 284 0 R /Parent 194 0 R /Prev 282 0 R /Title (Deposited MUT sequences)
+/Dest [ 89 0 R /XYZ 62.69291 579.6236 0 ] /Next 284 0 R /Parent 192 0 R /Prev 282 0 R /Title (Distribution)
 >>
 endobj
 284 0 obj
 <<
-/Dest [ 89 0 R /XYZ 62.69291 725.4236 0 ] /Next 285 0 R /Parent 194 0 R /Prev 283 0 R /Title (Attached documents type)
+/Dest [ 89 0 R /XYZ 62.69291 433.8236 0 ] /Next 285 0 R /Parent 192 0 R /Prev 283 0 R /Title (MDS)
 >>
 endobj
 285 0 obj
 <<
-/Dest [ 89 0 R /XYZ 62.69291 579.6236 0 ] /Next 286 0 R /Parent 194 0 R /Prev 284 0 R /Title (Distribution)
+/Dest [ 89 0 R /XYZ 62.69291 304.8236 0 ] /Next 286 0 R /Parent 192 0 R /Prev 284 0 R /Title (PIC)
 >>
 endobj
 286 0 obj
 <<
-/Dest [ 89 0 R /XYZ 62.69291 433.8236 0 ] /Next 287 0 R /Parent 194 0 R /Prev 285 0 R /Title (MDS)
+/Dest [ 89 0 R /XYZ 62.69291 159.0236 0 ] /Next 287 0 R /Parent 192 0 R /Prev 285 0 R /Title (MTA)
 >>
 endobj
 287 0 obj
 <<
-/Dest [ 89 0 R /XYZ 62.69291 304.8236 0 ] /Next 288 0 R /Parent 194 0 R /Prev 286 0 R /Title (PIC)
+/Dest [ 90 0 R /XYZ 62.69291 691.8236 0 ] /Next 288 0 R /Parent 192 0 R /Prev 286 0 R /Title (MAA)
 >>
 endobj
 288 0 obj
 <<
-/Dest [ 89 0 R /XYZ 62.69291 159.0236 0 ] /Next 289 0 R /Parent 194 0 R /Prev 287 0 R /Title (MTA)
+/Dest [ 90 0 R /XYZ 62.69291 546.0236 0 ] /Next 289 0 R /Parent 192 0 R /Prev 287 0 R /Title (Tossine)
 >>
 endobj
 289 0 obj
 <<
-/Dest [ 90 0 R /XYZ 62.69291 691.8236 0 ] /Next 290 0 R /Parent 194 0 R /Prev 288 0 R /Title (MAA)
+/Dest [ 90 0 R /XYZ 62.69291 417.0236 0 ] /Next 290 0 R /Parent 192 0 R /Prev 288 0 R /Title (Patogeni)
 >>
 endobj
 290 0 obj
 <<
-/Dest [ 90 0 R /XYZ 62.69291 546.0236 0 ] /Next 291 0 R /Parent 194 0 R /Prev 289 0 R /Title (Tossine)
+/Dest [ 90 0 R /XYZ 62.69291 288.0236 0 ] /Next 291 0 R /Parent 192 0 R /Prev 289 0 R /Title (Other \(1\))
 >>
 endobj
 291 0 obj
 <<
-/Dest [ 90 0 R /XYZ 62.69291 417.0236 0 ] /Next 292 0 R /Parent 194 0 R /Prev 290 0 R /Title (Patogeni)
+/Dest [ 90 0 R /XYZ 62.69291 159.0236 0 ] /Next 292 0 R /Parent 192 0 R /Prev 290 0 R /Title (Other \(2\))
 >>
 endobj
 292 0 obj
 <<
-/Dest [ 90 0 R /XYZ 62.69291 288.0236 0 ] /Next 293 0 R /Parent 194 0 R /Prev 291 0 R /Title (Other \(1\))
+/Dest [ 91 0 R /XYZ 62.69291 708.6236 0 ] /Next 293 0 R /Parent 192 0 R /Prev 291 0 R /Title (preservation_lyo)
 >>
 endobj
 293 0 obj
 <<
-/Dest [ 90 0 R /XYZ 62.69291 159.0236 0 ] /Next 294 0 R /Parent 194 0 R /Prev 292 0 R /Title (Other \(2\))
+/Dest [ 91 0 R /XYZ 62.69291 579.6236 0 ] /Next 294 0 R /Parent 192 0 R /Prev 292 0 R /Title (preservation_cryo)
 >>
 endobj
 294 0 obj
 <<
-/Dest [ 91 0 R /XYZ 62.69291 708.6236 0 ] /Next 295 0 R /Parent 194 0 R /Prev 293 0 R /Title (preservation_lyo)
+/Dest [ 91 0 R /XYZ 62.69291 450.6236 0 ] /Next 295 0 R /Parent 192 0 R /Prev 293 0 R /Title (preservation_agar)
 >>
 endobj
 295 0 obj
 <<
-/Dest [ 91 0 R /XYZ 62.69291 579.6236 0 ] /Next 296 0 R /Parent 194 0 R /Prev 294 0 R /Title (preservation_cryo)
+/Dest [ 91 0 R /XYZ 62.69291 321.6236 0 ] /Next 296 0 R /Parent 192 0 R /Prev 294 0 R /Title (preservation_water)
 >>
 endobj
 296 0 obj
 <<
-/Dest [ 91 0 R /XYZ 62.69291 450.6236 0 ] /Next 297 0 R /Parent 194 0 R /Prev 295 0 R /Title (preservation_agar)
+/Dest [ 91 0 R /XYZ 62.69291 192.6236 0 ] /Next 297 0 R /Parent 192 0 R /Prev 295 0 R /Title (preservation_oil)
 >>
 endobj
 297 0 obj
 <<
-/Dest [ 91 0 R /XYZ 62.69291 321.6236 0 ] /Next 298 0 R /Parent 194 0 R /Prev 296 0 R /Title (preservation_water)
+/Dest [ 92 0 R /XYZ 62.69291 742.2236 0 ] /Next 298 0 R /Parent 192 0 R /Prev 296 0 R /Title (known_preservation_lyo)
 >>
 endobj
 298 0 obj
 <<
-/Dest [ 91 0 R /XYZ 62.69291 192.6236 0 ] /Next 299 0 R /Parent 194 0 R /Prev 297 0 R /Title (preservation_oil)
+/Dest [ 92 0 R /XYZ 62.69291 613.2236 0 ] /Next 299 0 R /Parent 192 0 R /Prev 297 0 R /Title (known_preservation_cryo)
 >>
 endobj
 299 0 obj
 <<
-/Dest [ 92 0 R /XYZ 62.69291 742.2236 0 ] /Next 300 0 R /Parent 194 0 R /Prev 298 0 R /Title (known_preservation_lyo)
+/Dest [ 92 0 R /XYZ 62.69291 484.2236 0 ] /Next 300 0 R /Parent 192 0 R /Prev 298 0 R /Title (known_preservation_agar)
 >>
 endobj
 300 0 obj
 <<
-/Dest [ 92 0 R /XYZ 62.69291 613.2236 0 ] /Next 301 0 R /Parent 194 0 R /Prev 299 0 R /Title (known_preservation_cryo)
+/Dest [ 92 0 R /XYZ 62.69291 355.2236 0 ] /Next 301 0 R /Parent 192 0 R /Prev 299 0 R /Title (known_preservation_water)
 >>
 endobj
 301 0 obj
 <<
-/Dest [ 92 0 R /XYZ 62.69291 484.2236 0 ] /Next 302 0 R /Parent 194 0 R /Prev 300 0 R /Title (known_preservation_agar)
+/Dest [ 92 0 R /XYZ 62.69291 226.2236 0 ] /Next 302 0 R /Parent 192 0 R /Prev 300 0 R /Title (Export to MIRRI)
 >>
 endobj
 302 0 obj
 <<
-/Dest [ 92 0 R /XYZ 62.69291 355.2236 0 ] /Next 303 0 R /Parent 194 0 R /Prev 301 0 R /Title (known_preservation_water)
+/Dest [ 93 0 R /XYZ 62.69291 765.0236 0 ] /Next 303 0 R /Parent 192 0 R /Prev 301 0 R /Title (MIRRI Other culture collection numbers)
 >>
 endobj
 303 0 obj
 <<
-/Dest [ 92 0 R /XYZ 62.69291 226.2236 0 ] /Next 304 0 R /Parent 194 0 R /Prev 302 0 R /Title (Export to MIRRI)
+/Dest [ 93 0 R /XYZ 62.69291 602.4236 0 ] /Next 304 0 R /Parent 192 0 R /Prev 302 0 R /Title (MIRRI Restrictions on use)
 >>
 endobj
 304 0 obj
 <<
-/Dest [ 93 0 R /XYZ 62.69291 765.0236 0 ] /Next 305 0 R /Parent 194 0 R /Prev 303 0 R /Title (MIRRI Other culture collection numbers)
+/Dest [ 93 0 R /XYZ 62.69291 445.8236 0 ] /Next 305 0 R /Parent 192 0 R /Prev 303 0 R /Title (MIRRI Nagoya protocol compliance conditions)
 >>
 endobj
 305 0 obj
 <<
-/Dest [ 93 0 R /XYZ 62.69291 602.4236 0 ] /Next 306 0 R /Parent 194 0 R /Prev 304 0 R /Title (MIRRI Restrictions on use)
+/Dest [ 93 0 R /XYZ 62.69291 278.4236 0 ] /Next 306 0 R /Parent 192 0 R /Prev 304 0 R /Title (MIRRI ABS related files)
 >>
 endobj
 306 0 obj
 <<
-/Dest [ 93 0 R /XYZ 62.69291 445.8236 0 ] /Next 307 0 R /Parent 194 0 R /Prev 305 0 R /Title (MIRRI Nagoya protocol compliance conditions)
+/Dest [ 93 0 R /XYZ 62.69291 149.4236 0 ] /Next 307 0 R /Parent 192 0 R /Prev 305 0 R /Title (MIRRI MTA file)
 >>
 endobj
 307 0 obj
 <<
-/Dest [ 93 0 R /XYZ 62.69291 278.4236 0 ] /Next 308 0 R /Parent 194 0 R /Prev 306 0 R /Title (MIRRI ABS related files)
+/Dest [ 94 0 R /XYZ 62.69291 708.6236 0 ] /Next 308 0 R /Parent 192 0 R /Prev 306 0 R /Title (MIRRI Strain from a Registered Collection)
 >>
 endobj
 308 0 obj
 <<
-/Dest [ 93 0 R /XYZ 62.69291 149.4236 0 ] /Next 309 0 R /Parent 194 0 R /Prev 307 0 R /Title (MIRRI MTA file)
+/Dest [ 94 0 R /XYZ 62.69291 552.0236 0 ] /Next 309 0 R /Parent 192 0 R /Prev 307 0 R /Title (MIRRI Risk Group)
 >>
 endobj
 309 0 obj
 <<
-/Dest [ 94 0 R /XYZ 62.69291 708.6236 0 ] /Next 310 0 R /Parent 194 0 R /Prev 308 0 R /Title (MIRRI Strain from a Registered Collection)
+/Dest [ 94 0 R /XYZ 62.69291 389.4236 0 ] /Next 310 0 R /Parent 192 0 R /Prev 308 0 R /Title (MIRRI Biosafety level)
 >>
 endobj
 310 0 obj
 <<
-/Dest [ 94 0 R /XYZ 62.69291 552.0236 0 ] /Next 311 0 R /Parent 194 0 R /Prev 309 0 R /Title (MIRRI Risk Group)
+/Dest [ 94 0 R /XYZ 62.69291 243.6236 0 ] /Next 311 0 R /Parent 192 0 R /Prev 309 0 R /Title (MIRRI Dual use)
 >>
 endobj
 311 0 obj
 <<
-/Dest [ 94 0 R /XYZ 62.69291 389.4236 0 ] /Next 312 0 R /Parent 194 0 R /Prev 310 0 R /Title (MIRRI Biosafety level)
+/Dest [ 95 0 R /XYZ 62.69291 765.0236 0 ] /Next 312 0 R /Parent 192 0 R /Prev 310 0 R /Title (MIRRI Quarantine in Europe)
 >>
 endobj
 312 0 obj
 <<
-/Dest [ 94 0 R /XYZ 62.69291 243.6236 0 ] /Next 313 0 R /Parent 194 0 R /Prev 311 0 R /Title (MIRRI Dual use)
+/Dest [ 95 0 R /XYZ 62.69291 580.8236 0 ] /Next 313 0 R /Parent 192 0 R /Prev 311 0 R /Title (MIRRI Organism type)
 >>
 endobj
 313 0 obj
 <<
-/Dest [ 95 0 R /XYZ 62.69291 765.0236 0 ] /Next 314 0 R /Parent 194 0 R /Prev 312 0 R /Title (MIRRI Quarantine in Europe)
+/Dest [ 95 0 R /XYZ 62.69291 267.0236 0 ] /Next 314 0 R /Parent 192 0 R /Prev 312 0 R /Title (MIRRI Taxon name)
 >>
 endobj
 314 0 obj
 <<
-/Dest [ 95 0 R /XYZ 62.69291 580.8236 0 ] /Next 315 0 R /Parent 194 0 R /Prev 313 0 R /Title (MIRRI Organism type)
+/Dest [ 96 0 R /XYZ 62.69291 765.0236 0 ] /Next 315 0 R /Parent 192 0 R /Prev 313 0 R /Title (MIRRI Infrasubspecific names)
 >>
 endobj
 315 0 obj
 <<
-/Dest [ 95 0 R /XYZ 62.69291 267.0236 0 ] /Next 316 0 R /Parent 194 0 R /Prev 314 0 R /Title (MIRRI Taxon name)
+/Dest [ 96 0 R /XYZ 62.69291 591.6236 0 ] /Next 316 0 R /Parent 192 0 R /Prev 314 0 R /Title (MIRRI Comment on taxonomy)
 >>
 endobj
 316 0 obj
 <<
-/Dest [ 96 0 R /XYZ 62.69291 765.0236 0 ] /Next 317 0 R /Parent 194 0 R /Prev 315 0 R /Title (MIRRI Infrasubspecific names)
+/Dest [ 96 0 R /XYZ 62.69291 441.0236 0 ] /Next 317 0 R /Parent 192 0 R /Prev 315 0 R /Title (MIRRI Status)
 >>
 endobj
 317 0 obj
 <<
-/Dest [ 96 0 R /XYZ 62.69291 591.6236 0 ] /Next 318 0 R /Parent 194 0 R /Prev 316 0 R /Title (MIRRI Comment on taxonomy)
+/Dest [ 96 0 R /XYZ 62.69291 290.4236 0 ] /Next 318 0 R /Parent 192 0 R /Prev 316 0 R /Title (MIRRI History of deposit)
 >>
 endobj
 318 0 obj
 <<
-/Dest [ 96 0 R /XYZ 62.69291 441.0236 0 ] /Next 319 0 R /Parent 194 0 R /Prev 317 0 R /Title (MIRRI Status)
+/Dest [ 96 0 R /XYZ 62.69291 161.4236 0 ] /Next 319 0 R /Parent 192 0 R /Prev 317 0 R /Title (MIRRI Depositor)
 >>
 endobj
 319 0 obj
 <<
-/Dest [ 96 0 R /XYZ 62.69291 290.4236 0 ] /Next 320 0 R /Parent 194 0 R /Prev 318 0 R /Title (MIRRI History of deposit)
+/Dest [ 97 0 R /XYZ 62.69291 691.8236 0 ] /Next 320 0 R /Parent 192 0 R /Prev 318 0 R /Title (MIRRI Date of deposit)
 >>
 endobj
 320 0 obj
 <<
-/Dest [ 96 0 R /XYZ 62.69291 161.4236 0 ] /Next 321 0 R /Parent 194 0 R /Prev 319 0 R /Title (MIRRI Depositor)
+/Dest [ 97 0 R /XYZ 62.69291 546.0236 0 ] /Next 321 0 R /Parent 192 0 R /Prev 319 0 R /Title (MIRRI Collected by)
 >>
 endobj
 321 0 obj
 <<
-/Dest [ 97 0 R /XYZ 62.69291 691.8236 0 ] /Next 322 0 R /Parent 194 0 R /Prev 320 0 R /Title (MIRRI Date of deposit)
+/Dest [ 97 0 R /XYZ 62.69291 400.2236 0 ] /Next 322 0 R /Parent 192 0 R /Prev 320 0 R /Title (MIRRI Date of collection)
 >>
 endobj
 322 0 obj
 <<
-/Dest [ 97 0 R /XYZ 62.69291 546.0236 0 ] /Next 323 0 R /Parent 194 0 R /Prev 321 0 R /Title (MIRRI Collected by)
+/Dest [ 97 0 R /XYZ 62.69291 237.6236 0 ] /Next 323 0 R /Parent 192 0 R /Prev 321 0 R /Title (MIRRI Isolated by)
 >>
 endobj
 323 0 obj
 <<
-/Dest [ 97 0 R /XYZ 62.69291 400.2236 0 ] /Next 324 0 R /Parent 194 0 R /Prev 322 0 R /Title (MIRRI Date of collection)
+/Dest [ 98 0 R /XYZ 62.69291 765.0236 0 ] /Next 324 0 R /Parent 192 0 R /Prev 322 0 R /Title (MIRRI Date of isolation)
 >>
 endobj
 324 0 obj
 <<
-/Dest [ 97 0 R /XYZ 62.69291 237.6236 0 ] /Next 325 0 R /Parent 194 0 R /Prev 323 0 R /Title (MIRRI Isolated by)
+/Dest [ 98 0 R /XYZ 62.69291 602.4236 0 ] /Next 325 0 R /Parent 192 0 R /Prev 323 0 R /Title (MIRRI Date of inclusion in the catalogue)
 >>
 endobj
 325 0 obj
 <<
-/Dest [ 98 0 R /XYZ 62.69291 765.0236 0 ] /Next 326 0 R /Parent 194 0 R /Prev 324 0 R /Title (MIRRI Date of isolation)
+/Dest [ 98 0 R /XYZ 62.69291 445.8236 0 ] /Next 326 0 R /Parent 192 0 R /Prev 324 0 R /Title (MIRRI Tested temperature growth range)
 >>
 endobj
 326 0 obj
 <<
-/Dest [ 98 0 R /XYZ 62.69291 602.4236 0 ] /Next 327 0 R /Parent 194 0 R /Prev 325 0 R /Title (MIRRI Date of inclusion in the catalogue)
+/Dest [ 98 0 R /XYZ 62.69291 222.0236 0 ] /Next 327 0 R /Parent 192 0 R /Prev 325 0 R /Title (MIRRI Recommended growth temperature)
 >>
 endobj
 327 0 obj
 <<
-/Dest [ 98 0 R /XYZ 62.69291 445.8236 0 ] /Next 328 0 R /Parent 194 0 R /Prev 326 0 R /Title (MIRRI Tested temperature growth range)
+/Dest [ 99 0 R /XYZ 62.69291 742.2236 0 ] /Next 328 0 R /Parent 192 0 R /Prev 326 0 R /Title (MIRRI Recommended medium for growth)
 >>
 endobj
 328 0 obj
 <<
-/Dest [ 98 0 R /XYZ 62.69291 222.0236 0 ] /Next 329 0 R /Parent 194 0 R /Prev 327 0 R /Title (MIRRI Recommended growth temperature)
+/Dest [ 99 0 R /XYZ 62.69291 579.6236 0 ] /Next 329 0 R /Parent 192 0 R /Prev 327 0 R /Title (MIRRI Form of supply)
 >>
 endobj
 329 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 742.2236 0 ] /Next 330 0 R /Parent 194 0 R /Prev 328 0 R /Title (MIRRI Recommended medium for growth)
+/Dest [ 99 0 R /XYZ 62.69291 316.2236 0 ] /Next 330 0 R /Parent 192 0 R /Prev 328 0 R /Title (MIRRI Other denomination)
 >>
 endobj
 330 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 579.6236 0 ] /Next 331 0 R /Parent 194 0 R /Prev 329 0 R /Title (MIRRI Form of supply)
+/Dest [ 99 0 R /XYZ 62.69291 142.8236 0 ] /Next 331 0 R /Parent 192 0 R /Prev 329 0 R /Title (MIRRI Coordinates of geographic origin)
 >>
 endobj
 331 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 316.2236 0 ] /Next 332 0 R /Parent 194 0 R /Prev 330 0 R /Title (MIRRI Other denomination)
+/Dest [ 100 0 R /XYZ 62.69291 647.4236 0 ] /Next 332 0 R /Parent 192 0 R /Prev 330 0 R /Title (MIRRI Altitude)
 >>
 endobj
 332 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 142.8236 0 ] /Next 333 0 R /Parent 194 0 R /Prev 331 0 R /Title (MIRRI Coordinates of geographic origin)
+/Dest [ 100 0 R /XYZ 62.69291 501.6236 0 ] /Next 333 0 R /Parent 192 0 R /Prev 331 0 R /Title (MIRRI Geographic origin)
 >>
 endobj
 333 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 647.4236 0 ] /Next 334 0 R /Parent 194 0 R /Prev 332 0 R /Title (MIRRI Altitude)
+/Dest [ 100 0 R /XYZ 62.69291 328.2236 0 ] /Next 334 0 R /Parent 192 0 R /Prev 332 0 R /Title (MIRRI GMO)
 >>
 endobj
 334 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 501.6236 0 ] /Next 335 0 R /Parent 194 0 R /Prev 333 0 R /Title (MIRRI Geographic origin)
+/Dest [ 100 0 R /XYZ 62.69291 115.2236 0 ] /Next 335 0 R /Parent 192 0 R /Prev 333 0 R /Title (MIRRI GMO construction information)
 >>
 endobj
 335 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 328.2236 0 ] /Next 336 0 R /Parent 194 0 R /Prev 334 0 R /Title (MIRRI GMO)
+/Dest [ 101 0 R /XYZ 62.69291 675.0236 0 ] /Next 336 0 R /Parent 192 0 R /Prev 334 0 R /Title (MIRRI Mutant information)
 >>
 endobj
 336 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 115.2236 0 ] /Next 337 0 R /Parent 194 0 R /Prev 335 0 R /Title (MIRRI GMO construction information)
+/Dest [ 101 0 R /XYZ 62.69291 529.2236 0 ] /Next 337 0 R /Parent 192 0 R /Prev 335 0 R /Title (MIRRI Genotype)
 >>
 endobj
 337 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 675.0236 0 ] /Next 338 0 R /Parent 194 0 R /Prev 336 0 R /Title (MIRRI Mutant information)
+/Dest [ 101 0 R /XYZ 62.69291 383.4236 0 ] /Next 338 0 R /Parent 192 0 R /Prev 336 0 R /Title (MIRRI Literature)
 >>
 endobj
 338 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 529.2236 0 ] /Next 339 0 R /Parent 194 0 R /Prev 337 0 R /Title (MIRRI Genotype)
+/Dest [ 101 0 R /XYZ 62.69291 216.0236 0 ] /Next 339 0 R /Parent 192 0 R /Prev 337 0 R /Title (MIRRI Sexual state)
 >>
 endobj
 339 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 383.4236 0 ] /Next 340 0 R /Parent 194 0 R /Prev 338 0 R /Title (MIRRI Literature)
+/Dest [ 102 0 R /XYZ 62.69291 742.2236 0 ] /Next 340 0 R /Parent 192 0 R /Prev 338 0 R /Title (MIRRI Ploidy)
 >>
 endobj
 340 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 216.0236 0 ] /Next 341 0 R /Parent 194 0 R /Prev 339 0 R /Title (MIRRI Sexual state)
+/Dest [ 102 0 R /XYZ 62.69291 596.4236 0 ] /Next 341 0 R /Parent 192 0 R /Prev 339 0 R /Title (MIRRI Interspecific hybrid)
 >>
 endobj
 341 0 obj
 <<
-/Dest [ 102 0 R /XYZ 62.69291 742.2236 0 ] /Next 342 0 R /Parent 194 0 R /Prev 340 0 R /Title (MIRRI Ploidy)
+/Dest [ 102 0 R /XYZ 62.69291 450.6236 0 ] /Next 342 0 R /Parent 192 0 R /Prev 340 0 R /Title (MIRRI Pathogenicity)
 >>
 endobj
 342 0 obj
 <<
-/Dest [ 102 0 R /XYZ 62.69291 596.4236 0 ] /Next 343 0 R /Parent 194 0 R /Prev 341 0 R /Title (MIRRI Interspecific hybrid)
+/Dest [ 102 0 R /XYZ 62.69291 294.0236 0 ] /Next 343 0 R /Parent 192 0 R /Prev 341 0 R /Title (MIRRI Enzyme production)
 >>
 endobj
 343 0 obj
 <<
-/Dest [ 102 0 R /XYZ 62.69291 450.6236 0 ] /Next 344 0 R /Parent 194 0 R /Prev 342 0 R /Title (MIRRI Pathogenicity)
+/Dest [ 102 0 R /XYZ 62.69291 148.2236 0 ] /Next 344 0 R /Parent 192 0 R /Prev 342 0 R /Title (MIRRI Production of metabolites)
 >>
 endobj
 344 0 obj
 <<
-/Dest [ 102 0 R /XYZ 62.69291 294.0236 0 ] /Next 345 0 R /Parent 194 0 R /Prev 343 0 R /Title (MIRRI Enzyme production)
+/Dest [ 103 0 R /XYZ 62.69291 691.8236 0 ] /Next 345 0 R /Parent 192 0 R /Prev 343 0 R /Title (MIRRI Applications)
 >>
 endobj
 345 0 obj
 <<
-/Dest [ 102 0 R /XYZ 62.69291 148.2236 0 ] /Next 346 0 R /Parent 194 0 R /Prev 344 0 R /Title (MIRRI Production of metabolites)
+/Dest [ 103 0 R /XYZ 62.69291 546.0236 0 ] /Next 346 0 R /Parent 192 0 R /Prev 344 0 R /Title (MIRRI Remarks)
 >>
 endobj
 346 0 obj
 <<
-/Dest [ 103 0 R /XYZ 62.69291 691.8236 0 ] /Next 347 0 R /Parent 194 0 R /Prev 345 0 R /Title (MIRRI Applications)
+/Dest [ 103 0 R /XYZ 62.69291 400.2236 0 ] /Next 347 0 R /Parent 192 0 R /Prev 345 0 R /Title (MIRRI Plasmids)
 >>
 endobj
 347 0 obj
 <<
-/Dest [ 103 0 R /XYZ 62.69291 546.0236 0 ] /Next 348 0 R /Parent 194 0 R /Prev 346 0 R /Title (MIRRI Remarks)
+/Dest [ 103 0 R /XYZ 62.69291 232.8236 0 ] /Next 348 0 R /Parent 192 0 R /Prev 346 0 R /Title (MIRRI Plasmids collections fields)
 >>
 endobj
 348 0 obj
 <<
-/Dest [ 103 0 R /XYZ 62.69291 400.2236 0 ] /Next 349 0 R /Parent 194 0 R /Prev 347 0 R /Title (MIRRI Plasmids)
+/Dest [ 104 0 R /XYZ 62.69291 765.0236 0 ] /Next 349 0 R /Parent 192 0 R /Prev 347 0 R /Title (MIRRI Substrate/host of isolation)
 >>
 endobj
 349 0 obj
 <<
-/Dest [ 103 0 R /XYZ 62.69291 232.8236 0 ] /Next 350 0 R /Parent 194 0 R /Prev 348 0 R /Title (MIRRI Plasmids collections fields)
+/Dest [ 104 0 R /XYZ 62.69291 608.4236 0 ] /Next 350 0 R /Parent 192 0 R /Prev 348 0 R /Title (MIRRI Isolation habitat)
 >>
 endobj
 350 0 obj
 <<
-/Dest [ 104 0 R /XYZ 62.69291 765.0236 0 ] /Next 351 0 R /Parent 194 0 R /Prev 349 0 R /Title (MIRRI Substrate/host of isolation)
+/Dest [ 104 0 R /XYZ 62.69291 430.2236 0 ] /Next 351 0 R /Parent 192 0 R /Prev 349 0 R /Title (MIRRI Ontobiotope term for the isolation habitat)
 >>
 endobj
 351 0 obj
 <<
-/Dest [ 104 0 R /XYZ 62.69291 608.4236 0 ] /Next 352 0 R /Parent 194 0 R /Prev 350 0 R /Title (MIRRI Isolation habitat)
+/Dest [ 104 0 R /XYZ 62.69291 262.8236 0 ] /Next 352 0 R /Parent 192 0 R /Prev 350 0 R /Title (MIRRI Gene sequences and accession numbers)
 >>
 endobj
 352 0 obj
 <<
-/Dest [ 104 0 R /XYZ 62.69291 430.2236 0 ] /Next 353 0 R /Parent 194 0 R /Prev 351 0 R /Title (MIRRI Ontobiotope term for the isolation habitat)
+/Dest [ 105 0 R /XYZ 62.69291 765.0236 0 ] /Parent 192 0 R /Prev 351 0 R /Title (MIRRI Literature linked to the sequence/genome)
 >>
 endobj
 353 0 obj
 <<
-/Dest [ 104 0 R /XYZ 62.69291 262.8236 0 ] /Next 354 0 R /Parent 194 0 R /Prev 352 0 R /Title (MIRRI Gene sequences and accession numbers)
+/Count 9 /Dest [ 105 0 R /XYZ 62.69291 586.8236 0 ] /First 354 0 R /Last 362 0 R /Next 363 0 R /Parent 150 0 R 
+  /Prev 192 0 R /Title (Men\371 admin)
 >>
 endobj
 354 0 obj
 <<
-/Dest [ 106 0 R /XYZ 62.69291 765.0236 0 ] /Parent 194 0 R /Prev 353 0 R /Title (MIRRI Literature linked to the sequence/genome)
+/Count 5 /Dest [ 105 0 R /XYZ 62.69291 555.9236 0 ] /First 355 0 R /Last 359 0 R /Next 360 0 R /Parent 353 0 R 
+  /Title (Authorize an user)
 >>
 endobj
 355 0 obj
 <<
-/Count 7 /Dest [ 106 0 R /XYZ 62.69291 586.8236 0 ] /First 356 0 R /Last 362 0 R /Next 363 0 R /Parent 150 0 R 
-  /Prev 194 0 R /Title (Men\371 admin)
+/Dest [ 105 0 R /XYZ 62.69291 432.9236 0 ] /Next 356 0 R /Parent 354 0 R /Title (None)
 >>
 endobj
 356 0 obj
 <<
-/Count 5 /Dest [ 106 0 R /XYZ 62.69291 555.9236 0 ] /First 357 0 R /Last 361 0 R /Next 362 0 R /Parent 355 0 R 
-  /Title (Authorize an user)
+/Dest [ 105 0 R /XYZ 62.69291 390.6236 0 ] /Next 357 0 R /Parent 354 0 R /Prev 355 0 R /Title (Administrator)
 >>
 endobj
 357 0 obj
 <<
-/Dest [ 106 0 R /XYZ 62.69291 432.9236 0 ] /Next 358 0 R /Parent 356 0 R /Title (None)
+/Dest [ 105 0 R /XYZ 62.69291 348.3236 0 ] /Next 358 0 R /Parent 354 0 R /Prev 356 0 R /Title (Advanced user)
 >>
 endobj
 358 0 obj
 <<
-/Dest [ 106 0 R /XYZ 62.69291 390.6236 0 ] /Next 359 0 R /Parent 356 0 R /Prev 357 0 R /Title (Administrator)
+/Dest [ 105 0 R /XYZ 62.69291 306.0236 0 ] /Next 359 0 R /Parent 354 0 R /Prev 357 0 R /Title (Internal user)
 >>
 endobj
 359 0 obj
 <<
-/Dest [ 106 0 R /XYZ 62.69291 348.3236 0 ] /Next 360 0 R /Parent 356 0 R /Prev 358 0 R /Title (Advanced user)
+/Dest [ 105 0 R /XYZ 62.69291 263.7236 0 ] /Parent 354 0 R /Prev 358 0 R /Title (User)
 >>
 endobj
 360 0 obj
 <<
-/Dest [ 106 0 R /XYZ 62.69291 306.0236 0 ] /Next 361 0 R /Parent 356 0 R /Prev 359 0 R /Title (Internal user)
+/Dest [ 105 0 R /XYZ 62.69291 238.2236 0 ] /Next 361 0 R /Parent 353 0 R /Prev 354 0 R /Title (List of authorized users)
 >>
 endobj
 361 0 obj
 <<
-/Dest [ 106 0 R /XYZ 62.69291 263.7236 0 ] /Parent 356 0 R /Prev 360 0 R /Title (User)
+/Dest [ 105 0 R /XYZ 62.69291 148.8236 0 ] /Next 362 0 R /Parent 353 0 R /Prev 360 0 R /Title (Web service version)
 >>
 endobj
 362 0 obj
 <<
-/Dest [ 106 0 R /XYZ 62.69291 238.2236 0 ] /Parent 355 0 R /Prev 356 0 R /Title (List of authorized users)
+/Dest [ 110 0 R /XYZ 62.69291 765.0236 0 ] /Parent 353 0 R /Prev 361 0 R /Title (Web site analytics)
 >>
 endobj
 363 0 obj
 <<
-/Count 7 /Dest [ 106 0 R /XYZ 62.69291 148.8236 0 ] /First 364 0 R /Last 368 0 R /Parent 150 0 R /Prev 355 0 R 
+/Count 7 /Dest [ 110 0 R /XYZ 62.69291 720.0236 0 ] /First 364 0 R /Last 368 0 R /Parent 150 0 R /Prev 353 0 R 
   /Title (Aggiornamento del sito web MUT)
 >>
 endobj
 364 0 obj
 <<
-/Count 3 /Dest [ 110 0 R /XYZ 62.69291 725.4236 0 ] /First 365 0 R /Last 367 0 R /Next 368 0 R /Parent 363 0 R 
+/Count 3 /Dest [ 110 0 R /XYZ 62.69291 605.1236 0 ] /First 365 0 R /Last 367 0 R /Next 368 0 R /Parent 363 0 R 
   /Title (Modifica / aggiunta del contenuto sul repository GitHub)
 >>
 endobj
@@ -3364,7 +3363,7 @@ endobj
   57 0 R 60 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 
   75 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 
   86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 
-  96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 106 0 R 
+  96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 
   110 0 R 113 0 R 117 0 R 121 0 R 125 0 R 128 0 R 132 0 R 135 0 R ] /Type /Pages
 >>
 endobj
@@ -3384,7 +3383,7 @@ Q
 q
 1 0 0 1 62.69291 727.4236 cm
 q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Data rilascio: Mon Jun 26 12:56:09 AM CEST 2023) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Data rilascio: Mon Jun 26 12:57:36 AM CEST 2023) Tj T* ET
 Q
 Q
 q
@@ -3439,7 +3438,7 @@ Q
 q
 1 0 0 1 0 137.4 cm
 q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf 0 0 .501961 rg (men\371 admin) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL /F1 9 Tf 0 0 .501961 rg (Men\371 admin) Tj T* ET
 Q
 Q
 q
@@ -3550,7 +3549,7 @@ q
 1 0 0 1 397.8898 3 cm
 q
 0 0 .501961 rg
-BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 61.992 0 Td (50) Tj T* -61.992 0 Td ET
+BT 1 0 0 1 0 1.8 Tm /F1 9 Tf 10.8 TL 61.992 0 Td (51) Tj T* -61.992 0 Td ET
 Q
 Q
 q
@@ -3769,7 +3768,7 @@ endstream
 endobj
 373 0 obj
 <<
-/Length 3976
+/Length 3416
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -3947,56 +3946,30 @@ Q
 q
 1 0 0 1 62.69291 325.6783 cm
 q
-BT 1 0 0 1 0 3.15 Tm 18.9 TL /F1 15.75 Tf 0 0 .501961 rg (men\371 admin) Tj T* ET
+BT 1 0 0 1 0 3.15 Tm 18.9 TL /F1 15.75 Tf 0 0 .501961 rg (Men\371 admin) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 297.4783 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Web service version) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 280.6783 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa funzione visualizza la versione del web service) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 252.4783 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Web site analytics) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 235.6783 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa voce permette di acceddere a statistiche di accesso del web service TUCC) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 204.7783 cm
+1 0 0 1 62.69291 294.7783 cm
 q
 BT 1 0 0 1 0 3.15 Tm 18.9 TL /F1 15.75 Tf 0 0 0 rg (Administration tools) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 176.5783 cm
+1 0 0 1 62.69291 266.5783 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Insert a new strain) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 159.7783 cm
+1 0 0 1 62.69291 249.7783 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa opzione permette di inserire un nuovo ceppo nel database.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 142.9783 cm
+1 0 0 1 62.69291 232.9783 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (La prima tappa cnsiste nella scelta della specie.) Tj T* ET
@@ -15894,7 +15867,7 @@ endstream
 endobj
 421 0 obj
 <<
-/Length 5810
+/Length 5420
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -16104,48 +16077,74 @@ BT 1 0 0 1 0 12.6 Tm 1.338966 Tw 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questa fun
 Q
 Q
 q
-1 0 0 1 62.69291 129.9236 cm
+1 0 0 1 62.69291 132.6236 cm
 q
-BT 1 0 0 1 0 3.15 Tm 18.9 TL /F1 15.75 Tf 0 0 0 rg (Aggiornamento del sito web MUT) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Web service version) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 113.1236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Il contenuto del sito MUT \200 gestito tramite il seguente repository GitHub:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 96.32362 cm
-q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 .501961 rg /F2+0 9 Tf 10.8 TL (www.tucc-database.unito.it/new_mut) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 79.52362 cm
+1 0 0 1 62.69291 115.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (La procedura per apportare modifiche o aggiunte al sito si articola in 2 fasi:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa funzione visualizza la versione del web service) Tj T* ET
 Q
-Q
-q
-1 0 0 1 62.69291 76.86614 cm
 Q
  
 endstream
 endobj
 422 0 obj
 <<
-/Length 2974
+/Length 3924
 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 62.69291 765.0236 cm
+1 0 0 1 62.69291 748.8236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Web site analytics) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 754.2236 cm
+1 0 0 1 62.69291 732.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa voce permette di acceddere a statistiche di accesso del web service TUCC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.1236 cm
+q
+BT 1 0 0 1 0 3.15 Tm 18.9 TL /F1 15.75 Tf 0 0 0 rg (Aggiornamento del sito web MUT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.3236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Il contenuto del sito MUT \200 gestito tramite il seguente repository GitHub:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 667.5236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 .501961 rg /F2+0 9 Tf 10.8 TL (www.tucc-database.unito.it/new_mut) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.7236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (La procedura per apportare modifiche o aggiunte al sito si articola in 2 fasi:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 644.7236 cm
+Q
+q
+1 0 0 1 62.69291 644.7236 cm
+Q
+q
+1 0 0 1 62.69291 633.9236 cm
 q
 0 0 0 rg
 q
@@ -16167,10 +16166,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 748.2236 cm
+1 0 0 1 62.69291 627.9236 cm
 Q
 q
-1 0 0 1 62.69291 737.4236 cm
+1 0 0 1 62.69291 617.1236 cm
 q
 0 0 0 rg
 q
@@ -16192,22 +16191,22 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 737.4236 cm
+1 0 0 1 62.69291 617.1236 cm
 Q
 q
-1 0 0 1 62.69291 709.2236 cm
+1 0 0 1 62.69291 588.9236 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Modifica / aggiunta del contenuto sul repository GitHub) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 697.2236 cm
+1 0 0 1 62.69291 576.9236 cm
 Q
 q
-1 0 0 1 62.69291 697.2236 cm
+1 0 0 1 62.69291 576.9236 cm
 Q
 q
-1 0 0 1 62.69291 686.4236 cm
+1 0 0 1 62.69291 566.1236 cm
 q
 0 0 0 rg
 q
@@ -16228,30 +16227,30 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 686.4236 cm
+1 0 0 1 62.69291 566.1236 cm
 Q
 q
-1 0 0 1 62.69291 669.6236 cm
+1 0 0 1 62.69291 549.3236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (La pagina ha l'aspetto seguente, la parte centrale presenta un elenco di file.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 133.1764 460.3059 cm
+1 0 0 1 133.1764 340.0059 cm
 q
 328.9228 0 0 203.3177 0 0 cm
 /FormXob.d6788a1c2416aac7f01f4e5de65ae287 Do
 Q
 Q
 q
-1 0 0 1 62.69291 454.3059 cm
+1 0 0 1 62.69291 334.0059 cm
 Q
 q
-1 0 0 1 62.69291 454.3059 cm
+1 0 0 1 62.69291 334.0059 cm
 Q
 q
-1 0 0 1 62.69291 443.5059 cm
+1 0 0 1 62.69291 323.2059 cm
 q
 0 0 0 rg
 q
@@ -16272,23 +16271,23 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 443.5059 cm
+1 0 0 1 62.69291 323.2059 cm
 Q
 q
-1 0 0 1 133.1764 335.4741 cm
+1 0 0 1 133.1764 215.1741 cm
 q
 328.9228 0 0 102.0318 0 0 cm
 /FormXob.8f9343d787c291ed6adee67c575a5610 Do
 Q
 Q
 q
-1 0 0 1 62.69291 329.4741 cm
+1 0 0 1 62.69291 209.1741 cm
 Q
 q
-1 0 0 1 62.69291 329.4741 cm
+1 0 0 1 62.69291 209.1741 cm
 Q
 q
-1 0 0 1 62.69291 318.6741 cm
+1 0 0 1 62.69291 198.3741 cm
 q
 0 0 0 rg
 q
@@ -16309,10 +16308,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 318.6741 cm
+1 0 0 1 62.69291 198.3741 cm
 Q
 q
-1 0 0 1 62.69291 291.0741 cm
+1 0 0 1 62.69291 170.7741 cm
 q
 BT 1 0 0 1 0 12.6 Tm .069879 Tw 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (La cartella ) Tj /F3+0 9 Tf 10.8 TL (pages) Tj /F2+0 9 Tf 10.8 TL ( presenta un elenco di file con l'estensione ) Tj /F3+0 9 Tf 10.8 TL (.rst) Tj /F2+0 9 Tf 10.8 TL (. Questi file sono file di testo e possono essere editati) Tj T* 0 Tw (direttamente on-line.) Tj T* ET
 Q
@@ -17629,393 +17628,393 @@ xref
 0001059286 00000 n 
 0001059495 00000 n 
 0001059704 00000 n 
-0001059900 00000 n 
-0001060129 00000 n 
-0001060324 00000 n 
-0001189796 00000 n 
-0001217276 00000 n 
-0001217620 00000 n 
-0001320387 00000 n 
-0001402436 00000 n 
-0001402760 00000 n 
-0001405737 00000 n 
-0001513064 00000 n 
-0001513255 00000 n 
-0001513599 00000 n 
-0001580212 00000 n 
-0001587866 00000 n 
-0001626556 00000 n 
-0001626930 00000 n 
-0001674440 00000 n 
-0001687131 00000 n 
-0001700672 00000 n 
-0001701046 00000 n 
-0001719226 00000 n 
-0001719333 00000 n 
-0001719657 00000 n 
-0001797270 00000 n 
-0001797457 00000 n 
-0002049187 00000 n 
-0002049531 00000 n 
-0002062935 00000 n 
-0002063135 00000 n 
-0002063429 00000 n 
-0002065448 00000 n 
-0002092961 00000 n 
-0002093203 00000 n 
-0002094400 00000 n 
-0002096362 00000 n 
-0002122523 00000 n 
-0002122776 00000 n 
-0002123959 00000 n 
-0002125927 00000 n 
-0002149544 00000 n 
-0002149794 00000 n 
-0002150941 00000 n 
-0002151051 00000 n 
-0002151341 00000 n 
-0002151420 00000 n 
-0002151544 00000 n 
-0002151677 00000 n 
-0002151850 00000 n 
-0002151974 00000 n 
-0002152097 00000 n 
-0002152278 00000 n 
-0002152402 00000 n 
-0002152580 00000 n 
-0002152710 00000 n 
-0002152850 00000 n 
-0002152976 00000 n 
-0002153113 00000 n 
-0002153250 00000 n 
-0002153427 00000 n 
-0002153558 00000 n 
-0002153711 00000 n 
-0002153850 00000 n 
-0002153981 00000 n 
-0002154127 00000 n 
-0002154261 00000 n 
-0002154395 00000 n 
-0002154511 00000 n 
-0002154683 00000 n 
-0002154818 00000 n 
-0002154964 00000 n 
-0002155091 00000 n 
-0002155224 00000 n 
-0002155396 00000 n 
+0001059913 00000 n 
+0001060109 00000 n 
+0001060304 00000 n 
+0001189776 00000 n 
+0001217256 00000 n 
+0001217608 00000 n 
+0001320375 00000 n 
+0001402424 00000 n 
+0001402748 00000 n 
+0001405725 00000 n 
+0001513052 00000 n 
+0001513243 00000 n 
+0001513587 00000 n 
+0001580200 00000 n 
+0001587854 00000 n 
+0001626544 00000 n 
+0001626918 00000 n 
+0001674428 00000 n 
+0001687119 00000 n 
+0001700660 00000 n 
+0001701034 00000 n 
+0001719214 00000 n 
+0001719321 00000 n 
+0001719645 00000 n 
+0001797258 00000 n 
+0001797445 00000 n 
+0002049175 00000 n 
+0002049519 00000 n 
+0002062923 00000 n 
+0002063123 00000 n 
+0002063417 00000 n 
+0002065436 00000 n 
+0002092949 00000 n 
+0002093191 00000 n 
+0002094388 00000 n 
+0002096350 00000 n 
+0002122511 00000 n 
+0002122764 00000 n 
+0002123947 00000 n 
+0002125915 00000 n 
+0002149532 00000 n 
+0002149782 00000 n 
+0002150929 00000 n 
+0002151039 00000 n 
+0002151329 00000 n 
+0002151408 00000 n 
+0002151532 00000 n 
+0002151665 00000 n 
+0002151797 00000 n 
+0002151978 00000 n 
+0002152102 00000 n 
+0002152280 00000 n 
+0002152410 00000 n 
+0002152550 00000 n 
+0002152676 00000 n 
+0002152813 00000 n 
+0002152950 00000 n 
+0002153127 00000 n 
+0002153258 00000 n 
+0002153411 00000 n 
+0002153550 00000 n 
+0002153681 00000 n 
+0002153827 00000 n 
+0002153961 00000 n 
+0002154095 00000 n 
+0002154211 00000 n 
+0002154383 00000 n 
+0002154518 00000 n 
+0002154664 00000 n 
+0002154791 00000 n 
+0002154924 00000 n 
+0002155096 00000 n 
+0002155205 00000 n 
+0002155381 00000 n 
 0002155505 00000 n 
-0002155681 00000 n 
-0002155805 00000 n 
-0002155949 00000 n 
-0002156092 00000 n 
-0002156254 00000 n 
-0002156385 00000 n 
-0002156528 00000 n 
-0002156669 00000 n 
-0002156847 00000 n 
-0002156962 00000 n 
-0002157144 00000 n 
-0002157259 00000 n 
-0002157378 00000 n 
-0002157523 00000 n 
-0002157701 00000 n 
-0002157822 00000 n 
-0002157955 00000 n 
-0002158079 00000 n 
-0002158214 00000 n 
-0002158360 00000 n 
-0002158485 00000 n 
-0002158609 00000 n 
-0002158733 00000 n 
-0002158858 00000 n 
-0002158990 00000 n 
-0002159115 00000 n 
-0002159250 00000 n 
-0002159378 00000 n 
-0002159506 00000 n 
-0002159643 00000 n 
-0002159770 00000 n 
-0002159906 00000 n 
-0002160043 00000 n 
-0002160178 00000 n 
-0002160324 00000 n 
-0002160491 00000 n 
-0002160625 00000 n 
-0002160764 00000 n 
-0002160904 00000 n 
-0002161037 00000 n 
-0002161165 00000 n 
-0002161291 00000 n 
-0002161415 00000 n 
-0002161538 00000 n 
-0002161662 00000 n 
-0002161835 00000 n 
-0002161967 00000 n 
-0002162115 00000 n 
-0002162257 00000 n 
-0002162404 00000 n 
-0002162558 00000 n 
-0002162717 00000 n 
-0002162847 00000 n 
-0002162982 00000 n 
-0002163129 00000 n 
-0002163263 00000 n 
-0002163395 00000 n 
-0002163525 00000 n 
-0002163673 00000 n 
-0002163813 00000 n 
-0002163947 00000 n 
-0002164107 00000 n 
-0002164248 00000 n 
-0002164379 00000 n 
-0002164517 00000 n 
-0002164662 00000 n 
-0002164808 00000 n 
-0002164944 00000 n 
-0002165077 00000 n 
-0002165217 00000 n 
-0002165358 00000 n 
-0002165497 00000 n 
-0002165650 00000 n 
-0002165786 00000 n 
-0002165937 00000 n 
-0002166079 00000 n 
-0002166220 00000 n 
-0002166357 00000 n 
-0002166493 00000 n 
-0002166632 00000 n 
-0002166772 00000 n 
-0002166906 00000 n 
-0002167056 00000 n 
-0002167184 00000 n 
-0002167323 00000 n 
-0002167464 00000 n 
-0002167609 00000 n 
-0002167755 00000 n 
-0002167902 00000 n 
-0002168051 00000 n 
-0002168185 00000 n 
-0002168333 00000 n 
-0002168483 00000 n 
-0002168618 00000 n 
-0002168751 00000 n 
-0002168880 00000 n 
-0002169009 00000 n 
-0002169147 00000 n 
-0002169280 00000 n 
-0002169414 00000 n 
-0002169552 00000 n 
-0002169706 00000 n 
-0002169838 00000 n 
-0002169980 00000 n 
-0002170122 00000 n 
-0002170253 00000 n 
-0002170375 00000 n 
-0002170497 00000 n 
-0002170619 00000 n 
-0002170741 00000 n 
-0002170867 00000 n 
-0002170994 00000 n 
-0002171124 00000 n 
-0002171254 00000 n 
-0002171389 00000 n 
-0002171525 00000 n 
-0002171661 00000 n 
-0002171798 00000 n 
-0002171933 00000 n 
-0002172074 00000 n 
-0002172216 00000 n 
-0002172358 00000 n 
-0002172501 00000 n 
-0002172635 00000 n 
-0002172792 00000 n 
-0002172936 00000 n 
-0002173098 00000 n 
-0002173240 00000 n 
-0002173373 00000 n 
-0002173533 00000 n 
-0002173668 00000 n 
-0002173808 00000 n 
-0002173941 00000 n 
-0002174086 00000 n 
-0002174224 00000 n 
-0002174359 00000 n 
-0002174506 00000 n 
-0002174650 00000 n 
-0002174781 00000 n 
-0002174924 00000 n 
-0002175058 00000 n 
-0002175198 00000 n 
-0002175335 00000 n 
-0002175478 00000 n 
-0002175614 00000 n 
-0002175756 00000 n 
-0002175915 00000 n 
-0002176071 00000 n 
-0002176226 00000 n 
-0002176380 00000 n 
+0002155649 00000 n 
+0002155792 00000 n 
+0002155954 00000 n 
+0002156085 00000 n 
+0002156228 00000 n 
+0002156369 00000 n 
+0002156547 00000 n 
+0002156662 00000 n 
+0002156844 00000 n 
+0002156959 00000 n 
+0002157078 00000 n 
+0002157223 00000 n 
+0002157401 00000 n 
+0002157522 00000 n 
+0002157655 00000 n 
+0002157779 00000 n 
+0002157914 00000 n 
+0002158060 00000 n 
+0002158185 00000 n 
+0002158309 00000 n 
+0002158433 00000 n 
+0002158558 00000 n 
+0002158690 00000 n 
+0002158815 00000 n 
+0002158950 00000 n 
+0002159078 00000 n 
+0002159206 00000 n 
+0002159343 00000 n 
+0002159470 00000 n 
+0002159606 00000 n 
+0002159743 00000 n 
+0002159878 00000 n 
+0002160024 00000 n 
+0002160191 00000 n 
+0002160325 00000 n 
+0002160464 00000 n 
+0002160604 00000 n 
+0002160737 00000 n 
+0002160865 00000 n 
+0002160991 00000 n 
+0002161115 00000 n 
+0002161238 00000 n 
+0002161362 00000 n 
+0002161535 00000 n 
+0002161667 00000 n 
+0002161815 00000 n 
+0002161957 00000 n 
+0002162104 00000 n 
+0002162258 00000 n 
+0002162417 00000 n 
+0002162547 00000 n 
+0002162682 00000 n 
+0002162829 00000 n 
+0002162963 00000 n 
+0002163095 00000 n 
+0002163225 00000 n 
+0002163373 00000 n 
+0002163513 00000 n 
+0002163647 00000 n 
+0002163807 00000 n 
+0002163948 00000 n 
+0002164079 00000 n 
+0002164217 00000 n 
+0002164362 00000 n 
+0002164508 00000 n 
+0002164644 00000 n 
+0002164777 00000 n 
+0002164917 00000 n 
+0002165058 00000 n 
+0002165197 00000 n 
+0002165350 00000 n 
+0002165486 00000 n 
+0002165637 00000 n 
+0002165779 00000 n 
+0002165920 00000 n 
+0002166057 00000 n 
+0002166193 00000 n 
+0002166332 00000 n 
+0002166472 00000 n 
+0002166606 00000 n 
+0002166756 00000 n 
+0002166884 00000 n 
+0002167023 00000 n 
+0002167164 00000 n 
+0002167309 00000 n 
+0002167455 00000 n 
+0002167602 00000 n 
+0002167751 00000 n 
+0002167885 00000 n 
+0002168033 00000 n 
+0002168183 00000 n 
+0002168318 00000 n 
+0002168451 00000 n 
+0002168580 00000 n 
+0002168709 00000 n 
+0002168847 00000 n 
+0002168980 00000 n 
+0002169114 00000 n 
+0002169252 00000 n 
+0002169406 00000 n 
+0002169538 00000 n 
+0002169680 00000 n 
+0002169822 00000 n 
+0002169953 00000 n 
+0002170075 00000 n 
+0002170197 00000 n 
+0002170319 00000 n 
+0002170441 00000 n 
+0002170567 00000 n 
+0002170694 00000 n 
+0002170824 00000 n 
+0002170954 00000 n 
+0002171089 00000 n 
+0002171225 00000 n 
+0002171361 00000 n 
+0002171498 00000 n 
+0002171633 00000 n 
+0002171774 00000 n 
+0002171916 00000 n 
+0002172058 00000 n 
+0002172201 00000 n 
+0002172335 00000 n 
+0002172492 00000 n 
+0002172636 00000 n 
+0002172798 00000 n 
+0002172940 00000 n 
+0002173073 00000 n 
+0002173233 00000 n 
+0002173368 00000 n 
+0002173508 00000 n 
+0002173641 00000 n 
+0002173786 00000 n 
+0002173924 00000 n 
+0002174059 00000 n 
+0002174206 00000 n 
+0002174350 00000 n 
+0002174481 00000 n 
+0002174624 00000 n 
+0002174758 00000 n 
+0002174898 00000 n 
+0002175035 00000 n 
+0002175178 00000 n 
+0002175314 00000 n 
+0002175456 00000 n 
+0002175615 00000 n 
+0002175771 00000 n 
+0002175926 00000 n 
+0002176080 00000 n 
+0002176219 00000 n 
+0002176362 00000 n 
 0002176519 00000 n 
-0002176662 00000 n 
-0002176819 00000 n 
-0002176953 00000 n 
-0002177096 00000 n 
-0002177225 00000 n 
-0002177379 00000 n 
-0002177523 00000 n 
-0002177657 00000 n 
-0002177793 00000 n 
-0002177931 00000 n 
-0002178063 00000 n 
-0002178209 00000 n 
-0002178348 00000 n 
-0002178491 00000 n 
-0002178642 00000 n 
-0002178780 00000 n 
-0002178913 00000 n 
-0002179047 00000 n 
-0002179200 00000 n 
-0002179353 00000 n 
-0002179496 00000 n 
-0002179664 00000 n 
-0002179826 00000 n 
-0002179978 00000 n 
-0002180152 00000 n 
-0002180316 00000 n 
-0002180426 00000 n 
-0002180559 00000 n 
-0002180692 00000 n 
-0002180825 00000 n 
-0002180935 00000 n 
-0002181065 00000 n 
-0002181242 00000 n 
-0002181444 00000 n 
-0002181603 00000 n 
-0002181778 00000 n 
-0002181905 00000 n 
-0002182072 00000 n 
-0002182214 00000 n 
-0002182340 00000 n 
-0002182831 00000 n 
-0002189356 00000 n 
-0002193385 00000 n 
-0002195919 00000 n 
-0002199560 00000 n 
-0002205499 00000 n 
-0002209098 00000 n 
-0002210713 00000 n 
-0002212471 00000 n 
-0002216130 00000 n 
-0002217374 00000 n 
-0002220522 00000 n 
-0002221727 00000 n 
-0002225194 00000 n 
-0002230153 00000 n 
-0002234931 00000 n 
-0002239800 00000 n 
-0002244883 00000 n 
-0002251003 00000 n 
-0002256087 00000 n 
-0002260436 00000 n 
-0002262222 00000 n 
-0002267016 00000 n 
-0002272874 00000 n 
-0002279345 00000 n 
-0002285628 00000 n 
-0002292055 00000 n 
-0002297041 00000 n 
-0002301982 00000 n 
-0002307030 00000 n 
-0002312440 00000 n 
-0002317161 00000 n 
-0002322365 00000 n 
-0002326964 00000 n 
-0002331376 00000 n 
-0002335668 00000 n 
-0002340805 00000 n 
-0002345853 00000 n 
-0002351224 00000 n 
-0002356802 00000 n 
-0002363650 00000 n 
-0002368687 00000 n 
-0002373966 00000 n 
-0002379753 00000 n 
-0002386003 00000 n 
-0002392181 00000 n 
-0002397076 00000 n 
-0002402015 00000 n 
-0002406853 00000 n 
-0002412261 00000 n 
-0002418124 00000 n 
-0002421151 00000 n 
-0002422556 00000 n 
-0002425157 00000 n 
-0002426975 00000 n 
-0002429923 00000 n 
-0002432969 00000 n 
-0002435151 00000 n 
-0002436745 00000 n 
-0002437439 00000 n 
-0002437474 00000 n 
-0002437509 00000 n 
-0002437544 00000 n 
-0002437579 00000 n 
-0002437614 00000 n 
-0002437649 00000 n 
-0002437684 00000 n 
-0002437719 00000 n 
-0002437754 00000 n 
-0002437790 00000 n 
-0002437826 00000 n 
-0002437862 00000 n 
-0002437898 00000 n 
-0002437934 00000 n 
-0002437970 00000 n 
-0002438006 00000 n 
-0002438042 00000 n 
-0002438078 00000 n 
-0002438114 00000 n 
-0002438150 00000 n 
-0002438186 00000 n 
-0002438222 00000 n 
-0002438258 00000 n 
-0002438294 00000 n 
-0002438330 00000 n 
-0002438366 00000 n 
-0002438402 00000 n 
-0002438438 00000 n 
-0002438474 00000 n 
-0002438510 00000 n 
-0002438546 00000 n 
-0002438582 00000 n 
-0002438618 00000 n 
-0002438654 00000 n 
-0002438690 00000 n 
-0002438726 00000 n 
-0002438762 00000 n 
-0002438798 00000 n 
-0002438834 00000 n 
-0002438870 00000 n 
-0002438906 00000 n 
-0002438942 00000 n 
-0002438978 00000 n 
-0002439014 00000 n 
-0002439050 00000 n 
-0002439086 00000 n 
-0002439122 00000 n 
-0002439158 00000 n 
-0002439194 00000 n 
-0002439230 00000 n 
-0002439266 00000 n 
-0002439302 00000 n 
-0002439338 00000 n 
-0002439374 00000 n 
-0002439410 00000 n 
-0002439446 00000 n 
-0002439482 00000 n 
+0002176653 00000 n 
+0002176796 00000 n 
+0002176925 00000 n 
+0002177079 00000 n 
+0002177223 00000 n 
+0002177357 00000 n 
+0002177493 00000 n 
+0002177631 00000 n 
+0002177763 00000 n 
+0002177909 00000 n 
+0002178048 00000 n 
+0002178191 00000 n 
+0002178342 00000 n 
+0002178480 00000 n 
+0002178613 00000 n 
+0002178747 00000 n 
+0002178900 00000 n 
+0002179053 00000 n 
+0002179196 00000 n 
+0002179364 00000 n 
+0002179526 00000 n 
+0002179678 00000 n 
+0002179852 00000 n 
+0002180016 00000 n 
+0002180126 00000 n 
+0002180259 00000 n 
+0002180392 00000 n 
+0002180525 00000 n 
+0002180635 00000 n 
+0002180779 00000 n 
+0002180918 00000 n 
+0002181042 00000 n 
+0002181219 00000 n 
+0002181421 00000 n 
+0002181580 00000 n 
+0002181755 00000 n 
+0002181882 00000 n 
+0002182049 00000 n 
+0002182191 00000 n 
+0002182317 00000 n 
+0002182808 00000 n 
+0002189333 00000 n 
+0002192802 00000 n 
+0002195336 00000 n 
+0002198977 00000 n 
+0002204916 00000 n 
+0002208515 00000 n 
+0002210130 00000 n 
+0002211888 00000 n 
+0002215547 00000 n 
+0002216791 00000 n 
+0002219939 00000 n 
+0002221144 00000 n 
+0002224611 00000 n 
+0002229570 00000 n 
+0002234348 00000 n 
+0002239217 00000 n 
+0002244300 00000 n 
+0002250420 00000 n 
+0002255504 00000 n 
+0002259853 00000 n 
+0002261639 00000 n 
+0002266433 00000 n 
+0002272291 00000 n 
+0002278762 00000 n 
+0002285045 00000 n 
+0002291472 00000 n 
+0002296458 00000 n 
+0002301399 00000 n 
+0002306447 00000 n 
+0002311857 00000 n 
+0002316578 00000 n 
+0002321782 00000 n 
+0002326381 00000 n 
+0002330793 00000 n 
+0002335085 00000 n 
+0002340222 00000 n 
+0002345270 00000 n 
+0002350641 00000 n 
+0002356219 00000 n 
+0002363067 00000 n 
+0002368104 00000 n 
+0002373383 00000 n 
+0002379170 00000 n 
+0002385420 00000 n 
+0002391598 00000 n 
+0002396493 00000 n 
+0002401432 00000 n 
+0002406270 00000 n 
+0002411678 00000 n 
+0002417151 00000 n 
+0002421128 00000 n 
+0002422533 00000 n 
+0002425134 00000 n 
+0002426952 00000 n 
+0002429900 00000 n 
+0002432946 00000 n 
+0002435128 00000 n 
+0002436722 00000 n 
+0002437416 00000 n 
+0002437451 00000 n 
+0002437486 00000 n 
+0002437521 00000 n 
+0002437556 00000 n 
+0002437591 00000 n 
+0002437626 00000 n 
+0002437661 00000 n 
+0002437696 00000 n 
+0002437731 00000 n 
+0002437767 00000 n 
+0002437803 00000 n 
+0002437839 00000 n 
+0002437875 00000 n 
+0002437911 00000 n 
+0002437947 00000 n 
+0002437983 00000 n 
+0002438019 00000 n 
+0002438055 00000 n 
+0002438091 00000 n 
+0002438127 00000 n 
+0002438163 00000 n 
+0002438199 00000 n 
+0002438235 00000 n 
+0002438271 00000 n 
+0002438307 00000 n 
+0002438343 00000 n 
+0002438379 00000 n 
+0002438415 00000 n 
+0002438451 00000 n 
+0002438487 00000 n 
+0002438523 00000 n 
+0002438559 00000 n 
+0002438595 00000 n 
+0002438631 00000 n 
+0002438667 00000 n 
+0002438703 00000 n 
+0002438739 00000 n 
+0002438775 00000 n 
+0002438811 00000 n 
+0002438847 00000 n 
+0002438883 00000 n 
+0002438919 00000 n 
+0002438955 00000 n 
+0002438991 00000 n 
+0002439027 00000 n 
+0002439063 00000 n 
+0002439099 00000 n 
+0002439135 00000 n 
+0002439171 00000 n 
+0002439207 00000 n 
+0002439243 00000 n 
+0002439279 00000 n 
+0002439315 00000 n 
+0002439351 00000 n 
+0002439387 00000 n 
+0002439423 00000 n 
+0002439459 00000 n 
 trailer
 <<
 /ID 
-[<301d46a20ad3bb017bf143f14e2eb4a8><301d46a20ad3bb017bf143f14e2eb4a8>]
+[<d47a1d5361bad12663c6c215442889e2><d47a1d5361bad12663c6c215442889e2>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 149 0 R
@@ -18023,5 +18022,5 @@ trailer
 /Size 489
 >>
 startxref
-2439518
+2439495
 %%EOF

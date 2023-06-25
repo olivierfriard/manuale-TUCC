@@ -66,24 +66,11 @@ I risultati sono presentati in una tabella dove il codice d'accesso è costituit
 
 
 
-`menù admin`_
+`Menù admin`_
 =========================
 
 
 
-
-
-
-Web service version
--------------------------------------
-
-Questa funzione visualizza la versione del web service
-
-
-Web site analytics
----------------------------------------
-
-Questa voce permette di acceddere a statistiche di accesso del web service TUCC
 
 
 
@@ -146,7 +133,7 @@ Elenco dei campi
 .. include:: elenco_campi.rst
 
 
-.. _menù admin:
+.. _Menù admin:
 
 Menù admin
 ==================================================
@@ -159,6 +146,21 @@ Menù admin
 .. list of authorized users
 
 .. include:: list_of_authorized_users.rst
+
+
+
+
+Web service version
+-------------------------------------
+
+Questa funzione visualizza la versione del web service
+
+
+Web site analytics
+---------------------------------------
+
+Questa voce permette di acceddere a statistiche di accesso del web service TUCC
+
 
 
 
