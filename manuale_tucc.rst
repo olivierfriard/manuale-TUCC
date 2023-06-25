@@ -70,23 +70,6 @@ I risultati sono presentati in una tabella dove il codice d'accesso è costituit
 =========================
 
 
-
-
-
-
-Administration tools
-=========================
-
-.. include:: administration_tools.rst
-
-
-
-Internal use
-=========================
-
-.. include:: internal_use.rst
-
-
 .. _Browse strains:
 
 Browse strains
@@ -104,6 +87,33 @@ The strains of the selected collection are displayed in a table with 4 columns:
 * Varietas / Formae Specialis
 
 A strain can be displayed by clicking on its **Accession number**
+
+
+Browse species
+=========================
+
+
+
+Search
+==================
+
+
+
+
+
+Administration tools
+=========================
+
+.. include:: administration_tools.rst
+
+
+
+Internal use
+=========================
+
+.. include:: internal_use.rst
+
+
 
 
 
