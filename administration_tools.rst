@@ -103,10 +103,10 @@ Species quarantine
 Export collection
 ---------------------------------------------------
 
-I ceppi presenti nella collezioni possono essere esportati in un formato Excel (.xlsx)
+I ceppi presenti nella collezioni possono essere esportati in formato XLSX (Microsoft-Excel).
 
 
-Export to MIRRI
+Export collection to MIRRI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 I dati dei ceppi segnati (campo **Export to MIRRI** impostato a **Yes**) sono salvati in un file in formato XLSX (Microsoft-Excel) che può essere direttamente trasmesso a MIRRI.
@@ -114,12 +114,37 @@ I dati dei ceppi segnati (campo **Export to MIRRI** impostato a **Yes**) sono sa
 
 
 
-Export to Microsoft-Excel
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Export strains for Microsoft-Excel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I dati dei ceppi sono salvati in un file in formato XLSX (Microsoft-Excel).
-Il file **non** contiene la letteratura, i documenti allegati, le sequenze nucleotidiche e la letteratura legata alle sequenze.
+I dati dei ceppi sono esportati in un file in formato XLSX (Microsoft-Excel).
+Il file **non** contiene la letteratura, i documenti allegati, le sequenze nucleotidiche, i genomi e la letteratura legata alle sequenze.
 
+
+Export Species for Microsoft-Excel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I dati delle specie presenti nella collezione sono esportati in un file in formato XLSX (Microsoft-Excel).
+I campi sono i seguenti:
+
+* Id
+* Genus
+* Epithet
+* varietas
+* Phylum
+* Class
+* Species order
+* Family
+* Organism type
+* Author
+* Number of strains
+
+
+
+Growth media
+---------------------------------------------------
+
+Elenco dei terreni di coltura usati 
 
 
 Create labels for tubes/lyo
@@ -127,11 +152,26 @@ Create labels for tubes/lyo
 
 
 
-Deleted entries
+Deleted strains
 ---------------------------------------------------
 
 Questa funzione permette di accedere all'elenco dei ceppi cancellati e di ripristinarli.
-Iil privileggio **Administrator** è richiesto.
+Il privileggio **Administrator** è richiesto.
+
+
+.. image:: deleted_strains.png
+    :alt: cancellare un ceppo
+    :width: 80%
+
+Premere il pulsante **Undelete** in corrispondenza del ceppo da ripristinare e dare conferma.
+Il ceppo sarà di nuovo visibile nell'elenco dei ceppi.
+
+
+Deleted species
+---------------------------------------------------
+
+Questa funzione permette di accedere all'elenco delle specie cancellate e di ripristinarli.
+Il privileggio **Administrator** è richiesto.
 
 
 .. image:: deleted_strains.png
@@ -139,15 +179,16 @@ Iil privileggio **Administrator** è richiesto.
     :width: 80%
 
 Premere il pulsante **Undelete** in corrispondenza del ceppo da ripristinare e dare conferma.
-Il ceppo sarà di nuovo visibile nell'elenco dei ceppi.
+La specie sarà di nuovo visibile nell'elenco delle specie.
 
 
-Super admin
+
+Super tools
 ---------------------------------------------------
 
 
 Questa funzione permette di accedere a viste speciali sul database come l'elenco dei valori per un o più campi per tutti i ceppi oppure a tutti i valori distinti per un campo.
-Il privileggio **Administrator** è richiesto.
+Il privileggio **Administrator** o **Advanced user** è richiesto.
 
 Riferirsi alla sezione `super admin`_
 

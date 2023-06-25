@@ -27,6 +27,7 @@ Al momento la TUCC contiene 6 collezioni:
 
 * Mycotheca Universitatis Taurinensis (MUT)
 * Collection MiAGR - settore Microbiologia Alimentare, Agraria e Ambientale
+* Collection MiAGR - settore Patologia Vegetale Agraria
 * Collection MiAGR - settore Patologia vegetale forestale
 * Collection MiBAT - settore microbiologia clinica umana
 * Collection MiVET - settore Microbiologia Clinica Veterinaria
@@ -73,9 +74,7 @@ Menù Admin
 .. include:: list_of_authorized_users.rst
 
 
-.. Export all collections to MIRRI
 
-.. include:: export_all_collections_to_mirri.rst
 
 
 Web service version
@@ -95,6 +94,14 @@ Administration tools
 =========================
 
 .. include:: administration_tools.rst
+
+
+
+Internal use
+=========================
+
+.. include:: internal_use.rst
+
 
 
 .. _scheda ceppo:
