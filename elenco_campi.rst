@@ -842,13 +842,14 @@ Tipo di campo: select
 
 valori autorizzati:
 
-* Not known
+* No
 * Holotype
 * Isotype
 * Lectotype
 * Sintype
 * Neotype
 * Epitype
+* Paratype
 
 
 campo automatico: N
@@ -2655,7 +2656,7 @@ Campo obbligatorio: Y
 Descrizione del campo: The recommended growing temperature for the strain. Example: 24
 
 
-Questo campo è compilato automaticamente con il valore del campo XXX
+Questo campo è compilato automaticamente con il valore del campo **Growth condition temperature**
 
 
 
@@ -2677,10 +2678,9 @@ Campo obbligatorio: Y
 Descrizione del campo: The medium that is recommend for growing the strain.
 
 
-Questo campo è compilato automaticamente con il valore del campo XXX
 
-
-
+L'immissione del o dei terreni di coltura può essere eseguita cercando il terreno di coltura per acronimo o parte della descrizione nel quadro giallo sottostante.
+Vedere campo **Growth condition medium** per i dettagli
 
 
 MIRRI Form of supply

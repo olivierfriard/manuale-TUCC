@@ -2244,7 +2244,7 @@ endobj
 endobj
 149 0 obj
 <<
-/Author () /CreationDate (D:20230626143534+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230626143534+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20230626161210+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20230626161210+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Guida all'uso del servizio TUCC database) /Trapped /False
 >>
 endobj
@@ -2416,38 +2416,38 @@ endobj
 endobj
 182 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 366.1179 0 ] /Next 183 0 R /Parent 177 0 R /Prev 181 0 R /Title (Pulsante Attached documents)
+/Dest [ 52 0 R /XYZ 62.69291 349.3179 0 ] /Next 183 0 R /Parent 177 0 R /Prev 181 0 R /Title (Pulsante Attached documents)
 >>
 endobj
 183 0 obj
 <<
-/Count 2 /Dest [ 52 0 R /XYZ 62.69291 282.7179 0 ] /First 184 0 R /Last 185 0 R /Next 186 0 R /Parent 177 0 R 
+/Count 2 /Dest [ 52 0 R /XYZ 62.69291 265.9179 0 ] /First 184 0 R /Last 185 0 R /Next 186 0 R /Parent 177 0 R 
   /Prev 182 0 R /Title (Pulsante Literature)
 >>
 endobj
 184 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 254.5179 0 ] /Next 185 0 R /Parent 183 0 R /Title (Strain literature)
+/Dest [ 52 0 R /XYZ 62.69291 237.7179 0 ] /Next 185 0 R /Parent 183 0 R /Title (Strain literature)
 >>
 endobj
 185 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 229.0179 0 ] /Parent 183 0 R /Prev 184 0 R /Title (Literature linked to sequence)
+/Dest [ 52 0 R /XYZ 62.69291 212.2179 0 ] /Parent 183 0 R /Prev 184 0 R /Title (Literature linked to sequence)
 >>
 endobj
 186 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 203.5179 0 ] /Next 187 0 R /Parent 177 0 R /Prev 183 0 R /Title (Delete entry)
+/Dest [ 52 0 R /XYZ 62.69291 186.7179 0 ] /Next 187 0 R /Parent 177 0 R /Prev 183 0 R /Title (Delete entry)
 >>
 endobj
 187 0 obj
 <<
-/Dest [ 52 0 R /XYZ 62.69291 124.9179 0 ] /Next 188 0 R /Parent 177 0 R /Prev 186 0 R /Title (View the species details)
+/Dest [ 55 0 R /XYZ 62.69291 765.0236 0 ] /Next 188 0 R /Parent 177 0 R /Prev 186 0 R /Title (View the species details)
 >>
 endobj
 188 0 obj
 <<
-/Dest [ 55 0 R /XYZ 62.69291 246.4553 0 ] /Parent 177 0 R /Prev 187 0 R /Title (Select a new species for this strain)
+/Dest [ 55 0 R /XYZ 62.69291 207.4553 0 ] /Parent 177 0 R /Prev 187 0 R /Title (Select a new species for this strain)
 >>
 endobj
 189 0 obj
@@ -2705,142 +2705,142 @@ endobj
 endobj
 239 0 obj
 <<
-/Dest [ 78 0 R /XYZ 62.69291 153.6236 0 ] /Next 240 0 R /Parent 195 0 R /Prev 238 0 R /Title (Deposited in other collection)
+/Dest [ 78 0 R /XYZ 62.69291 136.8236 0 ] /Next 240 0 R /Parent 195 0 R /Prev 238 0 R /Title (Deposited in other collection)
 >>
 endobj
 240 0 obj
 <<
-/Dest [ 79 0 R /XYZ 62.69291 624.6236 0 ] /Next 241 0 R /Parent 195 0 R /Prev 239 0 R /Title (Collection and number)
+/Dest [ 79 0 R /XYZ 62.69291 607.8236 0 ] /Next 241 0 R /Parent 195 0 R /Prev 239 0 R /Title (Collection and number)
 >>
 endobj
 241 0 obj
 <<
-/Dest [ 79 0 R /XYZ 62.69291 495.6236 0 ] /Next 242 0 R /Parent 195 0 R /Prev 240 0 R /Title (Additional Data)
+/Dest [ 79 0 R /XYZ 62.69291 478.8236 0 ] /Next 242 0 R /Parent 195 0 R /Prev 240 0 R /Title (Additional Data)
 >>
 endobj
 242 0 obj
 <<
-/Dest [ 79 0 R /XYZ 62.69291 383.4236 0 ] /Next 243 0 R /Parent 195 0 R /Prev 241 0 R /Title (Pathogenicity risk for animals and humans)
+/Dest [ 79 0 R /XYZ 62.69291 366.6236 0 ] /Next 243 0 R /Parent 195 0 R /Prev 241 0 R /Title (Pathogenicity risk for animals and humans)
 >>
 endobj
 243 0 obj
 <<
-/Dest [ 79 0 R /XYZ 62.69291 170.4236 0 ] /Next 244 0 R /Parent 195 0 R /Prev 242 0 R /Title (Pathogenic for species)
+/Dest [ 79 0 R /XYZ 62.69291 153.6236 0 ] /Next 244 0 R /Parent 195 0 R /Prev 242 0 R /Title (Pathogenic for species)
 >>
 endobj
 244 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 725.4236 0 ] /Next 245 0 R /Parent 195 0 R /Prev 243 0 R /Title (Safety level)
+/Dest [ 80 0 R /XYZ 62.69291 708.6236 0 ] /Next 245 0 R /Parent 195 0 R /Prev 243 0 R /Title (Safety level)
 >>
 endobj
 245 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 529.2236 0 ] /Next 246 0 R /Parent 195 0 R /Prev 244 0 R /Title (Precaution required)
+/Dest [ 80 0 R /XYZ 62.69291 512.4236 0 ] /Next 246 0 R /Parent 195 0 R /Prev 244 0 R /Title (Precaution required)
 >>
 endobj
 246 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 417.0236 0 ] /Next 247 0 R /Parent 195 0 R /Prev 245 0 R /Title (Pathogenicity for vegetals)
+/Dest [ 80 0 R /XYZ 62.69291 400.2236 0 ] /Next 247 0 R /Parent 195 0 R /Prev 245 0 R /Title (Pathogenicity for vegetals)
 >>
 endobj
 247 0 obj
 <<
-/Dest [ 80 0 R /XYZ 62.69291 204.0236 0 ] /Next 248 0 R /Parent 195 0 R /Prev 246 0 R /Title (Phytopathogenic for species)
+/Dest [ 80 0 R /XYZ 62.69291 187.2236 0 ] /Next 248 0 R /Parent 195 0 R /Prev 246 0 R /Title (Phytopathogenic for species)
 >>
 endobj
 248 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 742.2236 0 ] /Next 249 0 R /Parent 195 0 R /Prev 247 0 R /Title (Toxins production)
+/Dest [ 81 0 R /XYZ 62.69291 725.4236 0 ] /Next 249 0 R /Parent 195 0 R /Prev 247 0 R /Title (Toxins production)
 >>
 endobj
 249 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 529.2236 0 ] /Next 250 0 R /Parent 195 0 R /Prev 248 0 R /Title (Specify toxins)
+/Dest [ 81 0 R /XYZ 62.69291 512.4236 0 ] /Next 250 0 R /Parent 195 0 R /Prev 248 0 R /Title (Specify toxins)
 >>
 endobj
 250 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 400.2236 0 ] /Next 251 0 R /Parent 195 0 R /Prev 249 0 R /Title (Hallucinogenic toxins)
+/Dest [ 81 0 R /XYZ 62.69291 383.4236 0 ] /Next 251 0 R /Parent 195 0 R /Prev 249 0 R /Title (Hallucinogenic toxins)
 >>
 endobj
 251 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 271.2236 0 ] /Next 252 0 R /Parent 195 0 R /Prev 250 0 R /Title (Specify hallucinogenic)
+/Dest [ 81 0 R /XYZ 62.69291 254.4236 0 ] /Next 252 0 R /Parent 195 0 R /Prev 250 0 R /Title (Specify hallucinogenic)
 >>
 endobj
 252 0 obj
 <<
-/Dest [ 81 0 R /XYZ 62.69291 125.4236 0 ] /Next 253 0 R /Parent 195 0 R /Prev 251 0 R /Title (Quarantine condition)
+/Dest [ 82 0 R /XYZ 62.69291 765.0236 0 ] /Next 253 0 R /Parent 195 0 R /Prev 251 0 R /Title (Quarantine condition)
 >>
 endobj
 253 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 636.6236 0 ] /Next 254 0 R /Parent 195 0 R /Prev 252 0 R /Title (Specify legislation for quarantine)
+/Dest [ 82 0 R /XYZ 62.69291 597.6236 0 ] /Next 254 0 R /Parent 195 0 R /Prev 252 0 R /Title (Specify legislation for quarantine)
 >>
 endobj
 254 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 524.4236 0 ] /Next 255 0 R /Parent 195 0 R /Prev 253 0 R /Title (Dual use organism)
+/Dest [ 82 0 R /XYZ 62.69291 485.4236 0 ] /Next 255 0 R /Parent 195 0 R /Prev 253 0 R /Title (Dual use organism)
 >>
 endobj
 255 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 367.8236 0 ] /Next 256 0 R /Parent 195 0 R /Prev 254 0 R /Title (Specify legislation for dual use)
+/Dest [ 82 0 R /XYZ 62.69291 328.8236 0 ] /Next 256 0 R /Parent 195 0 R /Prev 254 0 R /Title (Specify legislation for dual use)
 >>
 endobj
 256 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 238.8236 0 ] /Next 257 0 R /Parent 195 0 R /Prev 255 0 R /Title (Biological interactions)
+/Dest [ 82 0 R /XYZ 62.69291 199.8236 0 ] /Next 257 0 R /Parent 195 0 R /Prev 255 0 R /Title (Biological interactions)
 >>
 endobj
 257 0 obj
 <<
-/Dest [ 82 0 R /XYZ 62.69291 126.6236 0 ] /Next 258 0 R /Parent 195 0 R /Prev 256 0 R /Title (Properties-Application)
+/Dest [ 83 0 R /XYZ 62.69291 765.0236 0 ] /Next 258 0 R /Parent 195 0 R /Prev 256 0 R /Title (Properties-Application)
 >>
 endobj
 258 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 675.0236 0 ] /Next 259 0 R /Parent 195 0 R /Prev 257 0 R /Title (Contains plasmides)
+/Dest [ 83 0 R /XYZ 62.69291 636.0236 0 ] /Next 259 0 R /Parent 195 0 R /Prev 257 0 R /Title (Contains plasmides)
 >>
 endobj
 259 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 546.0236 0 ] /Next 260 0 R /Parent 195 0 R /Prev 258 0 R /Title (Specify plasmides)
+/Dest [ 83 0 R /XYZ 62.69291 507.0236 0 ] /Next 260 0 R /Parent 195 0 R /Prev 258 0 R /Title (Specify plasmides)
 >>
 endobj
 260 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 378.6236 0 ] /Next 261 0 R /Parent 195 0 R /Prev 259 0 R /Title (Genetically modified)
+/Dest [ 83 0 R /XYZ 62.69291 339.6236 0 ] /Next 261 0 R /Parent 195 0 R /Prev 259 0 R /Title (Genetically modified)
 >>
 endobj
 261 0 obj
 <<
-/Dest [ 83 0 R /XYZ 62.69291 249.6236 0 ] /Next 262 0 R /Parent 195 0 R /Prev 260 0 R /Title (Specify modifications)
+/Dest [ 83 0 R /XYZ 62.69291 210.6236 0 ] /Next 262 0 R /Parent 195 0 R /Prev 260 0 R /Title (Specify modifications)
 >>
 endobj
 262 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 765.0236 0 ] /Next 263 0 R /Parent 195 0 R /Prev 261 0 R /Title (Kind of deposit)
+/Dest [ 84 0 R /XYZ 62.69291 742.2236 0 ] /Next 263 0 R /Parent 195 0 R /Prev 261 0 R /Title (Kind of deposit)
 >>
 endobj
 263 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 619.2236 0 ] /Next 264 0 R /Parent 195 0 R /Prev 262 0 R /Title (Specify restriction for deposit)
+/Dest [ 84 0 R /XYZ 62.69291 596.4236 0 ] /Next 264 0 R /Parent 195 0 R /Prev 262 0 R /Title (Specify restriction for deposit)
 >>
 endobj
 264 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 507.0236 0 ] /Next 265 0 R /Parent 195 0 R /Prev 263 0 R /Title (Condition)
+/Dest [ 84 0 R /XYZ 62.69291 484.2236 0 ] /Next 265 0 R /Parent 195 0 R /Prev 263 0 R /Title (Condition)
 >>
 endobj
 265 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 378.0236 0 ] /Next 266 0 R /Parent 195 0 R /Prev 264 0 R /Title (Mode of preservation)
+/Dest [ 84 0 R /XYZ 62.69291 355.2236 0 ] /Next 266 0 R /Parent 195 0 R /Prev 264 0 R /Title (Mode of preservation)
 >>
 endobj
 266 0 obj
 <<
-/Dest [ 84 0 R /XYZ 62.69291 249.0236 0 ] /Next 267 0 R /Parent 195 0 R /Prev 265 0 R /Title (Date of lyophilization)
+/Dest [ 84 0 R /XYZ 62.69291 226.2236 0 ] /Next 267 0 R /Parent 195 0 R /Prev 265 0 R /Title (Date of lyophilization)
 >>
 endobj
 267 0 obj
@@ -3165,67 +3165,67 @@ endobj
 endobj
 331 0 obj
 <<
-/Dest [ 98 0 R /XYZ 62.69291 216.0236 0 ] /Next 332 0 R /Parent 195 0 R /Prev 330 0 R /Title (MIRRI Form of supply)
+/Dest [ 98 0 R /XYZ 62.69291 205.2236 0 ] /Next 332 0 R /Parent 195 0 R /Prev 330 0 R /Title (MIRRI Form of supply)
 >>
 endobj
 332 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 641.4236 0 ] /Next 333 0 R /Parent 195 0 R /Prev 331 0 R /Title (MIRRI Other denomination)
+/Dest [ 99 0 R /XYZ 62.69291 624.6236 0 ] /Next 333 0 R /Parent 195 0 R /Prev 331 0 R /Title (MIRRI Other denomination)
 >>
 endobj
 333 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 468.0236 0 ] /Next 334 0 R /Parent 195 0 R /Prev 332 0 R /Title (MIRRI Coordinates of geographic origin)
+/Dest [ 99 0 R /XYZ 62.69291 451.2236 0 ] /Next 334 0 R /Parent 195 0 R /Prev 332 0 R /Title (MIRRI Coordinates of geographic origin)
 >>
 endobj
 334 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 294.6236 0 ] /Next 335 0 R /Parent 195 0 R /Prev 333 0 R /Title (MIRRI Altitude)
+/Dest [ 99 0 R /XYZ 62.69291 277.8236 0 ] /Next 335 0 R /Parent 195 0 R /Prev 333 0 R /Title (MIRRI Altitude)
 >>
 endobj
 335 0 obj
 <<
-/Dest [ 99 0 R /XYZ 62.69291 148.8236 0 ] /Next 336 0 R /Parent 195 0 R /Prev 334 0 R /Title (MIRRI Geographic origin)
+/Dest [ 99 0 R /XYZ 62.69291 132.0236 0 ] /Next 336 0 R /Parent 195 0 R /Prev 334 0 R /Title (MIRRI Geographic origin)
 >>
 endobj
 336 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 664.2236 0 ] /Next 337 0 R /Parent 195 0 R /Prev 335 0 R /Title (MIRRI GMO)
+/Dest [ 100 0 R /XYZ 62.69291 647.4236 0 ] /Next 337 0 R /Parent 195 0 R /Prev 335 0 R /Title (MIRRI GMO)
 >>
 endobj
 337 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 451.2236 0 ] /Next 338 0 R /Parent 195 0 R /Prev 336 0 R /Title (MIRRI GMO construction information)
+/Dest [ 100 0 R /XYZ 62.69291 434.4236 0 ] /Next 338 0 R /Parent 195 0 R /Prev 336 0 R /Title (MIRRI GMO construction information)
 >>
 endobj
 338 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 322.2236 0 ] /Next 339 0 R /Parent 195 0 R /Prev 337 0 R /Title (MIRRI Mutant information)
+/Dest [ 100 0 R /XYZ 62.69291 305.4236 0 ] /Next 339 0 R /Parent 195 0 R /Prev 337 0 R /Title (MIRRI Mutant information)
 >>
 endobj
 339 0 obj
 <<
-/Dest [ 100 0 R /XYZ 62.69291 176.4236 0 ] /Next 340 0 R /Parent 195 0 R /Prev 338 0 R /Title (MIRRI Genotype)
+/Dest [ 100 0 R /XYZ 62.69291 159.6236 0 ] /Next 340 0 R /Parent 195 0 R /Prev 338 0 R /Title (MIRRI Genotype)
 >>
 endobj
 340 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 708.6236 0 ] /Next 341 0 R /Parent 195 0 R /Prev 339 0 R /Title (MIRRI Literature)
+/Dest [ 101 0 R /XYZ 62.69291 691.8236 0 ] /Next 341 0 R /Parent 195 0 R /Prev 339 0 R /Title (MIRRI Literature)
 >>
 endobj
 341 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 541.2236 0 ] /Next 342 0 R /Parent 195 0 R /Prev 340 0 R /Title (MIRRI Sexual state)
+/Dest [ 101 0 R /XYZ 62.69291 524.4236 0 ] /Next 342 0 R /Parent 195 0 R /Prev 340 0 R /Title (MIRRI Sexual state)
 >>
 endobj
 342 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 384.6236 0 ] /Next 343 0 R /Parent 195 0 R /Prev 341 0 R /Title (MIRRI Ploidy)
+/Dest [ 101 0 R /XYZ 62.69291 367.8236 0 ] /Next 343 0 R /Parent 195 0 R /Prev 341 0 R /Title (MIRRI Ploidy)
 >>
 endobj
 343 0 obj
 <<
-/Dest [ 101 0 R /XYZ 62.69291 238.8236 0 ] /Next 344 0 R /Parent 195 0 R /Prev 342 0 R /Title (MIRRI Interspecific hybrid)
+/Dest [ 101 0 R /XYZ 62.69291 222.0236 0 ] /Next 344 0 R /Parent 195 0 R /Prev 342 0 R /Title (MIRRI Interspecific hybrid)
 >>
 endobj
 344 0 obj
@@ -3410,7 +3410,7 @@ Q
 q
 1 0 0 1 62.69291 727.4236 cm
 q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Data rilascio: lun 26 giu 2023, 14:35:32, CEST) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Data rilascio: lun 26 giu 2023, 16:12:07, CEST) Tj T* ET
 Q
 Q
 q
@@ -4936,7 +4936,7 @@ endstream
 endobj
 383 0 obj
 <<
-/Length 3822
+/Length 3715
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -4979,77 +4979,71 @@ BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pulsante genomes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 349.9179 cm
+1 0 0 1 62.69291 361.3179 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa funzione permette di aggiungere, modificare o rimuovere i genomi relativi al ceppo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.1179 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pulsante Attached documents) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 311.5179 cm
+1 0 0 1 62.69291 294.7179 cm
 q
 BT 1 0 0 1 0 23.4 Tm 1.135444 Tw 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questa funzione permette di allegare documenti al ceppo. Alcuni tipi di documento sono definiti \() Tj /F3+0 9 Tf 10.8 TL (PIC) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (MTA) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (MAA) Tj /F2+0 9 Tf 10.8 TL (,) Tj T* 0 Tw .012702 Tw /F3+0 9 Tf 10.8 TL (MIRRI ABS related file) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (MIRRI MTA file) Tj /F2+0 9 Tf 10.8 TL (\) Per caricare un documento di tipo non predefinito scegliere ) Tj /F3+0 9 Tf 10.8 TL (Other) Tj /F2+0 9 Tf 10.8 TL ( il sistema) Tj T* 0 Tw (richieder\204 il tipo di documento allegato ) Tj /F3+0 9 Tf 10.8 TL (Other document type) Tj /F2+0 9 Tf 10.8 TL (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 294.7179 cm
+1 0 0 1 62.69291 277.9179 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Utilizzare il pulsante ) Tj /F3+0 9 Tf 10.8 TL (Browse) Tj /F2+0 9 Tf 10.8 TL ( per scegliere il documento e quindi premere ) Tj /F3+0 9 Tf 10.8 TL (Upload file) Tj /F2+0 9 Tf 10.8 TL ( per salvarlo.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 266.5179 cm
+1 0 0 1 62.69291 249.7179 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pulsante Literature) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 241.0179 cm
+1 0 0 1 62.69291 224.2179 cm
 q
 BT 1 0 0 1 0 2.25 Tm 13.5 TL /F5 11.25 Tf 0 0 0 rg (Strain literature) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 215.5179 cm
+1 0 0 1 62.69291 198.7179 cm
 q
 BT 1 0 0 1 0 2.25 Tm 13.5 TL /F5 11.25 Tf 0 0 0 rg (Literature linked to sequence) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 187.3179 cm
+1 0 0 1 62.69291 170.5179 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Delete entry) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 170.5179 cm
+1 0 0 1 62.69291 153.7179 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questa funzione richiede il livello di privileggio ) Tj /F3+0 9 Tf 10.8 TL (Administrator) Tj /F2+0 9 Tf 10.8 TL ( nella o nelle collezioni corrispondenti) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 153.7179 cm
+1 0 0 1 62.69291 136.9179 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa funzione permette di cancellare il ceppo, non sar\204 pi\201 visibile a nessun utente.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 136.9179 cm
+1 0 0 1 62.69291 120.1179 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Un ceppo cancellato \() Tj /F4+0 9 Tf 10.8 TL (Deleted) Tj /F2+0 9 Tf 10.8 TL (\) potr\204 essere ripristinao da un utente Administrator \(vedere ) Tj /F3+0 9 Tf 10.8 TL (Deleted entries) Tj /F2+0 9 Tf 10.8 TL (\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 108.7179 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (View the species details) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 91.91794 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa funzione permette di visualizzare i dettagli della specie del ceppo:) Tj T* ET
 Q
 Q
  
@@ -5057,45 +5051,58 @@ endstream
 endobj
 384 0 obj
 <<
-/Length 1191
+/Length 1485
 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 62.69291 514.3871 cm
+1 0 0 1 62.69291 748.8236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (View the species details) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa funzione permette di visualizzare i dettagli della specie del ceppo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 475.3871 cm
 q
 469.8898 0 0 250.6365 0 0 cm
 /FormXob.460a62e85d278d433cfcddb98ad919cd Do
 Q
 Q
 q
-1 0 0 1 62.69291 486.7871 cm
+1 0 0 1 62.69291 447.7871 cm
 q
 BT 1 0 0 1 0 12.6 Tm .319435 Tw 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (La specie pu\203 essere modificata premendo sul pulsante ) Tj /F3+0 9 Tf 10.8 TL (Edit) Tj /F2+0 9 Tf 10.8 TL (. Le modifiche apportate alla specie saranno applicate a) Tj T* 0 Tw (tutti i ceppi di quella specie.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 258.4553 cm
+1 0 0 1 62.69291 219.4553 cm
 q
 469.8898 0 0 222.3318 0 0 cm
 /FormXob.28a376c6ccced862f63f815e84322c51 Do
 Q
 Q
 q
-1 0 0 1 62.69291 230.2553 cm
+1 0 0 1 62.69291 191.2553 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Select a new species for this strain) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 213.4553 cm
+1 0 0 1 62.69291 174.4553 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questa funzione permette di modificare la specie del ceppo.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 185.8553 cm
+1 0 0 1 62.69291 146.8553 cm
 q
 BT 1 0 0 1 0 12.6 Tm .683631 Tw 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Digitare i primi carattere del genere e quindi selezionare la specie nell'elenco proposto. Premere il pulsante ) Tj /F3+0 9 Tf 10.8 TL (Submit) Tj  T* 0 Tw /F2+0 9 Tf 10.8 TL (per assegnare la nuova specie al ceppo.) Tj T* ET
 Q
@@ -8067,7 +8074,7 @@ endstream
 endobj
 400 0 obj
 <<
-/Length 6476
+/Length 6580
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -8310,7 +8317,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (No) Tj T* ET
 Q
 Q
 q
@@ -8468,80 +8475,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 232.8236 cm
+1 0 0 1 62.69291 226.8236 cm
 Q
 q
 1 0 0 1 62.69291 216.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 199.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: Y) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 182.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 165.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 137.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Deposited in other collection) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 120.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 23) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 103.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 87.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 81.02362 cm
-Q
-q
-1 0 0 1 62.69291 81.02362 cm
-Q
- 
-endstream
-endobj
-401 0 obj
-<<
-/Length 6067
->>
-stream
-1 0 0 1 0 0 cm 
-q
-1 0 0 1 62.69291 754.2236 cm
 q
 0 0 0 rg
 q
@@ -8555,12 +8492,82 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Paratype) Tj T* ET
 Q
 Q
 q
 Q
 Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+Q
+q
+1 0 0 1 62.69291 199.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 182.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 148.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.6236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Deposited in other collection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 23) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+401 0 obj
+<<
+/Length 6133
+>>
+stream
+1 0 0 1 0 0 cm 
+q
+1 0 0 1 62.69291 754.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 748.2236 cm
 Q
 q
 1 0 0 1 62.69291 748.2236 cm
@@ -8580,7 +8587,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Yes) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
 Q
 Q
 q
@@ -8605,7 +8612,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (No) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Yes) Tj T* ET
 Q
 Q
 q
@@ -8613,167 +8620,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 720.6236 cm
+1 0 0 1 62.69291 714.6236 cm
 Q
 q
 1 0 0 1 62.69291 703.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 687.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: Y) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 670.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 653.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 636.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Indicare se il ceppo \200 stato depositato in una altra collezione) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 608.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Collection and number) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 591.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 83) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 574.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 558.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 541.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 524.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 507.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 stato depositato in una altra collezione indicare la collezione e il codice d'accesso del ceppo.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 479.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Additional Data) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 462.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 96) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 445.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 429.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 412.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 395.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 367.2236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pathogenicity risk for animals and humans) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 350.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 4) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 333.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 316.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 310.8236 cm
-Q
-q
-1 0 0 1 62.69291 310.8236 cm
-Q
-q
-1 0 0 1 62.69291 300.0236 cm
 q
 0 0 0 rg
 q
@@ -8787,12 +8637,169 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (No) Tj T* ET
 Q
 Q
 q
 Q
 Q
+Q
+q
+1 0 0 1 62.69291 703.8236 cm
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 670.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 653.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 619.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Indicare se il ceppo \200 stato depositato in una altra collezione) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.6236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Collection and number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 574.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 83) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 541.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 490.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 stato depositato in una altra collezione indicare la collezione e il codice d'accesso del ceppo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.6236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Additional Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 445.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 96) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 412.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.4236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pathogenicity risk for animals and humans) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 316.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
 Q
 q
 1 0 0 1 62.69291 294.0236 cm
@@ -8812,7 +8819,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H0) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
 Q
 Q
 q
@@ -8837,7 +8844,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H1) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H0) Tj T* ET
 Q
 Q
 q
@@ -8862,7 +8869,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H2) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H1) Tj T* ET
 Q
 Q
 q
@@ -8887,7 +8894,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H3) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H2) Tj T* ET
 Q
 Q
 q
@@ -8895,121 +8902,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 232.8236 cm
+1 0 0 1 62.69291 226.8236 cm
 Q
 q
 1 0 0 1 62.69291 216.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 199.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 182.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 154.2236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pathogenic for species) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 137.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 80) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 120.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 103.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 87.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-402 0 obj
-<<
-/Length 6224
->>
-stream
-1 0 0 1 0 0 cm 
-q
-1 0 0 1 62.69291 754.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 737.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 patogeno per animali e/o umani indicare le specie seprate da virgola.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 709.2236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Safety level) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 692.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 21) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 675.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 658.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 652.8236 cm
-Q
-q
-1 0 0 1 62.69291 652.8236 cm
-Q
-q
-1 0 0 1 62.69291 642.0236 cm
 q
 0 0 0 rg
 q
@@ -9023,12 +8919,123 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (H3) Tj T* ET
 Q
 Q
 q
 Q
 Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+Q
+q
+1 0 0 1 62.69291 199.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 182.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.4236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pathogenic for species) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 80) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+402 0 obj
+<<
+/Length 6222
+>>
+stream
+1 0 0 1 0 0 cm 
+q
+1 0 0 1 62.69291 754.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 patogeno per animali e/o umani indicare le specie seprate da virgola.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 692.4236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Safety level) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 21) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
 Q
 q
 1 0 0 1 62.69291 636.0236 cm
@@ -9048,7 +9055,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (BSL-1) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
 Q
 Q
 q
@@ -9073,7 +9080,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (BSL-2) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (BSL-1) Tj T* ET
 Q
 Q
 q
@@ -9098,7 +9105,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (BSL-3) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (BSL-2) Tj T* ET
 Q
 Q
 q
@@ -9106,105 +9113,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 591.6236 cm
+1 0 0 1 62.69291 585.6236 cm
 Q
 q
 1 0 0 1 62.69291 574.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 558.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 541.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 513.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Precaution required) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 496.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 22) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 479.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 462.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 445.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 429.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 400.8236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pathogenicity for vegetals) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 384.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 5) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 367.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 350.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 344.4236 cm
-Q
-q
-1 0 0 1 62.69291 344.4236 cm
-Q
-q
-1 0 0 1 62.69291 333.6236 cm
 q
 0 0 0 rg
 q
@@ -9218,12 +9130,107 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (BSL-3) Tj T* ET
 Q
 Q
 q
 Q
 Q
+Q
+q
+1 0 0 1 62.69291 574.8236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 541.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 496.2236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Precaution required) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 479.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 22) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 445.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 412.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Pathogenicity for vegetals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 367.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.6236 cm
 Q
 q
 1 0 0 1 62.69291 327.6236 cm
@@ -9243,7 +9250,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P0) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
 Q
 Q
 q
@@ -9268,7 +9275,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P1) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P0) Tj T* ET
 Q
 Q
 q
@@ -9293,7 +9300,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P2) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P1) Tj T* ET
 Q
 Q
 q
@@ -9318,7 +9325,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P3) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P2) Tj T* ET
 Q
 Q
 q
@@ -9326,128 +9333,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 266.4236 cm
+1 0 0 1 62.69291 260.4236 cm
 Q
 q
 1 0 0 1 62.69291 249.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 232.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 216.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 187.8236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Phytopathogenic for species) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 171.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 81) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 154.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 137.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 120.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 103.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 87.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-403 0 obj
-<<
-/Length 5571
->>
-stream
-1 0 0 1 0 0 cm 
-q
-1 0 0 1 62.69291 754.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 patogeno per vegetali indicare le specie seprate da virgola.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 726.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Toxins production) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 709.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 6) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 692.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 675.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 669.6236 cm
-Q
-q
-1 0 0 1 62.69291 669.6236 cm
-Q
-q
-1 0 0 1 62.69291 658.8236 cm
 q
 0 0 0 rg
 q
@@ -9461,12 +9350,130 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (P3) Tj T* ET
 Q
 Q
 q
 Q
 Q
+Q
+q
+1 0 0 1 62.69291 249.6236 cm
+Q
+q
+1 0 0 1 62.69291 232.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 199.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Phytopathogenic for species) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 154.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 81) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 137.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+403 0 obj
+<<
+/Length 5454
+>>
+stream
+1 0 0 1 0 0 cm 
+q
+1 0 0 1 62.69291 754.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 patogeno per vegetali indicare le specie seprate da virgola.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 709.2236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Toxins production) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 692.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 652.8236 cm
 Q
 q
 1 0 0 1 62.69291 652.8236 cm
@@ -9486,7 +9493,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (T0) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Not known) Tj T* ET
 Q
 Q
 q
@@ -9511,7 +9518,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (T1) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (T0) Tj T* ET
 Q
 Q
 q
@@ -9536,7 +9543,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (T2) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (T1) Tj T* ET
 Q
 Q
 q
@@ -9561,6 +9568,31 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (T2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 585.6236 cm
+Q
+q
+1 0 0 1 62.69291 574.8236 cm
+q
+0 0 0 rg
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm 10.84912 0 Td /F2+0 9 Tf 10.8 TL (\202) Tj T* -10.84912 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (T3) Tj T* ET
 Q
 Q
@@ -9569,190 +9601,177 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 591.6236 cm
-Q
-q
 1 0 0 1 62.69291 574.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
 Q
 q
 1 0 0 1 62.69291 558.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 541.2236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.4236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 513.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify toxins) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 496.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 79) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify toxins) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 479.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 79) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 462.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 445.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 429.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 412.2236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.4236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo produce tossine indicare quali separate da virgola.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 384.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Hallucinogenic toxins) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 367.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 62) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Hallucinogenic toxins) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 350.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 62) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 333.6236 cm
 q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 316.8236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 300.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 283.2236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.4236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 255.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify hallucinogenic) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 238.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 63) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify hallucinogenic) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 221.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 63) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 204.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 187.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 171.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 154.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 137.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo produce tossine allucinogene indicare quali separate da virgola.) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 109.2236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Quarantine condition) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 92.42362 cm
+1 0 0 1 62.69291 120.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 13) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo produce tossine allucinogene indicare quali separate da virgola.) Tj T* ET
 Q
 Q
  
@@ -9760,516 +9779,21 @@ endstream
 endobj
 404 0 obj
 <<
-/Length 4906
->>
-stream
-1 0 0 1 0 0 cm 
-q
-1 0 0 1 62.69291 754.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 737.4236 cm
-q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 720.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 703.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 687.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 648.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 23.4 Tm 3.190438 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: Specify whether the strain is subject to quarantine according to European Directive) Tj T* 0 Tw 1.210555 Tw (2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission) Tj T* 0 Tw (Implementing Regulation \(EU\) 2019/2072.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 620.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify legislation for quarantine) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 603.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 86) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 586.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 570.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 553.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 536.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 508.2236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Dual use organism) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 491.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 12) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 474.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 457.8236 cm
-q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 441.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 424.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 407.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 379.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 12.6 Tm 1.921451 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: Specify whether the strain has the potential for a harmful use according to EU Council) Tj T* 0 Tw (Regulation 2000/1334/CE and its amendments and corrections.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 351.6236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify legislation for dual use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 334.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 87) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 318.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 301.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 284.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 267.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 250.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 222.6236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Biological interactions) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 205.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 46) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 189.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 172.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 155.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 138.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 110.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Properties-Application) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 93.62362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 45) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-405 0 obj
-<<
-/Length 4855
->>
-stream
-1 0 0 1 0 0 cm 
-q
-1 0 0 1 62.69291 754.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 737.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 720.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 703.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 687.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: Information about applications of the strain.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 658.8236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Contains plasmides) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 642.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 56) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 625.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 608.4236 cm
-q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 591.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 574.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 558.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 529.8236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify plasmides) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 513.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 82) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 496.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 479.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 462.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 445.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 407.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 23.4 Tm 1.635597 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: Information about plasmids in the strain. It may include plasmid name and type \(original) Tj T* 0 Tw 4.266001 Tw (plasmid, cloning vehicle, recombinant plasmid\), restriction sites, relevant genes \(e.g., origin of replication,) Tj T* 0 Tw (transposons, promoters, terminators, structural genes\).) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 390.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo contiene plasmidi indicare quali) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 362.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Genetically modified) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 345.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 57) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 328.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 312.0236 cm
-q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 295.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 278.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 261.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 233.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify modifications) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 216.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 90) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 199.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 183.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 166.2236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 149.4236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 132.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 115.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 stato geneticamente modificato indicare quali modifiche.) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-406 0 obj
-<<
-/Length 5189
+/Length 4904
 >>
 stream
 1 0 0 1 0 0 cm 
 q
 1 0 0 1 62.69291 748.8236 cm
 q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Kind of deposit) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Quarantine condition) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 732.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 7) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 13) Tj T* ET
 Q
 Q
 q
@@ -10282,7 +9806,7 @@ Q
 q
 1 0 0 1 62.69291 698.4236 cm
 q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Safe deposit) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Free for unrestricted distribution) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Not free for unrestricted distribution) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
 Q
 Q
 q
@@ -10296,7 +9820,7 @@ q
 1 0 0 1 62.69291 664.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: Y) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
@@ -10307,30 +9831,277 @@ BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 631.2236 cm
+1 0 0 1 62.69291 609.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:) Tj T* ET
+BT 1 0 0 1 0 23.4 Tm 3.190438 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: Specify whether the strain is subject to quarantine according to European Directive) Tj T* 0 Tw 1.210555 Tw (2000/29/CE and its amendments and corrections. The list of quarantine organisms is available in the Commission) Tj T* 0 Tw (Implementing Regulation \(EU\) 2019/2072.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.4236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify legislation for quarantine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 86) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 547.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 514.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 469.2236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Dual use organism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 452.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 418.8236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 385.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 340.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12.6 Tm 1.921451 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: Specify whether the strain has the potential for a harmful use according to EU Council) Tj T* 0 Tw (Regulation 2000/1334/CE and its amendments and corrections.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.6236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify legislation for dual use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 295.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 87) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 262.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 211.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.6236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Biological interactions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 166.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 46) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 133.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 116.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.62362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+405 0 obj
+<<
+/Length 4922
+>>
+stream
+1 0 0 1 0 0 cm 
+q
+1 0 0 1 62.69291 748.8236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Properties-Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 715.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 698.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 664.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: Information about applications of the strain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 619.8236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Contains plasmides) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 603.0236 cm
 q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify restriction for deposit) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 56) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 586.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 68) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 569.4236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
 Q
 Q
 q
@@ -10357,146 +10128,407 @@ Q
 q
 1 0 0 1 62.69291 490.8236 cm
 q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Condition) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify plasmides) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 474.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 14) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 82) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 457.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 440.4236 cm
 q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Alive) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Dead) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 423.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 406.8236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 23.4 Tm 1.635597 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: Information about plasmids in the strain. It may include plasmid name and type \(original) Tj T* 0 Tw 4.266001 Tw (plasmid, cloning vehicle, recombinant plasmid\), restriction sites, relevant genes \(e.g., origin of replication,) Tj T* 0 Tw (transposons, promoters, terminators, structural genes\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo contiene plasmidi indicare quali) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.4236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Genetically modified) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 57) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 289.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Yes) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 256.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 239.4236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 390.0236 cm
+1 0 0 1 62.69291 222.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 361.8236 cm
+1 0 0 1 62.69291 194.4236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify modifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 90) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 160.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 144.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 127.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 110.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 93.62362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+406 0 obj
+<<
+/Length 5359
+>>
+stream
+1 0 0 1 0 0 cm 
+q
+1 0 0 1 62.69291 754.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Se il ceppo \200 stato geneticamente modificato indicare quali modifiche.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Kind of deposit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 709.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 692.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.6236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Safe deposit) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Free for unrestricted distribution) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Not free for unrestricted distribution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 658.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 625.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 580.2236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Specify restriction for deposit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 68) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 529.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 496.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
+q
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Condition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 451.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 434.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.6236 cm
+q
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Not known) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Alive) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Dead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 400.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 367.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Mode of preservation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 322.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 16) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 328.2236 cm
+1 0 0 1 62.69291 305.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: multiselect) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 311.4236 cm
+1 0 0 1 62.69291 288.6236 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: ) Tj /F3+0 9 Tf 10.8 TL (Lyophilisation) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Cryopreservation) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Agar) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Water) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Oil) Tj /F2+0 9 Tf 10.8 TL ( ) Tj /F3+0 9 Tf 10.8 TL (Other) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 294.6236 cm
+1 0 0 1 62.69291 271.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 277.8236 cm
+1 0 0 1 62.69291 255.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 238.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 232.8236 cm
+1 0 0 1 62.69291 210.0236 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (Date of lyophilization) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 216.0236 cm
+1 0 0 1 62.69291 193.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 29) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 199.2236 cm
+1 0 0 1 62.69291 176.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: date) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 182.4236 cm
+1 0 0 1 62.69291 159.6236 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (valori autorizzati: Gli unici formati di date accettati sono ) Tj /F3+0 9 Tf 10.8 TL (AAAA-MM-GG) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (AAAA-MM) Tj /F2+0 9 Tf 10.8 TL ( o ) Tj /F3+0 9 Tf 10.8 TL (AAAA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 165.6236 cm
+1 0 0 1 62.69291 142.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 148.8236 cm
+1 0 0 1 62.69291 126.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 132.0236 cm
+1 0 0 1 62.69291 109.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 115.2236 cm
+1 0 0 1 62.69291 92.42362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:Allowed formats: YYYY, YYYY-MM, YYYY-MM-DD) Tj T* ET
@@ -14042,7 +14074,7 @@ endstream
 endobj
 420 0 obj
 <<
-/Length 6139
+/Length 6120
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -14229,8 +14261,7 @@ Q
 q
 1 0 0 1 62.69291 390.6236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con il valore del campo XXX) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con il valore del campo ) Tj /F3+0 9 Tf 10.8 TL (Growth condition temperature) Tj T* ET
 Q
 Q
 q
@@ -14289,47 +14320,46 @@ BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: The medium that i
 Q
 Q
 q
-1 0 0 1 62.69291 228.0236 cm
+1 0 0 1 62.69291 217.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con il valore del campo XXX) Tj T* ET
+BT 1 0 0 1 0 12.6 Tm .417024 Tw 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (L'immissione del o dei terreni di coltura pu\203 essere eseguita cercando il terreno di coltura per acronimo o parte della) Tj T* 0 Tw (descrizione nel quadro giallo sottostante. Vedere campo ) Tj /F3+0 9 Tf 10.8 TL (Growth condition medium) Tj /F2+0 9 Tf 10.8 TL ( per i dettagli) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 199.8236 cm
+1 0 0 1 62.69291 189.0236 cm
 q
 BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Form of supply) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 183.0236 cm
+1 0 0 1 62.69291 172.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 225) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 166.2236 cm
+1 0 0 1 62.69291 155.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: multiselect) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 149.4236 cm
+1 0 0 1 62.69291 138.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 143.4236 cm
-Q
-q
-1 0 0 1 62.69291 143.4236 cm
+1 0 0 1 62.69291 132.6236 cm
 Q
 q
 1 0 0 1 62.69291 132.6236 cm
+Q
+q
+1 0 0 1 62.69291 121.8236 cm
 q
 0 0 0 rg
 q
@@ -14351,10 +14381,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 126.6236 cm
+1 0 0 1 62.69291 115.8236 cm
 Q
 q
-1 0 0 1 62.69291 115.8236 cm
+1 0 0 1 62.69291 105.0236 cm
 q
 0 0 0 rg
 q
@@ -14376,10 +14406,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 109.8236 cm
+1 0 0 1 62.69291 99.02362 cm
 Q
 q
-1 0 0 1 62.69291 99.02362 cm
+1 0 0 1 62.69291 88.22362 cm
 q
 0 0 0 rg
 q
@@ -14401,39 +14431,14 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 93.02362 cm
-Q
-q
 1 0 0 1 62.69291 82.22362 cm
-q
-0 0 0 rg
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm 10.84912 0 Td /F2+0 9 Tf 10.8 TL (\202) Tj T* -10.84912 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Liquid Culture Medium) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 62.69291 76.86614 cm
 Q
  
 endstream
 endobj
 421 0 obj
 <<
-/Length 5724
+/Length 5914
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -14452,7 +14457,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Lyo) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Liquid Culture Medium) Tj T* ET
 Q
 Q
 q
@@ -14477,7 +14482,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Oil) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Lyo) Tj T* ET
 Q
 Q
 q
@@ -14502,6 +14507,31 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Oil) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 714.6236 cm
+Q
+q
+1 0 0 1 62.69291 703.8236 cm
+q
+0 0 0 rg
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm 10.84912 0 Td /F2+0 9 Tf 10.8 TL (\202) Tj T* -10.84912 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Water) Tj T* ET
 Q
 Q
@@ -14510,237 +14540,230 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 720.6236 cm
+1 0 0 1 62.69291 703.8236 cm
 Q
 q
-1 0 0 1 62.69291 703.8236 cm
+1 0 0 1 62.69291 687.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 670.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 653.4236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.6236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: The forms of supply of the strain to users.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 625.2236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Other denomination) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 608.4236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 226) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Other denomination) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 591.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 226) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 574.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 558.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 541.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 524.4236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.6236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 496.8236 cm
+1 0 0 1 62.69291 480.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12.6 Tm .156671 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: Unofficial names that are often used for the strain, e.g. in publications, or a name given to the) Tj T* 0 Tw (strain by the isolator before its deposit at the collection.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 463.2236 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con il valore del ) Tj /F3+0 9 Tf 10.8 TL (acronym) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 451.8236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Coordinates of geographic origin) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 435.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 227) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Coordinates of geographic origin) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 418.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: 2 valori decimali separati da un punto virgola \(;\)) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 227) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 401.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: 2 valori decimali separati da un punto virgola \(;\)) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 384.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 367.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 351.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 334.2236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 323.4236 cm
+1 0 0 1 62.69291 306.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12.6 Tm 2.475699 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: The geographic coordinates of the location where the sample was collected. \(decimal) Tj T* 0 Tw (coordinates\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 306.6236 cm
+1 0 0 1 62.69291 289.8236 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con i valori dei campi ) Tj /F3+0 9 Tf 10.8 TL (latitude) Tj /F2+0 9 Tf 10.8 TL ( e ) Tj /F3+0 9 Tf 10.8 TL (longitude) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 278.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Altitude) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 261.6236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 228) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Altitude) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 244.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: numero intero positivo o negativo) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 228) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 228.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: numero intero positivo o negativo) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 211.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 194.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 177.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: The altitude of the location where the sample was collected.) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 160.8236 cm
 q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: The altitude of the location where the sample was collected.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 144.0236 cm
+q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con il valore del campo ) Tj /F3+0 9 Tf 10.8 TL (altitude) Tj /F2+0 9 Tf 10.8 TL (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 132.6236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Geographic origin) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 115.8236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 229) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Geographic origin) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 99.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 229) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 82.22362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: text) Tj T* ET
 Q
 Q
  
@@ -14756,71 +14779,78 @@ q
 1 0 0 1 62.69291 754.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 737.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 720.6236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 703.8236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: Y) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 676.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12.6 Tm 1.477156 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo: The locality where the sample was collected, defined with the highest possible precision.) Tj T* 0 Tw (Example: Altafjorden, Alta, Troms og Finnmark, Norway) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 676.2236 cm
+1 0 0 1 62.69291 659.4236 cm
 q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con i valori dei campi ) Tj /F3+0 9 Tf 10.8 TL (continent) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (country) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (state) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (town) Tj /F2+0 9 Tf 10.8 TL (, ) Tj /F3+0 9 Tf 10.8 TL (place) Tj /F2+0 9 Tf 10.8 TL (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI GMO) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 631.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 230) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI GMO) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 614.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 230) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 597.6236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 580.8236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 591.6236 cm
+1 0 0 1 62.69291 574.8236 cm
 Q
 q
-1 0 0 1 62.69291 591.6236 cm
+1 0 0 1 62.69291 574.8236 cm
 Q
 q
-1 0 0 1 62.69291 580.8236 cm
+1 0 0 1 62.69291 564.0236 cm
 q
 0 0 0 rg
 q
@@ -14842,10 +14872,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 574.8236 cm
+1 0 0 1 62.69291 558.0236 cm
 Q
 q
-1 0 0 1 62.69291 564.0236 cm
+1 0 0 1 62.69291 547.2236 cm
 q
 0 0 0 rg
 q
@@ -14867,10 +14897,10 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 558.0236 cm
+1 0 0 1 62.69291 541.2236 cm
 Q
 q
-1 0 0 1 62.69291 547.2236 cm
+1 0 0 1 62.69291 530.4236 cm
 q
 0 0 0 rg
 q
@@ -14892,177 +14922,170 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 547.2236 cm
+1 0 0 1 62.69291 530.4236 cm
 Q
 q
-1 0 0 1 62.69291 530.4236 cm
+1 0 0 1 62.69291 513.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 513.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 496.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 480.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: Specify whether the strain is a Genetically Modified Organism \(GMO\).) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 463.2236 cm
 q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo: Specify whether the strain is a Genetically Modified Organism \(GMO\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.4236 cm
+q
 BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 0 0 rg /F2+0 9 Tf 10.8 TL (Questo campo \200 compilato automaticamente con il valore del campo ) Tj /F3+0 9 Tf 10.8 TL (altitude) Tj /F2+0 9 Tf 10.8 TL (.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 435.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI GMO construction information) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 418.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 231) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI GMO construction information) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 401.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 231) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 384.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 367.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 351.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 334.2236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.4236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:Information on the construction of the GMO.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 306.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Mutant information) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 289.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 232) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Mutant information) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 272.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 232) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 255.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 238.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 222.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 205.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 188.4236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 171.6236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:Information on mutant strains.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 160.2236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Genotype) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 143.4236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 233) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Genotype) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 126.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 233) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 109.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 93.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
  
@@ -15070,7 +15093,7 @@ endstream
 endobj
 423 0 obj
 <<
-/Length 4934
+/Length 5050
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -15078,238 +15101,245 @@ q
 1 0 0 1 62.69291 754.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 737.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 720.6236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 703.8236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:Information on the genotype of the strain.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 692.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Literature) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 675.6236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 234) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Literature) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 658.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 234) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 642.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: textarea) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 625.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 608.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: Y) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 591.6236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 574.8236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 553.2236 cm
+1 0 0 1 62.69291 536.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 23.4 Tm 1.809676 Tw /F2+0 9 Tf 10.8 TL (Descrizione del campo:Information on literature linked to the identification and properties of the strain. Does not) Tj T* 0 Tw .47901 Tw (include literature related to the sequence of the strain. For publications indexed by Pubmed or having an official DOI) Tj T* 0 Tw (number, collections should provide the relative identifiers, respectively PMIDs and DOIs.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 525.0236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Sexual state) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 508.2236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 235) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Sexual state) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 491.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 235) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 463.8236 cm
+1 0 0 1 62.69291 474.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 12.6 Tm .65704 Tw /F2+0 9 Tf 10.8 TL (valori autorizzati:Not known|Mata|Matalpha|Mata/Matalpha|Mata|Matb|Mata/Matb|MTLa|MTLalpha|MTLa/MTLalpha|M) Tj T* 0 Tw (AT1-1|MAT1-2|MAT1|MAT2) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 447.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 12.6 Tm .65704 Tw /F2+0 9 Tf 10.8 TL (valori autorizzati:Not known|Mata|Matalpha|Mata/Matalpha|Mata|Matb|Mata/Matb|MTLa|MTLalpha|MTLa/MTLalpha|M) Tj T* 0 Tw (AT1-1|MAT1-2|MAT1|MAT2) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 430.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 413.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 396.6236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 379.8236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:Information on strain sexual state / mating type, for relevant resource types.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 368.4236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Ploidy) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 351.6236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 236) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Ploidy) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 334.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 236) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 318.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:0:Aneuploid|1:Haploid|2:Diploid|3:Triploid|4:Tetraploid|9:Polyploid over 4n) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 301.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:0:Aneuploid|1:Haploid|2:Diploid|3:Triploid|4:Tetraploid|9:Polyploid over 4n) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 284.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 267.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 250.8236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:Information on the ploidy level of the strain.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 222.6236 cm
-q
-BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Interspecific hybrid) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 205.8236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 237) Tj T* ET
+BT 1 0 0 1 0 2.7 Tm 16.2 TL /F1 13.5 Tf 0 0 0 rg (MIRRI Interspecific hybrid) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 189.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (indice del campo: 237) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 172.2236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:0:Not known|1:No|2:Yes) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Tipo di campo: select) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 155.4236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (valori autorizzati:0:Not known|1:No|2:Yes) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 138.6236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (campo automatico: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 121.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Minimum Data Set: N) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 105.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Campo obbligatorio: N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 88.22362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1.8 Tm /F2+0 9 Tf 10.8 TL (Descrizione del campo:This field reports whether the strain is an interspecific hybrid.) Tj T* ET
@@ -18014,124 +18044,124 @@ xref
 0002131503 00000 n 
 0002132550 00000 n 
 0002134319 00000 n 
-0002138194 00000 n 
-0002139438 00000 n 
-0002142579 00000 n 
-0002143784 00000 n 
-0002147251 00000 n 
-0002152210 00000 n 
-0002156988 00000 n 
-0002161857 00000 n 
-0002166940 00000 n 
-0002173060 00000 n 
-0002178144 00000 n 
-0002182493 00000 n 
-0002183182 00000 n 
-0002183832 00000 n 
-0002184937 00000 n 
-0002187053 00000 n 
-0002192604 00000 n 
-0002199133 00000 n 
-0002205253 00000 n 
-0002211530 00000 n 
-0002217154 00000 n 
-0002222113 00000 n 
-0002227021 00000 n 
-0002232263 00000 n 
-0002237202 00000 n 
-0002242060 00000 n 
-0002246867 00000 n 
-0002251429 00000 n 
-0002255798 00000 n 
-0002260456 00000 n 
-0002265763 00000 n 
-0002270940 00000 n 
-0002276263 00000 n 
-0002282589 00000 n 
-0002288309 00000 n 
-0002293312 00000 n 
-0002298891 00000 n 
-0002305083 00000 n 
-0002310860 00000 n 
-0002316642 00000 n 
-0002321629 00000 n 
-0002326375 00000 n 
-0002331476 00000 n 
-0002337466 00000 n 
-0002342504 00000 n 
-0002344403 00000 n 
-0002345975 00000 n 
-0002349375 00000 n 
-0002350955 00000 n 
-0002353582 00000 n 
-0002355906 00000 n 
-0002358088 00000 n 
-0002359682 00000 n 
-0002360412 00000 n 
-0002360447 00000 n 
-0002360482 00000 n 
-0002360517 00000 n 
-0002360552 00000 n 
-0002360587 00000 n 
-0002360622 00000 n 
-0002360657 00000 n 
-0002360692 00000 n 
-0002360727 00000 n 
-0002360763 00000 n 
-0002360799 00000 n 
-0002360835 00000 n 
-0002360871 00000 n 
-0002360907 00000 n 
-0002360943 00000 n 
-0002360979 00000 n 
-0002361015 00000 n 
-0002361051 00000 n 
-0002361087 00000 n 
-0002361123 00000 n 
-0002361159 00000 n 
-0002361195 00000 n 
-0002361231 00000 n 
-0002361267 00000 n 
-0002361303 00000 n 
-0002361339 00000 n 
-0002361375 00000 n 
-0002361411 00000 n 
-0002361447 00000 n 
-0002361483 00000 n 
-0002361519 00000 n 
-0002361555 00000 n 
-0002361591 00000 n 
-0002361627 00000 n 
-0002361663 00000 n 
-0002361699 00000 n 
-0002361735 00000 n 
-0002361771 00000 n 
-0002361807 00000 n 
-0002361843 00000 n 
-0002361879 00000 n 
-0002361915 00000 n 
-0002361951 00000 n 
-0002361987 00000 n 
-0002362023 00000 n 
-0002362059 00000 n 
-0002362095 00000 n 
-0002362131 00000 n 
-0002362167 00000 n 
-0002362203 00000 n 
-0002362239 00000 n 
-0002362275 00000 n 
-0002362311 00000 n 
-0002362347 00000 n 
-0002362383 00000 n 
-0002362419 00000 n 
-0002362455 00000 n 
-0002362491 00000 n 
-0002362527 00000 n 
-0002362563 00000 n 
+0002138087 00000 n 
+0002139625 00000 n 
+0002142766 00000 n 
+0002143971 00000 n 
+0002147438 00000 n 
+0002152397 00000 n 
+0002157175 00000 n 
+0002162044 00000 n 
+0002167127 00000 n 
+0002173247 00000 n 
+0002178331 00000 n 
+0002182680 00000 n 
+0002183369 00000 n 
+0002184019 00000 n 
+0002185124 00000 n 
+0002187240 00000 n 
+0002192791 00000 n 
+0002199424 00000 n 
+0002205610 00000 n 
+0002211885 00000 n 
+0002217392 00000 n 
+0002222349 00000 n 
+0002227324 00000 n 
+0002232736 00000 n 
+0002237675 00000 n 
+0002242533 00000 n 
+0002247340 00000 n 
+0002251902 00000 n 
+0002256271 00000 n 
+0002260929 00000 n 
+0002266236 00000 n 
+0002271413 00000 n 
+0002276736 00000 n 
+0002283062 00000 n 
+0002288782 00000 n 
+0002293785 00000 n 
+0002299364 00000 n 
+0002305537 00000 n 
+0002311504 00000 n 
+0002317286 00000 n 
+0002322389 00000 n 
+0002327135 00000 n 
+0002332236 00000 n 
+0002338226 00000 n 
+0002343264 00000 n 
+0002345163 00000 n 
+0002346735 00000 n 
+0002350135 00000 n 
+0002351715 00000 n 
+0002354342 00000 n 
+0002356666 00000 n 
+0002358848 00000 n 
+0002360442 00000 n 
+0002361172 00000 n 
+0002361207 00000 n 
+0002361242 00000 n 
+0002361277 00000 n 
+0002361312 00000 n 
+0002361347 00000 n 
+0002361382 00000 n 
+0002361417 00000 n 
+0002361452 00000 n 
+0002361487 00000 n 
+0002361523 00000 n 
+0002361559 00000 n 
+0002361595 00000 n 
+0002361631 00000 n 
+0002361667 00000 n 
+0002361703 00000 n 
+0002361739 00000 n 
+0002361775 00000 n 
+0002361811 00000 n 
+0002361847 00000 n 
+0002361883 00000 n 
+0002361919 00000 n 
+0002361955 00000 n 
+0002361991 00000 n 
+0002362027 00000 n 
+0002362063 00000 n 
+0002362099 00000 n 
+0002362135 00000 n 
+0002362171 00000 n 
+0002362207 00000 n 
+0002362243 00000 n 
+0002362279 00000 n 
+0002362315 00000 n 
+0002362351 00000 n 
+0002362387 00000 n 
+0002362423 00000 n 
+0002362459 00000 n 
+0002362495 00000 n 
+0002362531 00000 n 
+0002362567 00000 n 
+0002362603 00000 n 
+0002362639 00000 n 
+0002362675 00000 n 
+0002362711 00000 n 
+0002362747 00000 n 
+0002362783 00000 n 
+0002362819 00000 n 
+0002362855 00000 n 
+0002362891 00000 n 
+0002362927 00000 n 
+0002362963 00000 n 
+0002362999 00000 n 
+0002363035 00000 n 
+0002363071 00000 n 
+0002363107 00000 n 
+0002363143 00000 n 
+0002363179 00000 n 
+0002363215 00000 n 
+0002363251 00000 n 
+0002363287 00000 n 
+0002363323 00000 n 
 trailer
 <<
 /ID 
-[<8c7c35a8b67ff1686e828e2bab806900><8c7c35a8b67ff1686e828e2bab806900>]
+[<aea91ab25aba9ecd84ce7d7881fc4304><aea91ab25aba9ecd84ce7d7881fc4304>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 149 0 R
@@ -18139,5 +18169,5 @@ trailer
 /Size 498
 >>
 startxref
-2362599
+2363359
 %%EOF
