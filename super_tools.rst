@@ -5,7 +5,7 @@ La pagina **Super tools** permette di accedere a funzioni utili per la manutenzi
 Il privileggio **Administrator** o **Advanced user** è richiesto.
 
 
-.. image:: super_tools.png
+.. image:: images/super_tools.png
     :alt: pagina super tools
     :width: 50%
 
@@ -32,7 +32,7 @@ List of database field
 
 Questa funzione presenta una tabella contenente tutti i campi della record ceppo.
 
-.. image:: fields_indexes.png
+.. image:: images/fields_indexes.png
     :alt: Indici dei campi
     :width: 100%
 
@@ -47,7 +47,7 @@ All values
 Questo link permette di accedere ai valori del campo selezionato per tutti i ceppi del database. Cliccando sul codice d'accesso si accede alla scheda ceppo.
 
 
-.. image:: one_field.png
+.. image:: images/one_field.png
     :alt: tutti i valori di un campo
     :width: 80%
 
@@ -60,7 +60,7 @@ Distinct values
 questo link permette di visualizzare tutti i valori **distinti** del campo selezionato con il numero di ceppi corrispondenti.
 
 
-.. image:: distinct_values.png
+.. image:: images/distinct_values.png
     :alt: tutti i valori distinti di un campo
     :width: 60%
 
@@ -75,13 +75,13 @@ View all fields of a strain by accession
 Questa funzione permette di visualizzare la scheda ceppo in un modo compatto.
 
 
-.. image:: scheda_ceppo_compatta.png
+.. image:: images/scheda_ceppo_compatta.png
     :alt: tutti i campi di un ceppo
     :width: 80%
 
 
 Per accedere a un ceppo particolare cambiare la URL e immettere il codice d'accesso del ceppo richiesto:
 
-.. image:: url_ceppo.png
+.. image:: images/url_ceppo.png
     :alt: URL della scheda ceppo compatta
     :width: 60%

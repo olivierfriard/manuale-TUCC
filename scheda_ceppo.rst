@@ -6,7 +6,7 @@ I campi sono visibili secondo il livello di privileggio
 
 Exempio di scheda ceppo:
 
-.. image:: scheda_ceppo1.png
+.. image:: images/scheda_ceppo1.png
     :alt: scheda ceppo
     :width: 100%
 
@@ -15,7 +15,7 @@ Un click sul nome della categoria permette di aprirela o ripiegarla. Un click su
 
 Esempio di campi visualizzati. Vengono visualizzati i campi anche se non contengono valori
 
-.. image:: scheda_ceppo2.png
+.. image:: images/scheda_ceppo2.png
     :alt: scheda ceppo
     :width: 100%
 
@@ -35,7 +35,7 @@ Manage sequences
 
 Questa funzione permette di aggiungere, modificare o rimuovere le sequenze nucleotidiche relative al ceppo.
 
-.. image:: sequences1.png
+.. image:: images/sequences1.png
     :alt: elenco di sequenze
     :width: 100%
 
@@ -48,7 +48,7 @@ Aggiungere/modificare una sequenza
 
 Premere sul pulsante **Add a new sequence** o sul pulsante **Edit** corrispondente alla sequenza da modificare.
 
-.. image:: sequences2.png
+.. image:: images/sequences2.png
     :alt: modificare una sequenza
     :width: 100%
 
@@ -108,7 +108,7 @@ View the species details
 Questa funzione permette di visualizzare i dettagli della specie del ceppo:
 
 
-.. image:: scheda_specie.png
+.. image:: images/scheda_specie.png
     :alt: scheda specie
     :width: 100%
 
@@ -116,7 +116,7 @@ La specie può essere modificata premendo sul pulsante **Edit**.
 Le modifiche apportate alla specie saranno applicate a tutti i ceppi di quella specie.
 
 
-.. image:: edit_specie.png
+.. image:: images/edit_specie.png
     :alt: modifica una specie
     :width: 100%
 
@@ -131,6 +131,6 @@ Questa funzione permette di modificare la specie del ceppo.
 Digitare i primi carattere del genere e quindi selezionare la specie nell'elenco proposto.
 Premere il pulsante **Submit** per assegnare la nuova specie al ceppo.
 
-.. image:: select_specie.png
+.. image:: images/select_specie.png
     :alt: seleziona una specie
     :width: 80%

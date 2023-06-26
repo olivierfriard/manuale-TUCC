@@ -10,7 +10,7 @@ Questa opzione permette di inserire un nuovo ceppo nel database.
 
 La prima tappa cnsiste nella scelta della specie.
 
-.. image:: select_specie.png
+.. image:: images/select_specie.png
     :alt: seleziona una specie
     :width: 80%
 
@@ -25,7 +25,7 @@ Compilare i campi
 
 I campi con lo sfondo grigio (anche segnati come "read only") non sono modificabili.
 
-.. image:: campi_read_only.png
+.. image:: images/campi_read_only.png
     :alt: seleziona una specie
     :width: 80%
 
@@ -47,7 +47,7 @@ Questa opzione permette di gestire le specie presenti nel database e di inserire
 
 L'elenco della specie presenti nel database si presenta come segue:
 
-.. image:: elenco_specie.png
+.. image:: images/elenco_specie.png
     :alt: seleziona una specie
     :width: 80%
 
@@ -78,7 +78,7 @@ Per cancellare una specie premere il pulsante **view** in corrispondenza delle s
 Quando le informazioni sulla specie compaiono premere il pulsante **Delete species** e dare conferma.
 Il privileggio **Administrator** è richiesto.
 
-.. image:: delete_species.png
+.. image:: images/delete_species.png
     :alt: cancellare una specie
     :width: 80%
 
@@ -159,7 +159,7 @@ Questa funzione permette di accedere all'elenco dei ceppi cancellati e di ripris
 Il privileggio **Administrator** è richiesto.
 
 
-.. image:: deleted_strains.png
+.. image:: images/deleted_strains.png
     :alt: cancellare un ceppo
     :width: 80%
 
@@ -174,7 +174,7 @@ Questa funzione permette di accedere all'elenco delle specie cancellate e di rip
 Il privileggio **Administrator** è richiesto.
 
 
-.. image:: deleted_strains.png
+.. image:: images/deleted_strains.png
     :alt: cancellare una specie
     :width: 80%
 

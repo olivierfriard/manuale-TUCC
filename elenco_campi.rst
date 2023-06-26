@@ -636,21 +636,21 @@ Indicare il mezzo colturale raccomandato per la crescita del ceppo
 
 L'immissione del o dei terreni di coltura può essere eseguita cercando il terreno di coltura per acronimo o parte della descrizione nel quadro giallo:
 
-.. image:: growth_media_helper1.png
+.. image:: images/growth_media_helper1.png
     :alt: Growth media helper
     :width: 17cm
 
 
 * digitare l'acronimo del terreno (ad esempio MEA) nel campo **Search growth media by acronym or description**
 
-.. image:: growth_media_helper2.png
+.. image:: images/growth_media_helper2.png
     :alt: Growth media helper 2
     :width: 17cm
 
 
 * Premere il bottone **Add** corrispondente al terreno desiderato
 
-.. image:: growth_media_helper3.png
+.. image:: images/growth_media_helper3.png
     :alt: Growth media helper 3
     :width: 17cm
 
@@ -658,7 +658,7 @@ L'immissione del o dei terreni di coltura può essere eseguita cercando il terre
 * reiterare eventualmente la ricerca per un altro terreno
 * Alla fine della ricerca copiare il contenuto del campo **Helper for Growth condition medium** nel campo **Growth condition medium**
   
-.. image:: growth_media_helper4.png
+.. image:: images/growth_media_helper4.png
     :alt: Growth media helper 4
     :width: 17cm
 

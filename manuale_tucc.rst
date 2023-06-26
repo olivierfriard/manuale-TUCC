@@ -37,7 +37,7 @@ Al momento la TUCC contiene 7 collezioni:
 Quando una collezione è selezionata la pagina **Home** della collezione è visualizzata.
 
 
-.. image:: collection_home.png
+.. image:: images/collection_home.png
     :alt: Pagina Home della collezione MUT
     :width: 16cm
 
@@ -75,7 +75,7 @@ I risultati sono presentati in una tabella dove il codice d'accesso è costituit
 Browse strains
 =========================
 
-.. image:: browse_strains.png
+.. image:: images/browse_strains.png
     :alt: Browse strains
     :width: 16cm
 

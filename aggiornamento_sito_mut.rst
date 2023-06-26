@@ -22,7 +22,7 @@ Modifica / aggiunta del contenuto sul repository GitHub
 
 La pagina ha l'aspetto seguente, la parte centrale presenta un elenco di file.
 
-.. image:: repository_github1.png
+.. image:: images/repository_github1.png
     :alt: home page del repository github
     :width: 70%
 
@@ -30,7 +30,7 @@ La pagina ha l'aspetto seguente, la parte centrale presenta un elenco di file.
 * Aprire la cartella **content** cliccando sopra
 
 
-.. image:: repository_github2.png
+.. image:: images/repository_github2.png
     :alt: repository github contenuto cartella content
     :width: 70%
 
@@ -41,7 +41,7 @@ La pagina ha l'aspetto seguente, la parte centrale presenta un elenco di file.
 La cartella **pages** presenta un elenco di file con l'estensione **.rst**.
 Questi file sono file di testo e possono essere editati direttamente on-line.
 
-.. image:: repository_github3.png
+.. image:: images/repository_github3.png
     :alt: repository github contenuto cartella pages
     :width: 70%
 
@@ -52,14 +52,14 @@ Edizione di un file .rst (sito web versione inglese)
 * Cliccare il sul file **.rst** desiderato. Nel esempio seguente il file **contacts.rst** verrà utilizzato.
 
 
-.. image:: repository_github4.png
+.. image:: images/repository_github4.png
     :alt: contenuto file contacts.rst
     :width: 70%
 
 
 * Cliccare sul pulsante **Penna**
 
-.. image:: repository_github5.png
+.. image:: images/repository_github5.png
     :alt: pulsante penna
     :width: 40%
 
@@ -67,7 +67,7 @@ Edizione di un file .rst (sito web versione inglese)
 La schermata presenta un editore che permette di modificare il file aperto (nel esempio seguente **contacts.rst**)
 
 
-.. image:: repository_github6.png
+.. image:: images/repository_github6.png
     :alt: editore github
     :width: 90%
 
@@ -88,7 +88,7 @@ Per più informazione consultare per esempio il sito  `https://learnxinyminutes.
 
 * Per salvare le modifiche premere il pulsante verde **Commit changes** in fondo alla pagina.
 
-.. image:: repository_github7.png
+.. image:: images/repository_github7.png
     :alt: commit changes
     :width: 90%
 
@@ -96,7 +96,7 @@ Per più informazione consultare per esempio il sito  `https://learnxinyminutes.
 * Per ritornare alla pagina iniziale con l'elenco dei file premere il link **pages**
 
 
-.. image:: repository_github8.png
+.. image:: images/repository_github8.png
     :alt: link pages
     :width: 75%
 
@@ -108,7 +108,7 @@ Per l'edizione delle pagine del sito web in italiano procedere come sopra modifi
 **mut_site** / **content** / **pages** / **it**
 
 
-.. image:: repository_github_it.png
+.. image:: images/repository_github_it.png
     :alt: repository github in italiano
     :width: 70%
 
@@ -122,14 +122,14 @@ Inserire una immagine
 
 * Aprire la cartella **mut_site** / **content** / **images**
 
-.. image:: repository_github9.png
+.. image:: images/repository_github9.png
     :alt: catella images
     :width: 70%
 
 * Aprire la cartella corrispondente alla pagina desiderata. Ad esempio la cartella **contacts**
 
 
-.. image:: repository_github10.png
+.. image:: images/repository_github10.png
     :alt: cartella images/contacts
     :width: 70%
 
@@ -139,7 +139,7 @@ In questa cartella è presente una sola immagine **esterno.png**
 * Aggiungere una nuova immagine cliccando sul pulsante **Add file > Upload files**
 
 
-.. image:: repository_github11.png
+.. image:: images/repository_github11.png
     :alt: add files
     :width: 40%
 
@@ -150,7 +150,7 @@ In questa cartella è presente una sola immagine **esterno.png**
 
 Il nuovo file compare nell'elenco dei file:
 
-.. image:: repository_github12.png
+.. image:: images/repository_github12.png
     :alt: nuova immagine
     :width: 70%
 
@@ -158,7 +158,7 @@ Il nuovo file compare nell'elenco dei file:
 * Per aggiungere l'immagine sulla pagina ritornare all'edizione del file **contacts.rst** (vedere il capitolo **Edizione di un file .rst**):
 
 
-.. image:: repository_github6.png
+.. image:: images/repository_github6.png
     :alt: contenuto file contacts.rst
     :width: 70%
 
@@ -181,7 +181,7 @@ dove:
 * **vista dell'ortobotanico** è la descrizione dell'immagine per l'accessibilità
 
 
-.. image:: repository_github13.png
+.. image:: images/repository_github13.png
     :alt: contenuto file contacts.rst
     :width: 70%
 
@@ -202,13 +202,13 @@ Generazione del sito di test (DEV)
 * Menù **Admin** > **Update DEV MUT site**
 
 
-.. image:: repository_github14.png
+.. image:: images/repository_github14.png
     :alt: generazione sito di test
     :width: 50%
 
 Se il sito è stato correttamente generato comparirà un messaggio con sfondo **verde**:
 
-.. image:: repository_github15.png
+.. image:: images/repository_github15.png
     :alt: dev web site updated!
     :width: 70%
 
