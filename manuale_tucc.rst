@@ -1,5 +1,5 @@
 ============================================
-Guida all'uso del database TUCC
+Guida all'uso del servizio TUCC database
 ============================================
 
 .. sections levels: = - ~ . _
@@ -8,7 +8,7 @@ Guida all'uso del database TUCC
 Data rilascio: _DATE_
 
 
-Questo documento è la guida all'uso per il servizio TUCC database:
+Il servizio TUCC database è disponibile all'indirizzo:
 
 `www.tucc-database.unito.it <https://www.tucc-database.unito.it/>`_
 
@@ -65,9 +65,6 @@ La ricerca può essere eseguita specificando il nome del campo oppure su tutti i
 I risultati sono presentati in una tabella dove il codice d'accesso è costituito da un link alla scheda ceppo.
 
 
-
-`Menù admin`_
-=========================
 
 
 .. _Browse strains:
@@ -127,7 +124,7 @@ Scheda ceppo
 
 .. _super tools:
 
-Pagina Super tools
+Super tools
 =========================
 
 .. include:: super_tools.rst

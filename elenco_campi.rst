@@ -648,7 +648,7 @@ L'immissione del o dei terreni di coltura può essere eseguita cercando il terre
     :width: 17cm
 
 
-* Premere il bottone **Add** corrispondente al terreno desiderato
+* Premere il pulsante **Add** corrispondente al terreno desiderato
 
 .. image:: images/growth_media_helper3.png
     :alt: Growth media helper 3
@@ -663,7 +663,7 @@ L'immissione del o dei terreni di coltura può essere eseguita cercando il terre
     :width: 17cm
 
 
-Il campo **Helper for Growth condition medium** può essere resettato con il bottone **Reset growth media**
+Il campo **Helper for Growth condition medium** può essere resettato con il pulsante **Reset growth media**
 
 
 

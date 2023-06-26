@@ -24,13 +24,13 @@ Esempio di campi visualizzati. Vengono visualizzati i campi anche se non conteng
 Varie funzioni sono accessibili dalla scheda ceppo:
 
 
-Edit
+Pulsante Edit
 ---------------------------------
 
 Funzione per editare i campi della scheda ceppo. Richiede un livello di privilegi adeguato.
 
 
-Manage sequences
+Pulsante Sequences
 ---------------------------------
 
 Questa funzione permette di aggiungere, modificare o rimuovere le sequenze nucleotidiche relative al ceppo.
@@ -64,8 +64,13 @@ Nel campo **Nucleotide sequence** solo nucleotidi sono accettati. Vedere il `cod
 Salvare la sequenza premendo il pulsante **Submit sequence**
 
 
+Pulsante genomes
+---------------------------------
 
-Manage attached documents
+Questa funzione permette di aggiungere, modificare o rimuovere i genomi relativi al ceppo.
+
+
+Pulsante Attached documents
 ---------------------------------
 
 Questa funzione permette di allegare documenti al ceppo.
@@ -77,14 +82,15 @@ Utilizzare il pulsante **Browse** per scegliere il documento e quindi premere **
 
 
 
-Manage strain literature
+Pulsante Literature
 ---------------------------------
 
+Strain literature
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-
-Manage strain literature linked to sequence
---------------------------------------------------
+Literature linked to sequence
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
