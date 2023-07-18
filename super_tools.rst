@@ -7,7 +7,7 @@ Il privileggio **Administrator** o **Advanced user** è richiesto.
 
 .. image:: images/super_tools.png
     :alt: pagina super tools
-    :width: 50%
+    :width: 16cm
 
 
 Statistics
@@ -34,7 +34,7 @@ Questa funzione presenta una tabella contenente tutti i campi della record ceppo
 
 .. image:: images/fields_indexes.png
     :alt: Indici dei campi
-    :width: 100%
+    :width: 16cm
 
 
 

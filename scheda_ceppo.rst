@@ -25,13 +25,15 @@ Esempio di campi visualizzati. Vengono visualizzati i campi anche se non conteng
 Varie funzioni sono accessibili dalla scheda ceppo:
 
 
-Pulsante Edit
+Edit
 ---------------------------------
 
 Funzione per editare i campi della scheda ceppo. Richiede un livello di privilegi adeguato.
 
+.. _Sequences:
 
-Pulsante Sequences
+
+Sequences
 ---------------------------------
 
 Questa funzione permette di aggiungere, modificare o rimuovere le sequenze nucleotidiche relative al ceppo.
@@ -65,17 +67,21 @@ Nel campo **Nucleotide sequence** solo nucleotidi sono accettati. Vedere il `cod
 Salvare la sequenza premendo il pulsante **Submit sequence**
 
 
-Pulsante genomes
+.. _Genomes:
+
+Genomes
 ---------------------------------
 
 Questa funzione permette di aggiungere, modificare o rimuovere i genomi relativi al ceppo.
 
+.. _Documents:
 
-Pulsante Attached documents
+
+Attached documents
 ---------------------------------
 
 Questa funzione permette di allegare documenti al ceppo.
-Alcuni tipi di documento sono definiti (**PIC**, **MTA**, **MAA**, **MIRRI ABS related file**, **MIRRI MTA file**)
+Alcuni tipi di documento sono definiti (**PIC**, **MTA**, **MAA**, **MIRRI ABS related file**, **MIRRI MTA file**, **MALDI**)
 Per caricare un documento di tipo non predefinito scegliere **Other** il sistema richiederà il tipo di documento allegato **Other document type**.
 
 Utilizzare il pulsante **Browse** per scegliere il documento e quindi premere **Upload file** per salvarlo.
@@ -83,6 +89,8 @@ Utilizzare il pulsante **Browse** per scegliere il documento e quindi premere **
 
 Pulsante Distribution
 ---------------------------------
+
+.. _Literature:
 
 Pulsante Literature
 ---------------------------------
