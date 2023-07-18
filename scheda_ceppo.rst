@@ -10,7 +10,8 @@ Exempio di scheda ceppo:
     :alt: scheda ceppo
     :width: 100%
 
-Di default le sezioni di campi **GENERAL INFORMATION**, **SECURITY INFORMATION**, **ECO-PHYSIOLOGICAL PROPERTIES** e **MIRRI** sono ripiegate.
+Di default le sezioni di campi **GENERAL INFORMATION**, **SECURITY INFORMATION**, 
+**ECO-PHYSIOLOGICAL PROPERTIES**, **MIRRI**, **SEQUENCES**, **LITERATURE** e **INTERNAL USER** sono ripiegate.
 Un click sul nome della categoria permette di aprirela o ripiegarla. Un click su **Open/Close all sections** permette di aprire o ripiegare tutte le sezioni.
 
 Esempio di campi visualizzati. Vengono visualizzati i campi anche se non contengono valori
@@ -80,7 +81,8 @@ Per caricare un documento di tipo non predefinito scegliere **Other** il sistema
 Utilizzare il pulsante **Browse** per scegliere il documento e quindi premere **Upload file** per salvarlo.
 
 
-
+Pulsante Distribution
+---------------------------------
 
 Pulsante Literature
 ---------------------------------

@@ -46,7 +46,7 @@ Un secondo menù (con sfondo chiaro) è visualizzato sotto il menù principale.
 Questo menù permette di accedere alle funzioni relative alla collezione selezionata:
 
 * `Browse strains`_
-* Browse species
+* `Browse species`_`
 * Search
 * Administration tools
 * Internal use
@@ -58,9 +58,14 @@ Menù Search
 =========================
 
 
-Questa funzione permette di ricercare dei ceppi in tutte le 7 collezioni della TUCC.
+Questa funzione permette di ricercare ceppi in tutte le collezioni della TUCC.
 
 La ricerca può essere eseguita specificando il nome del campo oppure su tutti i campi (*All fields*).
+
+.. image:: images/search1.png
+    :alt: Search interface
+    :width: 16cm
+
 
 I risultati sono presentati in una tabella dove il codice d'accesso è costituito da un link alla scheda ceppo.
 
@@ -71,6 +76,9 @@ I risultati sono presentati in una tabella dove il codice d'accesso è costituit
 
 Browse strains
 =========================
+
+Questa funzione presenta un elenco di tutti i ceppi presenti nella collezione selezionata.
+
 
 .. image:: images/browse_strains.png
     :alt: Browse strains
@@ -86,14 +94,19 @@ The strains of the selected collection are displayed in a table with 4 columns:
 A strain can be displayed by clicking on its **Accession number**
 
 
+.. _Browse species:
+
 Browse species
 =========================
 
 
+Questa funzione presenta un elenco di tutti le specie presenti nella collezione selezionata.
 
-Search
-==================
+.. image:: images/species_list.png
+    :alt: Browse species
+    :width: 16cm
 
+La colonna **Number of strains** indica il numero di ceppi di questa specie presenti nella collezione.
 
 
 
@@ -121,6 +134,12 @@ Scheda ceppo
 
 .. include:: scheda_ceppo.rst
 
+
+Richiesta di deposito
+===============================
+
+
+.. include:: deposit_request.rst
 
 .. _super tools:
 

@@ -174,6 +174,7 @@ Il nuovo file compare nell'elenco dei file:
 dove:
 
 
+
 * **nuova_immagine.png** è il nome del file contenente l'immagine
 
 * **center** è la posizione dell'immagine nella pagina (i valori permessi sono: left, center, right)
