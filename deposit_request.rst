@@ -1,5 +1,5 @@
 
-> Selezionare la collezione e clickare sul menù **Deposit a strain**
+> Selezionare la collezione e cliccare sul menù **Deposit a strain**
 
 
 .. image:: images/deposit_request.png
@@ -10,6 +10,7 @@
 Scelta del tipo di deposito
 ---------------------------------
 
+Scegliere tra le 3 opzioni proposte
 
 
 Selezione della specie
@@ -23,6 +24,18 @@ Quindi selezionare la specie corretta cliccando sul pulsante blu
     :alt: Ricerca specie
     :width: 12cm
 
+
+Se la specie **non fosse disponibile** nell'elenco dovrà essere creata seguendo la procedura:
+
+* Menù **Create a new species**
+
+* Inserire le informazioni nei vari campi
+
+* Premere il pulsante **Save**
+
+La specie creata sarà aggiunta alle specie in quarantena e risulterà selezionabile per la richiesta di deposito.
+
+
 Compilazione dei campi
 ---------------------------------
 
@@ -34,13 +47,22 @@ Compilazione dei campi
 
 Compilare i campi. I campi contrasegnati con una stellina rossa sono obbligatori
 
-Al termine premere il pulsante **Submit**
-Verrà visualizzata la schermata seguente confermando la richiesta di deposito.
+Al termine premere il pulsante **Submit** (a destra in basso).
+
+Verrà visualizzata la schermata di conferma della richiesta di deposito.
 
 
 .. image:: images/deposit_request4.png
     :alt: Conferma richiesta di deposito
     :width: 12cm
+
+2 documenti precompilati possono essere scaricati:
+
+* Accession form
+
+* Material Acquisition Agreement (MAA)
+
+
 
 
 L'elenco di tutte le richieste di deposito è disponibile cliccando sul menù **My deposit request(s)**

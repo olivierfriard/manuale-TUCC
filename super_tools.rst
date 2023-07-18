@@ -7,7 +7,7 @@ Il privileggio **Administrator** o **Advanced user** è richiesto.
 
 .. image:: images/super_tools.png
     :alt: pagina super tools
-    :width: 16cm
+    :width: 10cm
 
 
 Statistics
@@ -85,3 +85,22 @@ Per accedere a un ceppo particolare cambiare la URL e immettere il codice d'acce
 .. image:: images/url_ceppo.png
     :alt: URL della scheda ceppo compatta
     :width: 60%
+
+
+
+
+Sequences
+----------------------------------------------------------------------------------
+
+
+Export sequences with nucleotides in FASTA format
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Consente di esportare tutte le sequenze con nucleotidi in formato FASTA
+
+
+List of sequences without nucleotides
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+COnsente di visualizzare le sequenze senza nucleotidi con relativo **codice d'accesso Genbank** e descrizione della sequenza deppositata nel database Genbank.
+
